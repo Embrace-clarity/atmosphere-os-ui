@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0164CD3E-D816-4473-AB4A-AF0FAB51E21F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 448,
+    "width": 308,
+    "x": 16,
+    "y": 16
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Card / Grey",
+  "nameIsFixed": false,
+  "overrides": {
+    "0D64BB0B-C775-4C37-8D7E-DEF99000D516": "Sweet! It’s all paid now. I’ve sent Ana a confirmation email and also forwarded the invoice to your accountants.",
+    "964F2C5E-4493-4483-91FE-CD7B8EF0D300": {
+      "CCF106C2-9A0F-44AC-BD94-0EC40BE849BC": " ",
+      "F4943ECF-E0CE-4964-BD50-FF33CD6A019C": "Nice"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0BEB8B63-F962-4EAB-A324-1A52D3A0A394",
+  "verticalSpacing": 0
+}

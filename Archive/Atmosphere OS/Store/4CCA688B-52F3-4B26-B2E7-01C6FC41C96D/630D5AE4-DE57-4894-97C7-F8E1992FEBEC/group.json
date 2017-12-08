@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "630D5AE4-DE57-4894-97C7-F8E1992FEBEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 308,
+    "x": 16,
+    "y": 320
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98A1E8B1-D654-45E8-88BB-7385F256096C"
+    },
+    {
+      "class": "text",
+      "id": "1A02007C-BF64-4002-BA8B-710D972225BC"
+    },
+    {
+      "class": "text",
+      "id": "6C77530A-F337-43A3-A484-702C64FB7886"
+    }
+  ],
+  "name": "Monzo Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

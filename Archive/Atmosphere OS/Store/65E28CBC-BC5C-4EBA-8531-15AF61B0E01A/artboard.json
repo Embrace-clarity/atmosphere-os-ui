@@ -1,0 +1,139 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "do_objectID": "65E28CBC-BC5C-4EBA-8531-15AF61B0E01A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 700,
+    "width": 340,
+    "x": -828,
+    "y": 37
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9BBBE4B5-2A30-4271-B3D6-0DD750DD33F1"
+    },
+    {
+      "class": "text",
+      "id": "65A6C2D9-1054-4215-B28C-779812D1181D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FFAFACD-B353-4FAF-A769-C90A2F414DE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC3142AB-8EC6-4D8A-8B79-1E6B38D1A5EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3543121-6BB5-40D1-A9D0-788663D1A0E4"
+    },
+    {
+      "class": "group",
+      "id": "01942573-9C16-4318-B8BF-622AC9351CE0"
+    },
+    {
+      "class": "text",
+      "id": "E7BE6F10-A5B2-4A52-9945-146EDEBF041F"
+    },
+    {
+      "class": "text",
+      "id": "32E46D86-426F-4C3D-9A1C-E35F10BBD817"
+    },
+    {
+      "class": "text",
+      "id": "2CF5423D-4059-413B-AC84-0804806C6F34"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 72,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 8,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 320
+  },
+  "name": "Store / Listing",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "included": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

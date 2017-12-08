@@ -1,0 +1,126 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.407843137254902,
+        "green": 0.407843137254902,
+        "red": 0.407843137254902
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "EC04A4AA-4C02-414A-8B58-78F00D3EFCE8",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "47.1",
+    "build": 45422,
+    "commit": "d5cff89adfb6ffc45ca7b7d58d65cada3f63f39a",
+    "version": 95
+  },
+  "pages": [
+    "System",
+    "Communication",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.abstractapp.sketchplugin.1685a5c9-5230-4d37-963c-5efa0f361065": {
+      "metadata": {
+        "baseSHA": "HEAD/e11b6330a2418a3404be2a701adf94a33bb61850",
+        "branchId": "1cc5bc90-569b-11e7-96a7-7d65139bab87",
+        "branchName": "Edits",
+        "fileId": "EC04A4AA-4C02-414A-8B58-78F00D3EFCE8",
+        "fileTreeSHA": "0a04c7bebec1114a86dd19988767a7a22cd6c0ec",
+        "name": "Clarity OS",
+        "projectId": "7ad54900-569a-11e7-936e-7d99c092020e",
+        "projectName": "Clarity",
+        "savePath": "/Users/dimotrifonov/Library/Application Support/Abstract/repos/7ad54900-569a-11e7-936e-7d99c092020e/EC04A4AA-4C02-414A-8B58-78F00D3EFCE8.abstract"
+      }
+    },
+    "com.lingoapp.lingo": {
+      "first_version": 89,
+      "min_version": 84,
+      "version": 89
+    },
+    "com.sketchfocus": {
+      "items": {
+        "notes": [
+          {
+            "author": "Dimo Trifonov",
+            "completed": 0,
+            "createdAt": "2016-12-30T12:50:38.837Z",
+            "desc": "",
+            "files": [
+            ],
+            "id": 0,
+            "important": 0,
+            "layers": [
+              "5BCD87D5-1D71-4C7E-817D-256969B9CCD0"
+            ],
+            "title": "Delete, Edit, Share",
+            "type": "note"
+          }
+        ],
+        "tasks": {
+          "completed": [
+            {
+              "author": "Dimo Trifonov",
+              "completed": 1,
+              "createdAt": "2016-12-30T12:13:20.672Z",
+              "desc": "",
+              "files": [
+              ],
+              "id": 1,
+              "important": 0,
+              "layers": [
+                "611BC7FE-BDC7-42C0-BD51-FDE61BD434F7"
+              ],
+              "title": "Add an edit screen",
+              "type": "task"
+            }
+          ],
+          "todo": [
+            {
+              "author": "Dimo Trifonov",
+              "completed": 0,
+              "createdAt": "2016-12-30T00:02:19.711Z",
+              "desc": "",
+              "files": [
+              ],
+              "id": 0,
+              "important": 0,
+              "layers": [
+                "C7626B24-D111-4E08-B74D-95E8086A63DD"
+              ],
+              "title": "Glow in read or pulse in white when there is new content or important content",
+              "type": "task"
+            }
+          ]
+        }
+      }
+    },
+    "com.zeroheight.plugin": {
+      "itemsVersions": "{}"
+    }
+  }
+}

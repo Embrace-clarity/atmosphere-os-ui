@@ -1,0 +1,76 @@
+{
+  "_class": "page",
+  "do_objectID": "F7DECDAA-1937-43ED-B911-764F9D9A4B6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -410,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "DDFB52DD-C00D-442B-8637-938504174F44"
+    },
+    {
+      "class": "artboard",
+      "id": "1581F00C-D6B1-4E89-B2A1-6DE3092314D8"
+    },
+    {
+      "class": "artboard",
+      "id": "0968B918-5EFC-4B7D-B939-33B89228EA78"
+    },
+    {
+      "class": "artboard",
+      "id": "5FF886D0-532F-42FE-B8AE-30C50CE2448F"
+    },
+    {
+      "class": "artboard",
+      "id": "AB1D2347-CBFE-4EFE-9F5B-32B7E8920863"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -315,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "334AE448-BC36-4C81-BE82-F4ACB9B36356",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 308,
+    "x": 0,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A2F13ECD-E302-4277-AFD5-E035101C41EA"
+    },
+    {
+      "class": "text",
+      "id": "11C0CC0F-73D6-4B2E-9F20-7442B29E5C60"
+    },
+    {
+      "class": "text",
+      "id": "C1D7D0ED-316F-4FDC-A80D-B398E5C9EE65"
+    }
+  ],
+  "name": "Monzo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

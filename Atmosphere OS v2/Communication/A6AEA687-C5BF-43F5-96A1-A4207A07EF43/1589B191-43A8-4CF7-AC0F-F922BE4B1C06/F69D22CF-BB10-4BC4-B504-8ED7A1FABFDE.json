@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAiIyQlJicoMDM5PUFJSktMTVFVVldfY2dqbFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QKUFyZSB5b3Ugc3RpbGwgY29taW5nIGF0IHRoZSBsYXVuY2ggcGFydHk/0xESChMaIVdOUy5rZXlzWk5TLm9iamVjdHOmFBUWFxgZgASABYAGgAeACIAJphscHR4fHYAKgA6AFoAXgBiAFoAcXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEA9OU1N0cmlrZXRocm91Z2hWTlNLZXJuV05TQ29sb3JbTlNVbmRlcmxpbmXUKQoqKywtLi5aTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIANgAuAC9ISCjEyoIAM0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojY4WE5TT2JqZWN00jQ1OjtfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM6PDhfEBBOU1BhcmFncmFwaFN0eWxl0go+P0BfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AVgA/TERIKQkVIokNEgBCAEaJGR4ASgBOAFF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AyAAAAAAAAXxAPSW50ZXJVSS1SZWd1bGFy0jQ1Tk9fEBNOU011dGFibGVEaWN0aW9uYXJ5o05QOFxOU0RpY3Rpb25hcnnSNDVSU18QEE5TRm9udERlc2NyaXB0b3KiVDhfEBBOU0ZvbnREZXNjcmlwdG9yEAAjAAAAAAAAAADUWFlaCltcXV5VTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjEgMSAxABABgBmAG9JgCmFiVE5TSUQQAYAa0jQ1ZGVcTlNDb2xvclNwYWNlomY4XE5TQ29sb3JTcGFjZdI0NWhpV05TQ29sb3KiaDjSNDVQa6JQONI0NW1uXxASTlNBdHRyaWJ1dGVkU3RyaW5nom84XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XJzVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIALQAuwDDAM4A1QDXANkA2wDdAN8A4QDoAOoA7ADuAPAA8gD0APYBCQErAT0BRAFMAVgBYQFsAXkBhQGHAYkBiwGNAZIBkwGVAZoBpQGuAbYBuQHCAccB4QHlAfgB/QIaAhwCHgIlAigCKgIsAi8CMQIzAjUCSwJhAmoCfAKBApcCmwKoAq0CwALDAtYC2ALhAuoC8AL9AxIDGQMbAx0DHwMkAykDKwMtAzIDPwNCA08DVANcA18DZANnA2wDgQOEA5kDqwOuA7MAAAAAAAACAQAAAAAAAAB0AAAAAAAAAAAAAAAAAAADtQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F69D22CF-BB10-4BC4-B504-8ED7A1FABFDE",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 308,
+    "x": 16,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 3}, {276, 39}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Are you still coming",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A53FD224-77D7-4F55-8EEC-77E0812E0CCA"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
