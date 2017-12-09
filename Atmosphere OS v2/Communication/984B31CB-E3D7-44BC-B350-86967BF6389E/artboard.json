@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 605,
     "width": 340,
-    "x": -444,
-    "y": 32
+    "x": -834,
+    "y": 1742
   },
   "grid": {
     "_class": "simpleGrid",
@@ -65,8 +65,8 @@
       "id": "AC3EB53C-B9F6-4C11-AF8A-B4D3614616E8"
     },
     {
-      "class": "text",
-      "id": "A4EBF5C3-C566-420B-A41D-23F12C074C47"
+      "class": "group",
+      "id": "1F7DECCD-B1C1-493F-B0B6-3768C1852487"
     },
     {
       "class": "group",
@@ -87,6 +87,10 @@
     {
       "class": "symbolInstance",
       "id": "74C5BB3A-4370-4580-9D04-FDF924656A7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB0F73DB-DAAB-4380-A344-2E37A1133336"
     }
   ],
   "layout": {

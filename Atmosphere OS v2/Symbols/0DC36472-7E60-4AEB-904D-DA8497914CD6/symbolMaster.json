@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 42,
+  "changeIdentifier": 76,
   "do_objectID": "0DC36472-7E60-4AEB-904D-DA8497914CD6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 32,
     "width": 340,
     "x": 0,
-    "y": 3453
+    "y": 2545
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -44,8 +44,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "786CD387-B9E4-47EA-A1D5-739E47E10F18"
+      "class": "text",
+      "id": "9C651E91-828E-437C-B00B-3774499A55C1"
     }
   ],
   "name": "System / Header / Hidden",

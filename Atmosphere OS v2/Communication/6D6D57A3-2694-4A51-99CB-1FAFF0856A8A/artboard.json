@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 480,
+    "height": 605,
     "width": 340,
     "x": -834,
     "y": -698
@@ -57,8 +57,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C83E26A9-17EA-4477-AB25-D18BE72D4992"
+      "class": "shapeGroup",
+      "id": "97BAED08-F5AA-447B-B7E9-AB17D117337B"
+    },
+    {
+      "class": "text",
+      "id": "81D1D1C3-62D6-4CF3-BA9A-FACB8464D9D3"
     },
     {
       "class": "shapeGroup",
@@ -101,6 +105,9 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

@@ -40,6 +40,7 @@
   },
   "pages": [
     "System",
+    "Guides",
     "Communication",
     "Symbols"
   ],
@@ -118,6 +119,11 @@
           ]
         }
       }
+    },
+    "com.sketchrunner.Runner": {
+      "ignoredLibraries": [
+        "2D9B6BBB-546D-4BB4-B556-040DEB0D155E"
+      ]
     },
     "com.zeroheight.plugin": {
       "itemsVersions": "{}"

@@ -105,6 +105,9 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

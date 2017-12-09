@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAgISIjJCUpMTIzNDU8QEhMUFNUX2JlaWtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANYVGltZWxpbmXTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHRyACYARgBWAFoAVgBpfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlV05TQ29sb3JfEA9OU1N0cmlrZXRocm91Z2hfEBBOU1BhcmFncmFwaFN0eWxlW05TVW5kZXJsaW5l0gomJyhfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AQgArTERIKKi0woissgAuADKIuL4ANgA6AD18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AyAAAAAAAAXxAPSW50ZXJVSS1SZWd1bGFy0jY3ODlaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjODo7XE5TRGljdGlvbmFyeVhOU09iamVjdNI2Nz0+XxAQTlNGb250RGVzY3JpcHRvcqI/O18QEE5TRm9udERlc2NyaXB0b3LUQUJDCkRFRkdVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjEgMSAxABABgBKAFNJJCkpLVE5TSUQQAYAT0jY3TU5cTlNDb2xvclNwYWNlok87XE5TQ29sb3JTcGFjZdI2N1FSV05TQ29sb3KiUTsQANZVVldYCllaW1xbXlxaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAXI0A4AAAAAAAAgBeAGdISCmBhoIAY0jY3Y2RXTlNBcnJheaJjO9I2N2ZnXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZmg7XxAQTlNQYXJhZ3JhcGhTdHlsZdI2Nzpqojo70jY3bG1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeibjtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcXJUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYAjwCWAJ4AqQCvALEAswC1ALcAuQC/AMEAwwDFAMcAyQDLAO0A9QEHARoBJgErAUgBSgFMAVMBVgFYAVoBXQFfAWEBYwF5AY8BmAGqAa8BugHDAdkB3QHqAfMB+AILAg4CIQIqAjACPQJSAlkCWwJdAl8CZAJpAmsCbQJyAn8CggKPApQCnAKfAqECrgK5AsUC1wLkAvYC+AL6AwMDBQMHAwwDDQMPAxQDHAMfAyQDPgNCA1UDWgNdA2IDdwN6A48DoQOkA6kAAAAAAAACAQAAAAAAAABzAAAAAAAAAAAAAAAAAAADqw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "764FCAF3-1988-4ADA-9B3D-B34DA5354413",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 71,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 5}, {70, 15}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Timeline",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A53FD224-77D7-4F55-8EEC-77E0812E0CCA"
+  },
+  "textBehaviour": 0
+}

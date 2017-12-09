@@ -7,7 +7,7 @@
     "green": 0.1529411822557449,
     "red": 0.1529411822557449
   },
-  "changeIdentifier": 415,
+  "changeIdentifier": 432,
   "do_objectID": "54F23A9E-546B-4B98-AECF-302950030789",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
+    "height": 53,
     "width": 340,
-    "x": 0,
-    "y": 1251
+    "x": 461,
+    "y": 1119
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -46,10 +46,6 @@
     {
       "class": "text",
       "id": "A1B542E5-78CC-42D2-8519-97C5C5B2AFE3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "80B6EE0D-7F23-4F58-8765-29AB018898FC"
     }
   ],
   "name": "Header / Title",

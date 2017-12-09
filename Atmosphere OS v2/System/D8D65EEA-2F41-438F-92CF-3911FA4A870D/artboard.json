@@ -69,12 +69,16 @@
       "id": "78ADEA18-D2E0-40FF-ADF5-2644B7C2D8CC"
     },
     {
-      "class": "shapeGroup",
-      "id": "91EA9E44-FC1A-4601-AF8B-C7E51B671BA5"
+      "class": "text",
+      "id": "A0FA3323-60D4-4D79-8307-4FEDAEF9AD9A"
     },
     {
       "class": "text",
-      "id": "3BB35B86-477F-4AB9-B00B-87C87C4C94C6"
+      "id": "8BC53B83-3399-4091-91B3-E5C9918B495E"
+    },
+    {
+      "class": "text",
+      "id": "2EBC0B31-120B-46F2-85C3-E0B264280BDE"
     },
     {
       "class": "symbolInstance",

@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
+    "height": 53,
     "width": 361,
     "x": 0,
-    "y": 60
+    "y": 62
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,12 +24,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 159,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Header / Horizontal Slide",
   "nameIsFixed": false,
+  "overrides": {
+    "69C3A1CC-08A8-4811-B595-0D83DADD1800": "People"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaGlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PkZJTE9XW19iZFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QEVR5cG9ncmFwaHkgR3VpZGVz0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAZVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IivfIJT9IKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOgAAAAAAAF8QD0ludGVyVUktUmVndWxhctI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y1D8KQEFCQ0REWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgACAFIASgBLSEgpHSKCAE9I0NUpLV05TQXJyYXmiSjnSNDVNTl8QEE5TUGFyYWdyYXBoU3R5bGWiTTnUUFFSClNUVVZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjEgMSAxABABgBaAGNJYCllaVE5TSUQQAYAX0jQ1XF1cTlNDb2xvclNwYWNlol45XE5TQ29sb3JTcGFjZdI0NWBhV05TQ29sb3KiYDnSNDU4Y6I4OdI0NWVmXxASTlNBdHRyaWJ1dGVkU3RyaW5nomc5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WprVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAJkAoACoALMAuAC6ALwAvgDAAMUAxwDJAMsAzQDPANYA+AELARMBGAEdAToBPAE+AUUBSAFKAUwBTwFRAVMBVQFrAYEBigGcAaEBrAG1AcsBzwHcAeUB6gH9AgACEwIcAicCNAJAAkICRAJGAkgCTQJOAlACVQJdAmACZQJ4AnsChAKKApcCrAKzArUCtwK5Ar4CwwLFAscCzALZAtwC6QLuAvYC+QL+AwEDBgMbAx4DMwNFA0gDTQAAAAAAAAIBAAAAAAAAAGwAAAAAAAAAAAAAAAAAAANP"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D0736E7E-0649-42F4-BFD8-55979F9A91B4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 31,
+    "width": 234,
+    "x": 32,
+    "y": 23
+  },
+  "glyphBounds": "{{1, 5}, {231, 26}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Typography Guides",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B23112C5-0E97-4EFE-B5C7-2379EE0595AC"
+  },
+  "textBehaviour": 0
+}

@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0,
-    "green": 0,
-    "red": 0
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
-  "changeIdentifier": 22,
+  "changeIdentifier": 63,
   "do_objectID": "8D788F29-1A22-4BEE-B3E0-E2AF8943F6B2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 16,
     "width": 16,
     "x": 0,
-    "y": 2205
+    "y": 1838
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
       "id": "7A93AA8D-754F-42C9-9439-2CFF590B3995"
     }
   ],
-  "name": "Icons / 16 / White / More",
+  "name": "Icons / 16 / Dark / More",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -80,6 +80,11 @@
     "startDecorationType": 0
   },
   "symbolID": "1DF11B7A-6689-4B9A-A117-B43FC4E40796",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

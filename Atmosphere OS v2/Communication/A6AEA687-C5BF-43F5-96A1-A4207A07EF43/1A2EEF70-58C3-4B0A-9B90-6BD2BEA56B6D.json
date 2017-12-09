@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1A2EEF70-58C3-4B0A-9B90-6BD2BEA56B6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 293,
+    "width": 308,
+    "x": 16,
+    "y": 131
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Feed / Text",
+  "nameIsFixed": false,
+  "overrides": {
+    "017E2ED6-DB21-4DBE-876F-A89D79B32354": "@neauoire",
+    "ABAFC1EE-7D85-42CE-902F-691077D21E12": {
+    },
+    "F69D22CF-BB10-4BC4-B504-8ED7A1FABFDE": "I've been reading on how Wikipedia is struggling but how great would it be if everyone could choose to seed part of the encyclopedia. It could be the killer app for dat://. I've been drafting a little plan of how it could be done. It would be so much simplier if Wikipedia was versioned with something like git, and changes were commits."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D339E3EF-D457-425D-A65A-1C657A6186C9",
+  "verticalSpacing": 0
+}

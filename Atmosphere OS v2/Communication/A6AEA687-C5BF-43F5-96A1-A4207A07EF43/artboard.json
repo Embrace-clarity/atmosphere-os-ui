@@ -17,7 +17,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -69,16 +69,20 @@
       "id": "770064B1-5592-420B-8FC8-5174A448B875"
     },
     {
-      "class": "group",
-      "id": "1589B191-43A8-4CF7-AC0F-F922BE4B1C06"
+      "class": "symbolInstance",
+      "id": "1A2EEF70-58C3-4B0A-9B90-6BD2BEA56B6D"
     },
     {
-      "class": "group",
-      "id": "FAAC66AD-DC61-425C-9198-FD86C6F92B2E"
+      "class": "symbolInstance",
+      "id": "8E9B5891-6D03-408D-9CF7-2F13119A9C65"
     },
     {
       "class": "symbolInstance",
       "id": "29FF6CC4-9AB0-4A3A-9406-DC0BCBA6F59A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B5C86D4-9567-4CAF-9F46-0522E4A367B3"
     }
   ],
   "layout": {
