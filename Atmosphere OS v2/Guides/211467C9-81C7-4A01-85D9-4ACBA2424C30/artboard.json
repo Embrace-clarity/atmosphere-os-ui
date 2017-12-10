@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 650,
+    "height": 860.2830500324898,
     "width": 600,
     "x": -220,
     "y": -259
@@ -66,8 +66,8 @@
       "id": "D0736E7E-0649-42F4-BFD8-55979F9A91B4"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Typography",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

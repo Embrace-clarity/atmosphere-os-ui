@@ -16,7 +16,7 @@
     "height": 116,
     "width": 308,
     "x": 16,
-    "y": 378
+    "y": 407
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Feed / Payment",
   "nameIsFixed": false,
   "resizingConstraint": 63,

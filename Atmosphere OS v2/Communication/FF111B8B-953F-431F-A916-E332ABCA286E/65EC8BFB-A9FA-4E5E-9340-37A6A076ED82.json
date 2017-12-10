@@ -16,7 +16,7 @@
     "height": 287,
     "width": 308,
     "x": 16,
-    "y": 526
+    "y": 555
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Feed / Text",
   "nameIsFixed": false,
   "overrides": {

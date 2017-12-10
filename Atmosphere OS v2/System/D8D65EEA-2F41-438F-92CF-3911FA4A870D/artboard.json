@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 435,
+    "x": 415,
     "y": -577
   },
   "grid": {
@@ -100,8 +100,8 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Main navigation",
-  "nameIsFixed": false,
+  "name": "Nav / Main",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
