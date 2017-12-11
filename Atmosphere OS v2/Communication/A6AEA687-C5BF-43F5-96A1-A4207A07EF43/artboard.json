@@ -17,7 +17,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -29,10 +29,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 605,
+    "height": 480,
     "width": 340,
     "x": -834,
-    "y": 32
+    "y": 157
   },
   "grid": {
     "_class": "simpleGrid",
@@ -83,6 +83,10 @@
     {
       "class": "symbolInstance",
       "id": "3B5C86D4-9567-4CAF-9F46-0522E4A367B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0B737B2-A628-4B39-92DF-14FD422EAD1C"
     }
   ],
   "layout": {
@@ -102,7 +106,7 @@
   },
   "name": "Communication / New",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 154,
+    "width": 308,
     "x": 0,
-    "y": -1
+    "y": -3.130828929442941e-14
   },
   "glyphBounds": "{{0, 3}, {52, 14}}",
   "heightIsClipped": false,
@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "@denull",
   "nameIsFixed": false,
-  "resizingConstraint": 27,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

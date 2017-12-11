@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.1490196138620377,
-    "green": 0.1529411822557449,
-    "red": 0.1529411822557449
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
-  "changeIdentifier": 615,
+  "changeIdentifier": 705,
   "do_objectID": "4E14B099-CB1D-4963-913B-01E1D17D7A8A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,9 +21,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 91,
+    "height": 106,
     "width": 308,
-    "x": 408,
+    "x": 816,
     "y": 645
   },
   "hasBackgroundColor": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",

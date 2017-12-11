@@ -16,7 +16,7 @@
     "height": 293,
     "width": 308,
     "x": 16,
-    "y": 131
+    "y": 249
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Feed / Text",
@@ -36,7 +36,7 @@
     },
     "F69D22CF-BB10-4BC4-B504-8ED7A1FABFDE": "I've been reading on how Wikipedia is struggling but how great would it be if everyone could choose to seed part of the encyclopedia. It could be the killer app for dat://. I've been drafting a little plan of how it could be done. It would be so much simplier if Wikipedia was versioned with something like git, and changes were commits."
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

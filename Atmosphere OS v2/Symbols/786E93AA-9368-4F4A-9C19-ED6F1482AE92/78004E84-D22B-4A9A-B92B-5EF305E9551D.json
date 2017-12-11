@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
+    "height": 18,
     "width": 308,
     "x": 0,
-    "y": 100
+    "y": 81
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -34,7 +34,7 @@
     "0B97FB05-B6C4-4403-A572-FBBC0D05A0A8": "12 Confirmations / 20min ago",
     "FDE949AB-139A-44C6-8D2D-AC6EA7A55FF0": " "
   },
-  "resizingConstraint": 39,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

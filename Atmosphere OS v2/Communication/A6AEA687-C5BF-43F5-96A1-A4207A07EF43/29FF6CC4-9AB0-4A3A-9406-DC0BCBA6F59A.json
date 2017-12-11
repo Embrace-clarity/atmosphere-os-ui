@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
+    "height": 30,
     "width": 340,
     "x": 0,
     "y": 30
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "System / Label Header",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

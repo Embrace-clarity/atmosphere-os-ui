@@ -1,0 +1,125 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "changeIdentifier": 11,
+  "do_objectID": "1FA59168-3F33-471B-937B-7809F9C7697D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 480,
+    "width": 340,
+    "x": -834,
+    "y": 1867
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "767B6E01-53A0-45B0-9E9D-858FCC416ACD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC3EB53C-B9F6-4C11-AF8A-B4D3614616E8"
+    },
+    {
+      "class": "group",
+      "id": "1F7DECCD-B1C1-493F-B0B6-3768C1852487"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2803234-8CF3-4E4D-BC3F-CAB108996461"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "707D2FC6-4BE0-4995-AAA7-0D6B56C6124C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3786D9C-CC34-483A-B7D2-6581CE0546A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74C5BB3A-4370-4580-9D04-FDF924656A7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB0F73DB-DAAB-4380-A344-2E37A1133336"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 72,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 8,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 320
+  },
+  "name": "Communication / Chat",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "74782969-935E-4244-887F-95B6B0444004",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

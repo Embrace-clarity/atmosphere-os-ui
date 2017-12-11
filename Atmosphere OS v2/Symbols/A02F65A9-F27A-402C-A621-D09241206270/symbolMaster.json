@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 350,
+  "changeIdentifier": 993,
   "do_objectID": "A02F65A9-F27A-402C-A621-D09241206270",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
+    "height": 30,
     "width": 340,
     "x": 440,
-    "y": 2777
+    "y": 3455
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -41,16 +41,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "0F301BCA-8F5E-43AE-BD68-5A18F1849D5A"
+      "class": "text",
+      "id": "9FD2765B-451D-4C28-B2CE-599EBB1F2369"
     }
   ],
   "name": "System / Label Header",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

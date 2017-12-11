@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
+    "height": 12.69421487603307,
     "width": 340,
     "x": 0,
-    "y": 589
+    "y": 467.3057851239669
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Options / Collapsed",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 55,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

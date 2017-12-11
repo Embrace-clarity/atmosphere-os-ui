@@ -34,11 +34,19 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "70752A9A-D021-459C-8DA6-439521BACA41"
+      "id": "14EEDAD1-FD54-4A9C-A45A-9330EC3F8B04"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F593910B-D686-4923-A1A5-E3A190BCDCFD"
     },
     {
       "class": "artboard",
       "id": "AC79FCC0-D9C2-4146-AA0A-6555ECABC054"
+    },
+    {
+      "class": "artboard",
+      "id": "70752A9A-D021-459C-8DA6-439521BACA41"
     },
     {
       "class": "artboard",
@@ -50,15 +58,15 @@
     },
     {
       "class": "artboard",
-      "id": "224A1224-F0A0-4FC6-8635-0DD919B709F9"
+      "id": "B09821CE-B26D-4022-8C72-FE6E52C46C87"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B37C66D0-C736-46C1-A843-589A470FAE9F"
     },
     {
       "class": "artboard",
-      "id": "D8D65EEA-2F41-438F-92CF-3911FA4A870D"
-    },
-    {
-      "class": "group",
-      "id": "B226FC2A-26AA-4B4B-9C84-0AAAE88029BE"
+      "id": "224A1224-F0A0-4FC6-8635-0DD919B709F9"
     }
   ],
   "name": "System",

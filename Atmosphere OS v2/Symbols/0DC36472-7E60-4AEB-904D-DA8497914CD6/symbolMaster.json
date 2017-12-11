@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 86,
+  "changeIdentifier": 1301,
   "do_objectID": "0DC36472-7E60-4AEB-904D-DA8497914CD6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
+    "height": 30,
     "width": 340,
     "x": 0,
-    "y": 2545
+    "y": 3225
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -41,11 +41,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "text",
-      "id": "9C651E91-828E-437C-B00B-3774499A55C1"
+      "class": "group",
+      "id": "6643947B-E810-44C5-8C35-8AC41193A6E8"
     }
   ],
   "name": "System / Header / Hidden",

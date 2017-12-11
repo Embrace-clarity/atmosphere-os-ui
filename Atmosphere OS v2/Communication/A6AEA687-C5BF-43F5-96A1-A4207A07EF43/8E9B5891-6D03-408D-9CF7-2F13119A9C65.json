@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Feed / Text + Image",
@@ -33,7 +33,7 @@
   "overrides": {
     "01AB6172-DFEB-46AB-8036-B103E65B830D": "Is there a dat://-Wikipedia mirroring project?"
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

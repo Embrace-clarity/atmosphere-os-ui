@@ -29,10 +29,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 605,
+    "height": 480,
     "width": 340,
     "x": -444,
-    "y": 32
+    "y": 157
   },
   "grid": {
     "_class": "simpleGrid",
@@ -56,10 +56,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "1E42D53B-2DD3-4E8F-8905-FDD136C30422"
-    },
     {
       "class": "shapeGroup",
       "id": "6093A57C-E568-411E-9906-5232320EBAD3"
@@ -95,6 +91,10 @@
     {
       "class": "symbolInstance",
       "id": "2240A42C-2D5D-4E0A-89E5-21803A752CC8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BC5C8C6-E1AC-407C-B70C-86EAEF79B370"
     }
   ],
   "layout": {
@@ -114,7 +114,7 @@
   },
   "name": "Communication / Profile",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

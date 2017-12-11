@@ -7,7 +7,7 @@
     "green": 0.1529411822557449,
     "red": 0.1529411822557449
   },
-  "changeIdentifier": 432,
+  "changeIdentifier": 3154,
   "do_objectID": "54F23A9E-546B-4B98-AECF-302950030789",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 53,
+    "height": 52,
     "width": 340,
     "x": 461,
     "y": 1119
@@ -41,16 +41,20 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "text",
-      "id": "A1B542E5-78CC-42D2-8519-97C5C5B2AFE3"
+      "class": "shapeGroup",
+      "id": "455D2288-DE8C-4840-BE6F-23249E9F9E6B"
+    },
+    {
+      "class": "group",
+      "id": "4106DB96-607F-4993-803B-320DF28469A8"
     }
   ],
   "name": "Header / Title",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -16,7 +16,7 @@
     "height": 60,
     "width": 340,
     "x": 0,
-    "y": 545
+    "y": 420
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,12 +25,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Type / Default",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 39,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

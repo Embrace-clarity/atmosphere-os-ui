@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 166,
+  "changeIdentifier": 779,
   "do_objectID": "1BD10C49-5812-47FE-8A42-5634042E6584",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 182,
     "width": 340,
     "x": 0,
-    "y": 2777
+    "y": 3455
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -84,6 +84,9 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

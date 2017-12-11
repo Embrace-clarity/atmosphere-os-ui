@@ -29,10 +29,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 605,
+    "height": 480,
     "width": 340,
     "x": -444,
-    "y": 887
+    "y": 1012
   },
   "grid": {
     "_class": "simpleGrid",
@@ -85,20 +85,12 @@
       "id": "5C465414-62A4-4A07-815E-360A778EA052"
     },
     {
-      "class": "symbolInstance",
-      "id": "813B59FB-A9F0-4A6B-B9DE-9123B653367B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D4494992-9EE0-4649-879F-B23D1535A6DC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D0C40413-F12C-4651-A6B9-A35F6F7675B9"
-    },
-    {
       "class": "group",
       "id": "C9304678-194B-4F97-8B5A-0E66D50867F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9082FC62-4A99-4932-955A-7C26771D48E8"
     }
   ],
   "layout": {

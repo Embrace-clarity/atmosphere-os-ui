@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 605,
+    "height": 480,
     "width": 340,
     "x": -834,
     "y": -698
@@ -65,12 +65,8 @@
       "id": "81D1D1C3-62D6-4CF3-BA9A-FACB8464D9D3"
     },
     {
-      "class": "shapeGroup",
-      "id": "A0E16DD8-60AE-4F29-AE73-2B6E7555818E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "72EE45B0-8237-4AFA-8B01-29AF53132439"
+      "class": "group",
+      "id": "9047FB0C-E22D-4494-BD3A-CCC11F7741AF"
     }
   ],
   "layout": {
@@ -107,7 +103,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 1635,
-    "y": 153
+    "x": 1585,
+    "y": 296
   },
   "grid": {
     "_class": "simpleGrid",

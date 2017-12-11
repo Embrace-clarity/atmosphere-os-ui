@@ -16,7 +16,7 @@
     "height": 53,
     "width": 361,
     "x": 0,
-    "y": 62
+    "y": 60
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,7 +33,7 @@
   "overrides": {
     "69C3A1CC-08A8-4811-B595-0D83DADD1800": "People"
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4,
+    "height": 2,
     "width": 308,
     "x": 0,
-    "y": 77
+    "y": 60.99999999999996
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -36,7 +36,7 @@
   ],
   "name": "Group 2",
   "nameIsFixed": false,
-  "resizingConstraint": 10,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 152,
+    "width": 187,
     "x": 16,
-    "y": 248
+    "y": 128
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -32,6 +32,10 @@
     {
       "class": "text",
       "id": "165ACCB3-6777-46D6-AAA4-1A2222D54057"
+    },
+    {
+      "class": "text",
+      "id": "9F600CE6-5860-419C-8C1B-25263100C58A"
     }
   ],
   "name": "Group 3",
