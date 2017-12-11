@@ -1,4 +1,8 @@
 # Atmosphere OS — Design
+
+![alt text](https://github.com/Embrace-clarity/atmosphere-os-design/blob/master/Assets/Header.png "aos clarity promo")
+
+
 Atmosphere is an operating system free from the cloud. It is fully  decentralized and autonomous.
 - [OS Specifications](https://www.gitbook.com/book/embrace-clarity/os-specifications/details)
 - [UI Guidelines](https://embrace-clarity.gitbooks.io/atmosphere-os-ui-guidelines/content/)
