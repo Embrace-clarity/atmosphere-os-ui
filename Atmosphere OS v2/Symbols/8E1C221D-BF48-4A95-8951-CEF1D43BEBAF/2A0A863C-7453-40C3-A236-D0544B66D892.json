@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGS0xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwmLTE5Ojs8PUFFR1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA18QD1N5c3RlbSAvIEhlYWRlctMREgoTFhlXTlMua2V5c1pOUy5vYmplY3RzohQVgASABaIXGIAGgAiAEF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1h0eHwogISIjJCUiJFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBABgAAjQDgAAAAAAACAB9InKCkqWiRjbGFzc25hbWVYJGNsYXNzZXNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMpKyxfEBBOU1BhcmFncmFwaFN0eWxlWE5TT2JqZWN00gouLzBfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4APgAnTERIKMjU4ojM0gAqAC6I2N4AMgA2ADl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A0AAAAAAAAXC5TRk5TRGlzcGxhedInKD4/XxATTlNNdXRhYmxlRGljdGlvbmFyeaM+QCxcTlNEaWN0aW9uYXJ50icoQkNfEBBOU0ZvbnREZXNjcmlwdG9yokQsXxAQTlNGb250RGVzY3JpcHRvctInKEBGokAs0icoSElfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiSixfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRTU5Ucm9vdIABAAgAEQAaACMALQAyADcATABSAFkAYgBpAHYAeAB6AHwAjgCVAJ0AqACrAK0ArwCyALQAtgC4AMsA7QD6AQYBEQEjAUUBVwFZAVsBZAFmAWsBdgF/AZkBnQGwAbkBvgHbAd0B3wHmAekB6wHtAfAB8gH0AfYCDAIiAisCOAI9AlMCVwJkAmkCfAJ/ApIClwKaAp8CtAK3AswC3gLhAuYAAAAAAAACAQAAAAAAAABPAAAAAAAAAAAAAAAAAAAC6A=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2A0A863C-7453-40C3-A236-D0544B66D892",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 145,
+    "x": 96,
+    "y": 4346
+  },
+  "glyphBounds": "{{0, 5}, {145, 19}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "System / Header",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "BAB532DC-98F3-44AF-949D-BC1B862590D0"
+  },
+  "textBehaviour": 0
+}

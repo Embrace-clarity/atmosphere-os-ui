@@ -30,6 +30,23 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Header / Horizontal Slide",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_stringValue",
+      "value": "Ana Kirova"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1B542E5-78CC-42D2-8519-97C5C5B2AFE3_stringValue",
+      "value": "Ana Kirova"
+    }
+  ],
   "overrides": {
     "69C3A1CC-08A8-4811-B595-0D83DADD1800": " ",
     "A1B542E5-78CC-42D2-8519-97C5C5B2AFE3": "Ana Kirova",
@@ -38,6 +55,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

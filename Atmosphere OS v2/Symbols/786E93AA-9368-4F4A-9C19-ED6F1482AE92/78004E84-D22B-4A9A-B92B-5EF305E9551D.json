@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Feed / Assets / Meta",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0B97FB05-B6C4-4403-A572-FBBC0D05A0A8_stringValue",
+      "value": "12 Confirmations / 20min ago"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FDE949AB-139A-44C6-8D2D-AC6EA7A55FF0_stringValue",
+      "value": " "
+    }
+  ],
   "overrides": {
     "0B97FB05-B6C4-4403-A572-FBBC0D05A0A8": "12 Confirmations / 20min ago",
     "FDE949AB-139A-44C6-8D2D-AC6EA7A55FF0": " "
@@ -37,6 +49,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Header / Horizontal Slide",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue",
+      "value": "People"
+    }
+  ],
   "overrides": {
     "69C3A1CC-08A8-4811-B595-0D83DADD1800": "People"
   },
   "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

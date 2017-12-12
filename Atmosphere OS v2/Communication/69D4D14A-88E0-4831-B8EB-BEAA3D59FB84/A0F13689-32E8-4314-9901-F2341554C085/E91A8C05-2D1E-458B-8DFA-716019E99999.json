@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "List / Active Copy 3",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B7F65826-AD01-4590-A391-CF2BED61B209_stringValue",
+      "value": "Block"
+    }
+  ],
   "overrides": {
     "B7F65826-AD01-4590-A391-CF2BED61B209": "Block"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "8E1C221D-BF48-4A95-8951-CEF1D43BEBAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 4982,
+    "width": 241,
+    "x": -341,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1425E827-6E95-4045-A1ED-F72AB519A25E"
+    },
+    {
+      "class": "text",
+      "id": "9BA5DD00-79FB-4D86-92F8-1BB71DEA6E32"
+    },
+    {
+      "class": "text",
+      "id": "4A96C674-142A-47A1-B6FD-05040C7EC723"
+    },
+    {
+      "class": "text",
+      "id": "DCD8E8D5-C78C-4FA2-AB68-A31A46C7399C"
+    },
+    {
+      "class": "text",
+      "id": "BCCEE3B9-C893-45CA-8C84-CF883B9739BC"
+    },
+    {
+      "class": "text",
+      "id": "53F8179B-7800-488D-9B6D-2A46F1F86B7D"
+    },
+    {
+      "class": "text",
+      "id": "D337C12A-F33F-4681-9244-768E222C5081"
+    },
+    {
+      "class": "text",
+      "id": "1F4AF0ED-6792-452F-B2F4-E9E086D807FE"
+    },
+    {
+      "class": "text",
+      "id": "77622759-7506-42C4-B1E4-42A1AFCCA420"
+    },
+    {
+      "class": "text",
+      "id": "4F317345-D9BF-4FE8-9CEB-E4CFE40A59DD"
+    },
+    {
+      "class": "text",
+      "id": "78AB7FBD-6D66-4CC5-A21A-00E155E05918"
+    },
+    {
+      "class": "text",
+      "id": "F5DC6D6D-DC32-49C6-8477-52CB8E011703"
+    },
+    {
+      "class": "text",
+      "id": "66DFE560-179A-48FE-A58F-9972F94446F8"
+    },
+    {
+      "class": "text",
+      "id": "2A0A863C-7453-40C3-A236-D0544B66D892"
+    },
+    {
+      "class": "text",
+      "id": "C0AF3948-D5A6-4673-942F-2FAB552F10B4"
+    },
+    {
+      "class": "text",
+      "id": "C093C372-B3B0-4BE0-8307-61BC45CEDA6E"
+    }
+  ],
+  "name": "Titles",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

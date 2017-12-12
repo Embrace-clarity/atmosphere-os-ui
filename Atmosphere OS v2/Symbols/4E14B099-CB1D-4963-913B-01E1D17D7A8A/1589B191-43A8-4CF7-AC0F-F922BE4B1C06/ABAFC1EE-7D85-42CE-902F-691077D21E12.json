@@ -30,9 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Feed / Assets / Meta",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 39,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

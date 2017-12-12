@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTc7Q0RFRkdKTllcX2NVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEHVQcmVzcyB0aGUgbG9jayBidXR0b24gdG8gbG9jayB0aGUgZGV2aWNlLiBQbGFjZSB5b3VyIGZpbmdlciBvbiB0aGUgYnV0dG9uIHRvIHVubG9jayB0aGUgZGV2aWNlIHZpYSBmaW5nZXIgcHJpbnQgc2Nhbi7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAD4AXgA5fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnJiaADIANgAyADIAOU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/wAAAAAAAAIz/jMzMzMzMz0jIzNDVaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNDZYTlNPYmplY3TSCjg5Ol8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgo8P0KiPT6AEYASokBBgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABfEA9JbnRlclVJLVJlZ3VsYXLSMjNISV8QE05TTXV0YWJsZURpY3Rpb25hcnmjSDQ20jIzS0xfEBBOU0ZvbnREZXNjcmlwdG9yok02XxAQTlNGb250RGVzY3JpcHRvctZPUFFSClNUVVZVWFZaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAYI0A4AAAAAAAAgBiAGtISClpboIAZ0jIzXV5XTlNBcnJheaJdNtIyM2BhXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjYGI2XxAQTlNQYXJhZ3JhcGhTdHlsZdIyM2RlXxASTlNBdHRyaWJ1dGVkU3RyaW5nomY2XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WlqVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAP4BBQENARgBHAEeASABIgEmASgBKgEsAS4BWwF9AZABlwGcAZ4BoAGiAaQBqQGrAa0BrwGxAbMBtwG9AcIByAHRAdoB3wHqAfMCAAIDAgwCEQIuAjACMgI5AjwCPgJAAkMCRQJHAkkCXwJ1An4CkAKVAqsCrwK0AscCygLdAuoC9QMBAxMDIAMyAzQDNgM/A0EDQwNIA0kDSwNQA1gDWwNgA3oDfgORA5YDqwOuA8MD1QPYA90AAAAAAAACAQAAAAAAAABrAAAAAAAAAAAAAAAAAAAD3w=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "72B6820E-536E-4AAB-8E2B-5FE2A258B51D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 315,
+    "x": 452,
+    "y": 73
+  },
+  "glyphBounds": "{{0, 5}, {311, 90}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Press the lock butto",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "75276402-D3C5-41B1-ABC0-2A430AEE731D"
+  },
+  "textBehaviour": 1
+}

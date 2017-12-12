@@ -30,15 +30,26 @@
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Feed / Text",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F69D22CF-BB10-4BC4-B504-8ED7A1FABFDE_stringValue",
+      "value": "I've been reading on how Wikipedia is struggling but how great would it be if everyone could choose to seed part of the encyclopedia. It could be the killer app for dat://. I've been drafting a little plan of how it could be done. It would be so much simplier if Wikipedia was versioned with something like git, and changes were commits."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "017E2ED6-DB21-4DBE-876F-A89D79B32354_stringValue",
+      "value": "@neauoire"
+    }
+  ],
   "overrides": {
     "017E2ED6-DB21-4DBE-876F-A89D79B32354": "@neauoire",
-    "ABAFC1EE-7D85-42CE-902F-691077D21E12": {
-    },
     "F69D22CF-BB10-4BC4-B504-8ED7A1FABFDE": "I've been reading on how Wikipedia is struggling but how great would it be if everyone could choose to seed part of the encyclopedia. It could be the killer app for dat://. I've been drafting a little plan of how it could be done. It would be so much simplier if Wikipedia was versioned with something like git, and changes were commits."
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Feed / Text + Image",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "01AB6172-DFEB-46AB-8036-B103E65B830D_stringValue",
+      "value": "Is there a dat://-Wikipedia mirroring project?"
+    }
+  ],
   "overrides": {
     "01AB6172-DFEB-46AB-8036-B103E65B830D": "Is there a dat://-Wikipedia mirroring project?"
   },
   "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 1,
   "name": "Feed / Payment",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "940F6FCD-4337-4087-92AE-916F62BD170B_stringValue",
+      "value": "@denull Ethereum wallet"
+    }
+  ],
   "overrides": {
     "940F6FCD-4337-4087-92AE-916F62BD170B": "@denull Ethereum wallet"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

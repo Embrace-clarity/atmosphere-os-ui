@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGS0xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwmLTE5Ojs8PUFFR1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA1RGZWVk0xESChMWGVdOUy5rZXlzWk5TLm9iamVjdHOiFBWABIAFohcYgAaACIAQXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXWHR4fCiAhIiMkJSIkW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0EAGAACNAOAAAAAAAAIAH0icoKSpaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloykrLF8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3TSCi4vMF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgA+ACdMREgoyNTiiMzSACoALojY3gAyADYAOXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABcLlNGTlNEaXNwbGF50icoPj9fEBNOU011dGFibGVEaWN0aW9uYXJ5oz5ALFxOU0RpY3Rpb25hcnnSJyhCQ18QEE5TRm9udERlc2NyaXB0b3KiRCxfEBBOU0ZvbnREZXNjcmlwdG9y0icoQEaiQCzSJyhISV8QEk5TQXR0cmlidXRlZFN0cmluZ6JKLF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFNTlRyb290gAEACAARABoAIwAtADIANwBMAFIAWQBiAGkAdgB4AHoAfACBAIgAkACbAJ4AoACiAKUApwCpAKsAvgDgAO0A+QEEARYBOAFKAUwBTgFXAVkBXgFpAXIBjAGQAaMBrAGxAc4B0AHSAdkB3AHeAeAB4wHlAecB6QH/AhUCHgIrAjACRgJKAlcCXAJvAnIChQKKAo0CkgKnAqoCvwLRAtQC2QAAAAAAAAIBAAAAAAAAAE8AAAAAAAAAAAAAAAAAAALb"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "53F8179B-7800-488D-9B6D-2A46F1F86B7D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 44,
+    "x": 197,
+    "y": 1766
+  },
+  "glyphBounds": "{{1, 5}, {41, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Feed",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "BAB532DC-98F3-44AF-949D-BC1B862590D0"
+  },
+  "textBehaviour": 0
+}
