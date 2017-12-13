@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIiotNDc7P0dISUpLT1NfYGFiY2RmZ1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QEzAxLiBNYWluIG5hdmlnYXRpb27TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAcgBtfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7UIwokJSYnKClaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAMgAmAC9ISCissoIAK0i4vMDFaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMwMjNXTlNBcnJheVhOU09iamVjdNISCjUsoIAK0i4vODlfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM4OjNfEBBOU1BhcmFncmFwaFN0eWxl0go8PT5fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKQENGokFCgA+AEKJERYARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0BDAAAAAAAAXxAPSW50ZXJVSS1SZWd1bGFy0i4vTE1fEBNOU011dGFibGVEaWN0aW9uYXJ5o0xOM1xOU0RpY3Rpb25hcnnSLi9QUV8QEE5TRm9udERlc2NyaXB0b3KiUjNfEBBOU0ZvbnREZXNjcmlwdG9y0xESClRZHaRVVldYgBaAF4AYgBmkWlpaWoAagBqAGoAagBtTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP/AAAAAAAADSLi9OZaJOMyO/8AAAAAAAANIuL2hpXxASTlNBdHRyaWJ1dGVkU3RyaW5nomozXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W1uVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAJ4ApQCtALgAvQC/AMEAwwDFAMoAzADOANAA0gDUAOcBCQE2AT0BRgFRAV4BagFsAW4BcAFyAXcBeAF6AX8BigGTAaIBpgGuAbcBvAG9Ab8BxAHeAeIB9QH6AhcCGQIbAiICJQInAikCLAIuAjACMgJIAl4CZwJ5An4ClAKYAqUCqgK9AsAC0wLaAt8C4QLjAuUC5wLsAu4C8ALyAvQC9gL6AwADBQMLAxQDGQMcAyUDKgM/A0IDVwNpA2wDcQAAAAAAAAIBAAAAAAAAAG8AAAAAAAAAAAAAAAAAAANz"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "7D960230-D4E2-406D-8B3D-C87E5E4A9CC4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 315,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 7}, {313, 37}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "01. Main navigation",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "FFDBD355-771A-4269-9D18-44FADC2B5D48"
+  },
+  "textBehaviour": 0
+}

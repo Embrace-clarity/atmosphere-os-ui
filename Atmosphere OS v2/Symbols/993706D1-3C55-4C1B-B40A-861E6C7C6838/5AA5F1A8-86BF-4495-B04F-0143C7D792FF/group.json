@@ -13,22 +13,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 75,
-    "width": 308,
+    "height": 46,
+    "width": 88,
     "x": 0,
-    "y": 0
+    "y": 4
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "E630680A-2419-4813-A67B-FEF4552F831E"
-    },
     {
       "class": "text",
       "id": "E5DD33FE-DCA4-4CC6-8443-7EBC47BB8A5A"

@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 355,
+  "changeIdentifier": 366,
   "do_objectID": "AB41C320-9BDF-4981-BD70-A1141BAC40F3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": -54,
-    "y": 157
+    "x": 1153,
+    "y": 32
   },
   "grid": {
     "_class": "simpleGrid",
@@ -121,7 +121,7 @@
   "symbolID": "397608E0-1CD4-47DB-84F8-88F41A1EF74B",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

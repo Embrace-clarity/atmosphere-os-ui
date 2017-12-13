@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 34,
+    "height": 29,
     "width": 98,
     "x": 0,
-    "y": 0
+    "y": 1.4210854715202e-14
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -46,12 +46,12 @@
         "color": {
           "_class": "color",
           "alpha": 0.2542742300724637,
-          "blue": 0.2235294117647059,
-          "green": 0.3294117647058825,
-          "red": 0.9176470588235294
+          "blue": 0.8121545493197279,
+          "green": 0.8121545493197279,
+          "red": 0.8121545493197279
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 0,
         "thickness": 11
       },
@@ -59,15 +59,15 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.2235294117647059,
-          "green": 0.3294117647058825,
-          "red": 0.9176470588235294
+          "alpha": 0.492866847826087,
+          "blue": 0.5317017431972789,
+          "green": 0.5317017431972789,
+          "red": 0.5317017431972789
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 17
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 5
       }
     ],
     "endDecorationType": 0,
@@ -76,13 +76,13 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.2235294117647059,
-          "green": 0.3294117647058825,
-          "red": 0.9176470588235294
+          "alpha": 0.2531136775362319,
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

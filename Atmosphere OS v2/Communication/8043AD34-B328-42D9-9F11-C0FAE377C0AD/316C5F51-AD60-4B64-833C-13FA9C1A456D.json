@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "316C5F51-AD60-4B64-833C-13FA9C1A456D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 308,
+    "x": 697,
+    "y": 227
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "List / Item Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0823CC37-556B-45E2-9310-DA92A92244D7_stringValue",
+      "value": "Let's meet"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0C48BD7-9063-40A8-8EB9-EFD5BC093D45",
+      "overrideName": "E5DD33FE-DCA4-4CC6-8443-7EBC47BB8A5A_stringValue",
+      "value": "@denull"
+    }
+  ],
+  "overrides": {
+    "0823CC37-556B-45E2-9310-DA92A92244D7": "Let's meet",
+    "E5DD33FE-DCA4-4CC6-8443-7EBC47BB8A5A": "@denull"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "77C8F708-4A61-4E0B-9393-2C3B4CAFD9FE",
+  "verticalSpacing": 0
+}

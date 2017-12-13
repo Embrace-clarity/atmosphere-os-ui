@@ -7,7 +7,7 @@
     "green": 0.1529411822557449,
     "red": 0.1529411822557449
   },
-  "changeIdentifier": 3155,
+  "changeIdentifier": 3156,
   "do_objectID": "54F23A9E-546B-4B98-AECF-302950030789",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -90,7 +90,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {
