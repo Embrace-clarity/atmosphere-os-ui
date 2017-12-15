@@ -48,6 +48,10 @@
     {
       "class": "group",
       "id": "E5569479-B6B0-43E1-87DB-AE5202C7370B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4556BD2-E2A3-489B-A343-8452499DCD4D"
     }
   ],
   "name": "Interactions / Hardware / Main Nav",
@@ -83,7 +87,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

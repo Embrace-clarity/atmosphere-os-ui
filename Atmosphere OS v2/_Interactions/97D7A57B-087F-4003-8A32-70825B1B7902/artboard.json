@@ -44,6 +44,10 @@
     {
       "class": "text",
       "id": "CC1B6E65-21B6-45DC-A7D4-C2595E0A6857"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DDBFE58-395E-4479-9346-09A647C6A130"
     }
   ],
   "name": "Interactions / Hardware / Intro",
@@ -79,7 +83,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

@@ -48,6 +48,10 @@
     {
       "class": "group",
       "id": "9E0B9DE1-4D1F-43A5-A4D8-50D66FE31C52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C456CF79-4EF8-4C51-86A5-C4F5D98AA7DB"
     }
   ],
   "name": "Interactions / Software / Main View",
@@ -83,7 +87,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

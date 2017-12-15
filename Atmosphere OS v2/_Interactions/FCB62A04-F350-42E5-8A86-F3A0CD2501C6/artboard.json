@@ -48,6 +48,10 @@
     {
       "class": "group",
       "id": "121FC7C6-0623-4465-8C00-13EC83DF5E75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "076345FB-311D-459B-97E8-80ECF578AD5C"
     }
   ],
   "name": "Interactions / Hardware / Scroll",
@@ -83,7 +87,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

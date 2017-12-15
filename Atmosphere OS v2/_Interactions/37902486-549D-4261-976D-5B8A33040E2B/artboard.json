@@ -48,6 +48,10 @@
     {
       "class": "group",
       "id": "4AA68427-2B7F-4B38-97CF-6FE34A99FF73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C490DFC1-27F3-437F-BF5A-3FCE21073D0E"
     }
   ],
   "name": "Interactions / Hardware / Quick Command",
@@ -83,7 +87,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

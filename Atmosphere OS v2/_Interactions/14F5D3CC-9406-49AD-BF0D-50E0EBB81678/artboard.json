@@ -56,6 +56,10 @@
     {
       "class": "group",
       "id": "2A683F00-45D7-4008-8E32-E25E4B052884"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "649BEB4E-47C2-43A5-B9AE-5A9583281E63"
     }
   ],
   "name": "Interactions / Software / Inside Layer",
@@ -91,7 +95,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

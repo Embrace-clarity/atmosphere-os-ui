@@ -160,6 +160,10 @@
     {
       "class": "group",
       "id": "A58D4DC4-BE2D-459A-A9F6-57A8BC0D77DC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2A8131AA-5D8D-41B9-A3FF-12A00F93C0A3"
     }
   ],
   "name": "Symbols",
