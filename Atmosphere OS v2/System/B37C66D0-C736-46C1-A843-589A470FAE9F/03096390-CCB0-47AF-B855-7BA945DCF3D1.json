@@ -58,6 +58,9 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
+    },
+    "io.magicsketch.mirror": {
+      "imageQuality": 3
     }
   },
   "verticalSpacing": 0

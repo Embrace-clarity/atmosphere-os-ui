@@ -100,7 +100,9 @@
     },
     "io.magicsketch.mirror": {
       "highestQuality": -1,
-      "included": 1
+      "included": 1,
+      "linkedLayers": [
+      ]
     }
   },
   "verticalRulerData": {

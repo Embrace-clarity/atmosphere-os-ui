@@ -34,11 +34,15 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "02ABB973-9D21-422A-B6F4-4E5C16D0AF1D"
+      "id": "65A8D467-42D1-4D48-A7C0-C7647F3F4289"
     },
     {
       "class": "artboard",
       "id": "451BCC2F-C65A-43A8-9022-BC07FD1B76B4"
+    },
+    {
+      "class": "artboard",
+      "id": "02ABB973-9D21-422A-B6F4-4E5C16D0AF1D"
     }
   ],
   "name": "_Brand",
