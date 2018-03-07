@@ -1,8 +1,9 @@
 {
-  "_class": "group",
-  "do_objectID": "4471DBEF-5EEE-4941-A9DA-4F5C625F16DF",
+  "_class": "symbolInstance",
+  "do_objectID": "11840464-8E49-450F-A154-EFE7D0BB1770",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3E1E769C-32FC-4445-BA16-CE4FDCA7155D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,37 +14,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 136,
-    "width": 251,
-    "x": 32,
-    "y": 112
+    "do_objectID": "CC6AD919-F697-40D0-AC10-314B7C5E014F",
+    "height": 32,
+    "width": 340,
+    "x": 0,
+    "y": 8
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "text",
-      "id": "53B0D8E8-733C-47CF-BC45-A4D81CF3170F"
-    },
-    {
-      "class": "text",
-      "id": "8FABE897-B573-4770-A62E-35FBAA3E1B04"
-    }
-  ],
-  "name": "Group",
+  "name": "Feed/Assets/Header",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6765935B-D543-4B72-9708-8419FD8D7EAA",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "44120D70-AAC8-4153-B5DC-FD434E275270",
+  "verticalSpacing": 0
 }

@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.1490196138620377,
-    "green": 0.1529411822557449,
-    "red": 0.1529411822557449
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
-  "changeIdentifier": 194,
+  "changeIdentifier": 1699,
   "do_objectID": "A27EE730-E7D8-42F7-AECE-0788A44FABFD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,8 +21,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 274,
-    "width": 308,
+    "height": 379,
+    "width": 340,
     "x": 3210,
     "y": 293
   },
@@ -42,15 +42,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "FAAC66AD-DC61-425C-9198-FD86C6F92B2E"
+      "class": "text",
+      "id": "01AB6172-DFEB-46AB-8036-B103E65B830D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0ACB8308-BF77-40E7-B359-2E886738347D"
     },
     {
       "class": "symbolInstance",
       "id": "5C25F88A-1F98-4893-B8C5-CBCA05F105D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11840464-8E49-450F-A154-EFE7D0BB1770"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98A7C819-D5E2-410D-BAFD-42EF3582F8A8"
     }
   ],
   "name": "Feed / Text + Image",
