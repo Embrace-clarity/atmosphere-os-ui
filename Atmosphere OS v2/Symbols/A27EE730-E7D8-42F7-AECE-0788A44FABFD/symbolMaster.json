@@ -7,7 +7,7 @@
     "green": 0.1529411822557449,
     "red": 0.1529411822557449
   },
-  "changeIdentifier": 81,
+  "changeIdentifier": 194,
   "do_objectID": "A27EE730-E7D8-42F7-AECE-0788A44FABFD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 274,
     "width": 308,
-    "x": 1224,
-    "y": 1766
+    "x": 3210,
+    "y": 293
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -86,7 +87,7 @@
   "symbolID": "A5C75ED4-7C12-4976-A798-EAF64C18AC0D",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

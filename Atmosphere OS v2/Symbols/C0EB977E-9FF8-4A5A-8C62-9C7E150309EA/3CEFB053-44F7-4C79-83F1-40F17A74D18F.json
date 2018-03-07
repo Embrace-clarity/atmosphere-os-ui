@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 28,
-    "width": 28,
+    "height": 24,
+    "width": 24,
     "x": 16,
     "y": 16
   },
@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icon / Circle",
   "nameIsFixed": false,
   "overrideValues": [

@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAgISIjJCUxMjM0NTY8R0pNUVVdXl9gYWRoaVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA1pEZXZpbmUgTGl10xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0dgAmAEIAUgByAHIAPXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVbTlNVbmRlcmxpbmVfEA9OU1N0cmlrZXRocm91Z2jTERIKJisfpCcoKSqACoALgAyADaQsLCwsgA6ADoAOgA6AD1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANI3ODk6WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojk7WE5TT2JqZWN01j0+P0AKQUJDRENGRFpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgBEjQDUAAAAAAACAEYAT0hIKSEmggBLSNzhLTFdOU0FycmF5oks70jc4Tk9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNOUDtfEBBOU1BhcmFncmFwaFN0eWxl0gpSU1RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AbgBXTERIKVllcoldYgBaAF6JaW4AYgBmAGl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXxAPSW50ZXJVSS1SZWd1bGFy0jc4YmNfEBNOU011dGFibGVEaWN0aW9uYXJ5o2I5O9I3OGVmXxAQTlNGb250RGVzY3JpcHRvcqJnO18QEE5TRm9udERlc2NyaXB0b3IQANI3OGprXxASTlNBdHRyaWJ1dGVkU3RyaW5nomw7XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W9wVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAJMAmgCiAK0AswC1ALcAuQC7AL0AwwDFAMcAyQDLAM0AzwD8AQ8BMQE9AU8BVgFbAV0BXwFhAWMBaAFqAWwBbgFwAXIBdgF8AYEBhwGQAZUBoAGpAbYBuQHCAc8B2gHmAfgCBQIXAhkCGwIkAiYCKAItAi4CMAI1Aj0CQAJFAl8CYwJ2AnsCmAKaApwCowKmAqgCqgKtAq8CsQKzAskC3wLoAvoC/wMVAxkDHgMxAzQDRwNJA04DYwNmA3sDjQOQA5UAAAAAAAACAQAAAAAAAABxAAAAAAAAAAAAAAAAAAADlw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3C8C2014-975D-466A-8ECB-4634C30C38F9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 126,
+    "width": 17.66470588235294,
+    "x": 0.2294117647058823,
+    "y": 0.1875
+  },
+  "glyphBounds": "{{0, 4}, {18, 118}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Ana Kirova",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A53FD224-77D7-4F55-8EEC-77E0812E0CCA"
+  },
+  "textBehaviour": 1
+}

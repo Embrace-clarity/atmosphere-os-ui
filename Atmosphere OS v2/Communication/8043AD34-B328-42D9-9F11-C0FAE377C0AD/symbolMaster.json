@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 45,
+  "changeIdentifier": 1896,
   "do_objectID": "8043AD34-B328-42D9-9F11-C0FAE377C0AD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,9 +45,10 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -70,36 +71,36 @@
       "id": "10791D36-5664-40F0-95D6-93443C7BD64A"
     },
     {
-      "class": "symbolInstance",
-      "id": "95DD14E9-DAF1-47EA-BE20-A1C250AAA3D0"
+      "class": "group",
+      "id": "2A01C370-C342-427D-943A-86663D6104DB"
     },
     {
-      "class": "symbolInstance",
-      "id": "10DCF3D8-3D58-419C-9DD2-4F16F1DEAAEB"
+      "class": "group",
+      "id": "1335917F-1DA0-4149-B9BE-E10AFFA677DF"
     },
     {
-      "class": "symbolInstance",
-      "id": "8A057781-C864-41C0-B985-D3C0AA734622"
+      "class": "group",
+      "id": "AE7E3C66-69F8-4A2B-8A09-4585277C1B49"
     },
     {
-      "class": "symbolInstance",
-      "id": "316C5F51-AD60-4B64-833C-13FA9C1A456D"
+      "class": "group",
+      "id": "4FA211A6-91BD-4960-89D8-278B47FE5248"
     },
     {
-      "class": "symbolInstance",
-      "id": "89B717D7-3B73-42AF-92CD-45FF03BE65BA"
+      "class": "group",
+      "id": "FD619A62-7D30-43E9-93BF-E9A84E88FAC3"
     },
     {
-      "class": "symbolInstance",
-      "id": "82C90050-72B7-4132-91DC-833B864C1674"
+      "class": "group",
+      "id": "E3C88636-ED97-44B3-90DB-CA443370FC39"
     },
     {
-      "class": "symbolInstance",
-      "id": "4BC8621D-D5A0-4518-96A3-4BA22D38B8FB"
+      "class": "group",
+      "id": "057645D1-ECB3-44A7-98F3-A5DBE64BA70B"
     },
     {
-      "class": "symbolInstance",
-      "id": "AC5D5A5A-693A-444E-B93C-A8EBF8C77939"
+      "class": "group",
+      "id": "6DB2442A-6665-4F9E-AF4E-2557EA7EBAB5"
     },
     {
       "class": "group",
@@ -111,15 +112,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "1A2EEF70-58C3-4B0A-9B90-6BD2BEA56B6D"
-    },
-    {
-      "class": "symbolInstance",
       "id": "29FF6CC4-9AB0-4A3A-9406-DC0BCBA6F59A"
     },
     {
       "class": "symbolInstance",
       "id": "D0B737B2-A628-4B39-92DF-14FD422EAD1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94D5A31D-17A9-4082-9FC5-853F0AEA0141"
     }
   ],
   "layout": {
@@ -153,7 +154,7 @@
   "symbolID": "A77D82B0-E1F4-4A10-8847-D4BC80985921",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

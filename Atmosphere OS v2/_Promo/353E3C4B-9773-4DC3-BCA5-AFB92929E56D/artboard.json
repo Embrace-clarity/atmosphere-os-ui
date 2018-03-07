@@ -46,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -53,6 +54,10 @@
     {
       "class": "group",
       "id": "63699C6D-3020-451A-953A-B9D659C5B992"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B734CD3C-8318-4094-B108-0966096BD9A3"
     }
   ],
   "name": "Promo / Github",
@@ -88,7 +93,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 0
     }
   },

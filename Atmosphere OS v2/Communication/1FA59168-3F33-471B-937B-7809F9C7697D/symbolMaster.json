@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 25,
+  "changeIdentifier": 206,
   "do_objectID": "1FA59168-3F33-471B-937B-7809F9C7697D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,6 +45,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -64,10 +65,6 @@
     {
       "class": "symbolInstance",
       "id": "D2803234-8CF3-4E4D-BC3F-CAB108996461"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "707D2FC6-4BE0-4995-AAA7-0D6B56C6124C"
     },
     {
       "class": "symbolInstance",
@@ -113,7 +110,7 @@
   "symbolID": "74782969-935E-4244-887F-95B6B0444004",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

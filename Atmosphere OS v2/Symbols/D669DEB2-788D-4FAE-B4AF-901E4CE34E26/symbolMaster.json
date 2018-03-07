@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 4715,
+  "changeIdentifier": 4718,
   "do_objectID": "D669DEB2-788D-4FAE-B4AF-901E4CE34E26",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 120,
     "width": 120,
-    "x": 220,
-    "y": 228
+    "x": 1221,
+    "y": 220
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,9 +39,10 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",

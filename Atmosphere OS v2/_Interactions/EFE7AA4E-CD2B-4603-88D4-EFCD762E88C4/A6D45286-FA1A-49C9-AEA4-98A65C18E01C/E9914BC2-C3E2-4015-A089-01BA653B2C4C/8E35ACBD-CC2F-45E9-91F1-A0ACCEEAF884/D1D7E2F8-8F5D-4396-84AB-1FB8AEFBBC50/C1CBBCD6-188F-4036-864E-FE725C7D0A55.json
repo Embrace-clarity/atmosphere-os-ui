@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 120,
-  "masterInfluenceEdgeMaxYPadding": 64,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 340,
   "name": "Communication / Chat",
   "nameIsFixed": false,
   "overrideValues": [

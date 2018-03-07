@@ -23,8 +23,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "EC04A4AA-4C02-414A-8B58-78F00D3EFCE8",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -33,10 +31,9 @@
     ]
   },
   "meta": {
-    "appVersion": "48.1",
-    "build": 47250,
-    "commit": "5b9531439a15a8e8d2e29be292655447768783db",
-    "version": 97
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
   },
   "pages": [
     "_Promo",

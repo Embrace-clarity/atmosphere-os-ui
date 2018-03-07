@@ -7,7 +7,7 @@
     "green": 0.1529411822557449,
     "red": 0.1529411822557449
   },
-  "changeIdentifier": 3156,
+  "changeIdentifier": 3222,
   "do_objectID": "54F23A9E-546B-4B98-AECF-302950030789",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
+    "height": 64,
     "width": 340,
-    "x": 461,
-    "y": 2240
+    "x": 4830,
+    "y": 164
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,17 +39,18 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "455D2288-DE8C-4840-BE6F-23249E9F9E6B"
     },
     {
-      "class": "group",
-      "id": "4106DB96-607F-4993-803B-320DF28469A8"
+      "class": "text",
+      "id": "A1B542E5-78CC-42D2-8519-97C5C5B2AFE3"
     }
   ],
   "name": "Header / Title",
@@ -90,7 +91,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

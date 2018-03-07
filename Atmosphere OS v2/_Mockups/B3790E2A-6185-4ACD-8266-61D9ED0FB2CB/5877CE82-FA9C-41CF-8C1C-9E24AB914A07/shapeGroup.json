@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 982.6174527964965,
-    "width": 508.0632160905654,
-    "x": 588.1834115840453,
-    "y": -260.2715391785109
+    "height": 674.4932941060888,
+    "width": 951.0934739582208,
+    "x": 980.4532630208896,
+    "y": 85.75335294695537
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -94,7 +94,6 @@
           "elipseLength": 0,
           "from": "{0.5, 0}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -123,7 +122,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/bd71507d93a24252a7bd2ff6d7f1cf790dfa6336",
+          "_ref": "images/37824d11c29724a72cb5e3d3bca3cc7f9b7e3695",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

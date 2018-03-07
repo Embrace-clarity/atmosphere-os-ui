@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "94D5A31D-17A9-4082-9FC5-853F0AEA0141",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94190DDA-582B-4902-8A92-3106E0619343",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C22A17BD-9B49-424D-BB9F-43312BD42411",
+    "height": 193,
+    "width": 340,
+    "x": 0,
+    "y": 306
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feed / Payment Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3131958A-AEB7-4A2D-9805-13519413868A",
+      "overrideName": "B45E8730-B0BF-4ACE-B484-107CBE0D2FC9_symbolID",
+      "value": "F375AACB-E9DE-4EE8-A131-DB664C941B4C"
+    }
+  ],
+  "overrides": {
+    "B45E8730-B0BF-4ACE-B484-107CBE0D2FC9": {
+      "symbolID": "F375AACB-E9DE-4EE8-A131-DB664C941B4C"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E534FDBE-8EF3-4734-B9E2-85D8C3A2CA51",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F15E4DC8-2D7D-42D0-81C4-C1E20611E14E",
+  "verticalSpacing": 0
+}

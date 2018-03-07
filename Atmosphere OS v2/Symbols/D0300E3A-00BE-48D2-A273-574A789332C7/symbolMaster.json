@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 117,
+  "changeIdentifier": 241,
   "do_objectID": "D0300E3A-00BE-48D2-A273-574A789332C7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 0,
-    "y": 3666
+    "x": 7153,
+    "y": 0
   },
   "grid": {
     "_class": "simpleGrid",
@@ -45,6 +45,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -64,10 +65,6 @@
     {
       "class": "symbolInstance",
       "id": "105D5B87-B08A-4419-905B-D51DC93D0FDE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CCA40C7B-9E69-4F05-A9E8-47D4A6B94BF7"
     },
     {
       "class": "symbolInstance",
@@ -113,7 +110,7 @@
   "symbolID": "AF0AFC1D-F52B-4595-A19C-CC1E5F70DBB7",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

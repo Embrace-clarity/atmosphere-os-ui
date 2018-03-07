@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "E6C9CD9F-BE0B-466E-B9A1-F9C2182352CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 340,
+    "x": 0,
+    "y": 160
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "687F132A-6B87-4A19-BB4E-FC059DB15722"
+    },
+    {
+      "class": "text",
+      "id": "E25542CE-4A54-4983-86E5-17E31D244D21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35235E33-D151-486D-AC40-7A81BE7817BC"
+    }
+  ],
+  "name": "Feed / Payment Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

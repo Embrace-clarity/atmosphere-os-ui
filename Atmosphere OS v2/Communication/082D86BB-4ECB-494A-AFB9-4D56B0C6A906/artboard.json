@@ -52,6 +52,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -73,16 +74,16 @@
       "id": "8DEF34AB-E1FE-4EBE-84B0-B8D2FC97C5C7"
     },
     {
-      "class": "symbolInstance",
-      "id": "B700BA78-3523-4804-B370-25FD5FDEAC21"
+      "class": "group",
+      "id": "27B113D6-4C7F-4D62-A1B6-3E0FC2FFD50B"
     },
     {
-      "class": "symbolInstance",
-      "id": "87AB486B-229F-4CDE-A50F-3D795A387774"
+      "class": "group",
+      "id": "6F8B9C5A-7BBA-45A3-9F5C-FB25BAA3361D"
     },
     {
-      "class": "symbolInstance",
-      "id": "5C465414-62A4-4A07-815E-360A778EA052"
+      "class": "group",
+      "id": "02628973-3A7C-4DE7-B136-040AF1446085"
     },
     {
       "class": "group",
@@ -127,7 +128,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 1
     }
   },
