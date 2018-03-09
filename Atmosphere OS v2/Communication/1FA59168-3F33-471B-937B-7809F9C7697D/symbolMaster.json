@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 206,
+  "changeIdentifier": 207,
   "do_objectID": "1FA59168-3F33-471B-937B-7809F9C7697D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -94,7 +94,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Communication / Chat",
+  "name": "Screens / Chat",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

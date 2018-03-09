@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 2092,
+  "changeIdentifier": 2488,
   "do_objectID": "8043AD34-B328-42D9-9F11-C0FAE377C0AD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -121,6 +121,10 @@
     {
       "class": "symbolInstance",
       "id": "94D5A31D-17A9-4082-9FC5-853F0AEA0141"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD172ADE-CBA3-4552-90AF-0502FFEDD659"
     }
   ],
   "layout": {
@@ -138,7 +142,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Communication / View",
+  "name": "Screens / View",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

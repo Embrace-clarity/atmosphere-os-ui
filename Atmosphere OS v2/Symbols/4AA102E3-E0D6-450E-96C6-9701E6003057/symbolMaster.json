@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 46,
+  "changeIdentifier": 56,
   "do_objectID": "4AA102E3-E0D6-450E-96C6-9701E6003057",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 56,
     "width": 340,
-    "x": 4290,
+    "x": 2555,
     "y": 156
   },
   "hasBackgroundColor": true,
@@ -57,8 +57,8 @@
       "id": "3BEB3ADA-4CE5-43AB-894E-D9540DD6BA8B"
     }
   ],
-  "name": "Feed/Assets/Rich Content/Wallet",
-  "nameIsFixed": false,
+  "name": "Feed/Assets/Rich Content/Transaction",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

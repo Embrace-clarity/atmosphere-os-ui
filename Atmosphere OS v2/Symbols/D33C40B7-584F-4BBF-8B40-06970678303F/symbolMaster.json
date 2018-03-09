@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
-  "changeIdentifier": 1,
+  "changeIdentifier": 15,
   "do_objectID": "D33C40B7-584F-4BBF-8B40-06970678303F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +26,8 @@
     "x": 0,
     "y": 0
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,8 +49,8 @@
       "id": "9933CA39-5E97-497D-8787-6E149312F7BB"
     }
   ],
-  "name": "Assets / Logo 2",
-  "nameIsFixed": false,
+  "name": "Brand Assets / Logo",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,6 +59,24 @@
   "style": {
     "_class": "style",
     "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },

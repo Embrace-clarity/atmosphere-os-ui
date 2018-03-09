@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "E59FB6AB-1C37-4198-87B1-2E074EBA7F74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 7616,
+    "x": 0,
+    "y": -124
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7EE5E471-1396-433C-BAC2-171F61AEF8E8"
+    },
+    {
+      "class": "text",
+      "id": "7495C24A-62FF-4127-BDA4-55FC699C905A"
+    },
+    {
+      "class": "text",
+      "id": "BE90055D-BE46-473C-BB83-34460D001F60"
+    },
+    {
+      "class": "text",
+      "id": "00BBF2BF-9FF6-4B3F-A5D4-5848ACED56A2"
+    },
+    {
+      "class": "text",
+      "id": "8255A29A-8EC8-4CB6-83BB-4EEF309990FC"
+    },
+    {
+      "class": "text",
+      "id": "C5908621-3B5D-43FE-977C-D023AEC7BD15"
+    },
+    {
+      "class": "text",
+      "id": "DB846076-E60C-4EE3-8BAC-2947A51EDDEB"
+    },
+    {
+      "class": "text",
+      "id": "199C4151-10EE-4839-9BC7-9A1F890766A9"
+    },
+    {
+      "class": "text",
+      "id": "945FFD66-C74A-40B1-826E-802135F12660"
+    },
+    {
+      "class": "text",
+      "id": "C2E780D7-BAC8-4D29-A9AB-704784A70E2F"
+    },
+    {
+      "class": "text",
+      "id": "49D935F0-DE2B-4B4F-A23B-914303A0B31E"
+    },
+    {
+      "class": "text",
+      "id": "114DAB3F-84FF-4E04-8E8C-2A62F1C1A1CB"
+    },
+    {
+      "class": "text",
+      "id": "579B1F09-0F80-49FD-A770-BE699E845CE7"
+    },
+    {
+      "class": "text",
+      "id": "9462758D-1F86-4255-B34D-30BD23427C64"
+    },
+    {
+      "class": "text",
+      "id": "BB110875-7814-4322-B7B5-9CEF836A7C7B"
+    },
+    {
+      "class": "text",
+      "id": "4CEDADF5-9090-4116-BFB7-E0256D87B269"
+    },
+    {
+      "class": "text",
+      "id": "DDE9F2B1-CEF7-420A-AF50-315AF08A2825"
+    },
+    {
+      "class": "text",
+      "id": "537807DB-74DA-4251-8E93-96CAEDF91A3F"
+    }
+  ],
+  "name": "Titles",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

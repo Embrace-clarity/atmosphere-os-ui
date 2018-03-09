@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 209,
+  "changeIdentifier": 212,
   "do_objectID": "4D643CE2-B09B-4E62-A8E1-F537B0B7E19F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 340,
-    "x": 2670,
-    "y": 0
+    "x": 2015,
+    "y": 132
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -53,7 +53,7 @@
       "id": "FDE949AB-139A-44C6-8D2D-AC6EA7A55FF0"
     }
   ],
-  "name": "Feed / Assets / Meta",
+  "name": "Feed/Assets/ Meta",
   "nameIsFixed": false,
   "resizesContent": true,
   "resizingConstraint": 63,

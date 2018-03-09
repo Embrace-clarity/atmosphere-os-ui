@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 568,
+  "changeIdentifier": 582,
   "do_objectID": "AB41C320-9BDF-4981-BD70-A1141BAC40F3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -102,7 +102,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Communication / Profile Image",
+  "name": "Screens / Profile Image",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

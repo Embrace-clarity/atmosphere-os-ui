@@ -8,7 +8,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 2919,
+  "changeIdentifier": 2949,
   "do_objectID": "411CA6B2-2683-44AE-9FD0-85BCEC1E3FF2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +26,7 @@
     "do_objectID": "499B285A-F47A-44EB-8FAA-913BF7244457",
     "height": 193,
     "width": 340,
-    "x": 3210,
+    "x": 3095,
     "y": 0
   },
   "hasBackgroundColor": true,
@@ -38,7 +38,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
       "id": "12F36B02-BB24-4303-8CB8-61B2993B1D97"
     }
   ],
-  "name": "Feed / Item",
+  "name": "Feed/ Item",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

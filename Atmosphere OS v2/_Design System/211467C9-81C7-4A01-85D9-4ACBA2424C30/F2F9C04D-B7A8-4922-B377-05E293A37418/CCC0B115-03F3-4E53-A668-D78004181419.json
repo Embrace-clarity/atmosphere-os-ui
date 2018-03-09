@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAgISIjJCUxMjM0NTY3PUhLTlJWXl9gYWJlaWprVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxAZTSBTb2xpZCBEYXJrIFVuZGVybGluZSAxNtMREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgBGAFYAdgB6AEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlW05TVW5kZXJsaW5lXxAPTlNTdHJpa2V0aHJvdWdo0xESCiYrH6QnKCkqgAqAC4AMgA2kLC0sLIAOgA+ADoAOgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAADSODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI6PFhOU09iamVjdNY+P0BBCkJDREVER0VaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIASI0A1AAAAAAAAgBKAFNISCklKoIAT0jg5TE1XTlNBcnJheaJMPNI4OU9QXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjT1E8XxAQTlNQYXJhZ3JhcGhTdHlsZdIKU1RVXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAHIAW0xESCldaXaJYWYAXgBiiW1yAGYAagBtfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QD0ludGVyVUktUmVndWxhctI4OWNkXxATTlNNdXRhYmxlRGljdGlvbmFyeaNjOjzSODlmZ18QEE5TRm9udERlc2NyaXB0b3KiaDxfEBBOU0ZvbnREZXNjcmlwdG9yEAEQANI4OWxtXxASTlNBdHRyaWJ1dGVkU3RyaW5nom48XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XFyVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAKYArQC1AMAAxgDIAMoAzADOANAA1gDYANoA3ADeAOAA4gEPASIBRAFQAWIBaQFuAXABcgF0AXYBewF9AX8BgQGDAYUBiQGPAZQBmgGjAawBsQG8AcUB0gHVAd4B6wH2AgICFAIhAjMCNQI3AkACQgJEAkkCSgJMAlECWQJcAmECewJ/ApIClwK0ArYCuAK/AsICxALGAskCywLNAs8C5QL7AwQDFgMbAzEDNQM6A00DUANjA2UDZwNsA4EDhAOZA6sDrgOzAAAAAAAAAgEAAAAAAAAAcwAAAAAAAAAAAAAAAAAAA7U="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "CCC0B115-03F3-4E53-A668-D78004181419",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C5D4FD8D-7BD9-49A5-AF09-03284F79218B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C9D9520-BA04-4751-A8E5-4BB7B816422B",
+    "height": 21,
+    "width": 190,
+    "x": 0,
+    "y": 116
+  },
+  "glyphBounds": "{{1, 4}, {188, 13}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "M Solid Dark Underli",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "0B6E5AC5-D126-4E87-8AD4-F3847329681D"
+  },
+  "textBehaviour": 0
+}

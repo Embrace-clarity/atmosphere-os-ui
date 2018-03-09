@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAgISIjJCUxMjM0NTY3PUVIS09TW1xdXl9iZmdVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANeTSBGYWRlIERhcmsgMTbTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR2ACYARgBWAHYAdgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZVtOU1VuZGVybGluZV8QD05TU3RyaWtldGhyb3VnaNMREgomKx+kJygpKoAKgAuADIANpCwtLCyADoAPgA6ADoAQU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/jMzMzMzMz0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiOjxYTlNPYmplY3TUPgo/QEFCQ0NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAUgBKAEtISCkZHoIAT0jg5SUpXTlNBcnJheaJJPNI4OUxNXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjTE48XxAQTlNQYXJhZ3JhcGhTdHlsZdIKUFFSXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAHIAW0xESClRXWqJVVoAXgBiiWFmAGYAagBtfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QD0ludGVyVUktUmVndWxhctI4OWBhXxATTlNNdXRhYmxlRGljdGlvbmFyeaNgOjzSODljZF8QEE5TRm9udERlc2NyaXB0b3KiZTxfEBBOU0ZvbnREZXNjcmlwdG9yEADSODloaV8QEk5TQXR0cmlidXRlZFN0cmluZ6JqPF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFtblRyb290gAEACAARABoAIwAtADIANwBZAF8AZgBvAHYAgwCFAIcAiQCYAJ8ApwCyALgAugC8AL4AwADCAMgAygDMAM4A0ADSANQBAQEUATYBQgFUAVsBYAFiAWQBZgFoAW0BbwFxAXMBdQF3AXsBgQGGAYwBlQGeAaMBrgG3AcQBxwHQAdkB5AHxAf0B/wIBAgMCBQIKAgsCDQISAhoCHQIiAjwCQAJTAlgCdQJ3AnkCgAKDAoUChwKKAowCjgKQAqYCvALFAtcC3ALyAvYC+wMOAxEDJAMmAysDQANDA1gDagNtA3IAAAAAAAACAQAAAAAAAABvAAAAAAAAAAAAAAAAAAADdA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BC8C896F-DC2E-46AC-BBEE-D9DEFD6A0B34",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A5356CB-2CFB-437B-A641-3CF2C2F9D6B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C91C7AC-B919-434B-B505-4AF4C61DC7E3",
+    "height": 19,
+    "width": 114,
+    "x": 0,
+    "y": 87
+  },
+  "glyphBounds": "{{1, 3}, {112, 13}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "M Fade Dark 16",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "76A5E6EE-4E88-4E4B-9DCA-BDBF9FC782AA"
+  },
+  "textBehaviour": 0
+}

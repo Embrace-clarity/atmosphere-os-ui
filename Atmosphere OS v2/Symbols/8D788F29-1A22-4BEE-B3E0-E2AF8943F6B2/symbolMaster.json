@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 71,
+  "changeIdentifier": 73,
   "do_objectID": "8D788F29-1A22-4BEE-B3E0-E2AF8943F6B2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 5857,
+    "x": 4196,
     "y": 0
   },
   "hasBackgroundColor": true,
@@ -49,7 +49,7 @@
       "id": "7A93AA8D-754F-42C9-9439-2CFF590B3995"
     }
   ],
-  "name": "Icons / 16 / Dark / More",
+  "name": "Icon / 16 / Dark / More",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
