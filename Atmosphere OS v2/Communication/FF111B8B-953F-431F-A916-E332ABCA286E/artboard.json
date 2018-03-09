@@ -70,10 +70,6 @@
       "id": "E6C45B59-FEE0-419E-95CC-B41960742048"
     },
     {
-      "class": "group",
-      "id": "F5058889-7846-41CE-8D83-4B848AEF77A9"
-    },
-    {
       "class": "symbolInstance",
       "id": "6A10E4FC-EF28-4208-A15C-9B006F9DCC52"
     },
@@ -84,14 +80,6 @@
     {
       "class": "symbolInstance",
       "id": "CE3B62D9-5819-4D71-9D39-27808134C791"
-    },
-    {
-      "class": "group",
-      "id": "40598059-4532-44A9-B307-CB429F6C26D0"
-    },
-    {
-      "class": "group",
-      "id": "E6C9CD9F-BE0B-466E-B9A1-F9C2182352CE"
     },
     {
       "class": "symbolInstance",

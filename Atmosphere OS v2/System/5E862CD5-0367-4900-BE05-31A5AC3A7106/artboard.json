@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 805,
-    "y": 296
+    "x": 396,
+    "y": 1026
   },
   "grid": {
     "_class": "simpleGrid",
@@ -41,7 +41,7 @@
     "thickGridTimes": 2
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -62,24 +62,8 @@
       "id": "02266C13-1596-4131-A171-67BAF6827CCC"
     },
     {
-      "class": "shapeGroup",
-      "id": "560F5E5F-CE98-47F1-880A-37D926F0ACF5"
-    },
-    {
-      "class": "text",
-      "id": "8646C3F9-5666-4230-81E3-FB998DE89E3F"
-    },
-    {
-      "class": "text",
-      "id": "C49B260B-CD90-48AE-9609-98ED1BB6332B"
-    },
-    {
-      "class": "text",
-      "id": "4AB9B3F4-88D7-40EF-BA7D-96B827AFBAC7"
-    },
-    {
-      "class": "text",
-      "id": "3FD87E6A-EF38-4470-BC67-151A24F4049F"
+      "class": "symbolInstance",
+      "id": "C34EF144-70AA-44CF-826C-F9D554BEAE0A"
     }
   ],
   "layout": {
@@ -97,7 +81,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Popup / Small",
+  "name": "Popup / Notification / Default",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

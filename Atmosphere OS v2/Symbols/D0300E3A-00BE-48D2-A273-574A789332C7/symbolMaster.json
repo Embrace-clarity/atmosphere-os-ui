@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 242,
+  "changeIdentifier": 244,
   "do_objectID": "D0300E3A-00BE-48D2-A273-574A789332C7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 5954,
+    "x": 8654,
     "y": 0
   },
   "grid": {

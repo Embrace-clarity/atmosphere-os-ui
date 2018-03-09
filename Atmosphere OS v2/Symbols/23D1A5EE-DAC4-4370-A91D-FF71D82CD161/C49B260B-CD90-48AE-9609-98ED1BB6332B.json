@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTc7Q0RFRkdKTllcX2NVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfECxQb3B1cCBkZXNjcmlwdGlvbiBnb2VzIGhlcmUuIFJlYWQgaXQgcGxlYXNlLtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4APgBeADl8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlG6QhIiMkgAiACYAKgAukJicmJoAMgA2ADIAMgA5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP+MzMzMzMzPSMjM0NVokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI0NlhOU09iamVjdNIKODk6XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCjw/QqI9PoARgBKiQEGAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QD0ludGVyVUktUmVndWxhctIyM0hJXxATTlNNdXRhYmxlRGljdGlvbmFyeaNINDbSMjNLTF8QEE5TRm9udERlc2NyaXB0b3KiTTZfEBBOU0ZvbnREZXNjcmlwdG9y1k9QUVIKU1RVVlVYVlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgBgjQC4AAAAAAACAGIAa0hIKWluggBnSMjNdXldOU0FycmF5ol020jIzYGFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNgYjZfEBBOU1BhcmFncmFwaFN0eWxl0jIzZGVfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZjZfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRaWpUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYAtQC8AMQAzwDTANUA1wDZAN0A3wDhAOMA5QESATQBRwFOAVMBVQFXAVkBWwFgAWIBZAFmAWgBagFuAXQBeQF/AYgBkQGWAaEBqgG3AboBwwHIAeUB5wHpAfAB8wH1AfcB+gH8Af4CAAIWAiwCNQJHAkwCYgJmAmsCfgKBApQCoQKsArgCygLXAukC6wLtAvYC+AL6Av8DAAMCAwcDDwMSAxcDMQM1A0gDTQNiA2UDegOMA48DlAAAAAAAAAIBAAAAAAAAAGsAAAAAAAAAAAAAAAAAAAOW"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C49B260B-CD90-48AE-9609-98ED1BB6332B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 280,
+    "x": 24,
+    "y": 47
+  },
+  "glyphBounds": "{{1, 3}, {248, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Popup description go",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1E0E8EC1-8DEA-4B7C-9DE7-8D8C0EC091F0"
+  },
+  "textBehaviour": 1
+}
