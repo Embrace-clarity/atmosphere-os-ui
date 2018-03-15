@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 162,
+  "changeIdentifier": 164,
   "do_objectID": "44113F37-BC88-4D24-8D51-709F6FAEED34",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,7 +29,7 @@
     "y": 169
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,8 +56,8 @@
       "id": "924554EE-4201-4511-876C-92ED9ECAD46B"
     }
   ],
-  "name": "Modals / Popup / Assets / Actions / Buttons / Dark Copy",
-  "nameIsFixed": false,
+  "name": "Modals / Popup / Assets / Actions / Buttons / Light",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

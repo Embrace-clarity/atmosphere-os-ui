@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 833,
+  "changeIdentifier": 864,
   "do_objectID": "B37C66D0-C736-46C1-A843-589A470FAE9F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,7 +33,7 @@
     "thickGridTimes": 2
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -60,7 +60,7 @@
     },
     {
       "class": "group",
-      "id": "704B41B5-492B-48D8-BF6E-EC9AE1511421"
+      "id": "36E69C82-BC9E-4DD4-B1FB-3A88A4E8E43B"
     }
   ],
   "layout": {

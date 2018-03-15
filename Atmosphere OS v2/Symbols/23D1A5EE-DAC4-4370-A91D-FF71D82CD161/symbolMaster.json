@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 53,
+  "changeIdentifier": 204,
   "do_objectID": "23D1A5EE-DAC4-4370-A91D-FF71D82CD161",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
