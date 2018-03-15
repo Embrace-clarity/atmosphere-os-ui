@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
+    "height": 1249,
+    "width": 824,
     "x": -1668,
-    "y": -493
+    "y": -693
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -45,10 +45,6 @@
     {
       "class": "text",
       "id": "40C208CF-D892-4CC5-BD2A-47BAC443658C"
-    },
-    {
-      "class": "group",
-      "id": "F3EC1B7C-B8F4-4808-9F31-FD98F114CD48"
     }
   ],
   "name": "Interactions / Software / Intro",

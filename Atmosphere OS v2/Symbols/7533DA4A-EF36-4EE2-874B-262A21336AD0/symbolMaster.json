@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 597,
+  "changeIdentifier": 662,
   "do_objectID": "7533DA4A-EF36-4EE2-874B-262A21336AD0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,9 +21,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
+    "height": 60,
     "width": 361,
-    "x": 3635,
+    "x": 9154,
     "y": 0
   },
   "hasBackgroundColor": true,
@@ -53,9 +53,9 @@
       "id": "69C3A1CC-08A8-4811-B595-0D83DADD1800"
     }
   ],
-  "name": "Header / Horizontal Slide",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "Nav / Header / Horizontal Slide",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

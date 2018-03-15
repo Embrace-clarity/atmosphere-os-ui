@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
-    "x": -594,
-    "y": -493
+    "height": 1249,
+    "width": 824,
+    "x": -794,
+    "y": -693
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -49,10 +49,6 @@
     {
       "class": "group",
       "id": "9E0B9DE1-4D1F-43A5-A4D8-50D66FE31C52"
-    },
-    {
-      "class": "group",
-      "id": "B78F64CE-4E88-413F-B3CA-98DDA2BC7EFA"
     }
   ],
   "name": "Interactions / Software / Main View",

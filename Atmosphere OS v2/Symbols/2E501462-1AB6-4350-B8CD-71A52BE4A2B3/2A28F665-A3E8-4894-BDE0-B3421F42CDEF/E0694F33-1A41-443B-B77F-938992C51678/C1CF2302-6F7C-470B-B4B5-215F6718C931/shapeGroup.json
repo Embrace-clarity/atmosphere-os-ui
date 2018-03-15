@@ -28,15 +28,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6F57C159-54B0-412C-A788-CAD644C71F44"
+      "class": "shapePath",
+      "id": "B0074516-6917-4FCB-9830-BA941B5898CE"
     }
   ],
   "name": "Rectangle 10 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 180,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

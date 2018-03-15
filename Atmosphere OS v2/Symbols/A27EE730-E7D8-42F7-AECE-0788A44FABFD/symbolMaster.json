@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 1701,
+  "changeIdentifier": 1735,
   "do_objectID": "A27EE730-E7D8-42F7-AECE-0788A44FABFD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 379,
     "width": 340,
-    "x": 3095,
-    "y": 293
+    "x": 3552,
+    "y": 440
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -57,16 +57,16 @@
       "id": "5C25F88A-1F98-4893-B8C5-CBCA05F105D1"
     },
     {
-      "class": "symbolInstance",
-      "id": "11840464-8E49-450F-A154-EFE7D0BB1770"
+      "class": "text",
+      "id": "6F083649-346E-4373-88CD-A7E60FCF8E8D"
     },
     {
       "class": "symbolInstance",
-      "id": "98A7C819-D5E2-410D-BAFD-42EF3582F8A8"
+      "id": "303CF6E9-C583-4238-9319-5E3ACD47AD3B"
     }
   ],
-  "name": "Feed/ Text + Image",
-  "nameIsFixed": false,
+  "name": "Feed/Item/Text + Image",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

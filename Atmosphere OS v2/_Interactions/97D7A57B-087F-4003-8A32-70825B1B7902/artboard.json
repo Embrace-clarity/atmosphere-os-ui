@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
+    "height": 1249,
+    "width": 824,
     "x": -1668,
     "y": -2192
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,10 +45,6 @@
     {
       "class": "text",
       "id": "CC1B6E65-21B6-45DC-A7D4-C2595E0A6857"
-    },
-    {
-      "class": "group",
-      "id": "9AF17FB1-D335-49A8-B40D-99815643223B"
     }
   ],
   "name": "Interactions / Hardware / Intro",

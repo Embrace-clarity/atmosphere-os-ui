@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 31,
+  "changeIdentifier": 39,
   "do_objectID": "49834CA2-D335-4756-B875-792CB112A507",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +26,7 @@
     "do_objectID": "11282B9E-0CEC-41A4-81A5-1DA7F9E78E2F",
     "height": 120,
     "width": 340,
-    "x": 7034,
+    "x": 4092,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -53,7 +53,7 @@
       "id": "A8F177A6-4C64-46F8-B56C-CD580F87E9C0"
     }
   ],
-  "name": "Modals / Popup / Assets / Bg / Accent",
+  "name": "Globals / Bg / Accent",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

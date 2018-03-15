@@ -17,7 +17,7 @@
     "height": 217,
     "width": 308,
     "x": 16,
-    "y": 106
+    "y": 97
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -70,7 +70,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/a7c2ed45ee138219931b2a0876d73b39662e745e",
+          "_ref": "images/d2481a38dc0da869e12c167a1e4eac1d2f3c4fe8",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

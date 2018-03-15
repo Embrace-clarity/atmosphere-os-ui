@@ -16,7 +16,7 @@
     "height": 60,
     "width": 361,
     "x": 0,
-    "y": 62
+    "y": 30
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue",
-      "value": "All Connections"
+      "value": " "
     },
     {
       "_class": "overrideValue",
@@ -39,7 +39,7 @@
     }
   ],
   "overrides": {
-    "69C3A1CC-08A8-4811-B595-0D83DADD1800": "All Connections",
+    "69C3A1CC-08A8-4811-B595-0D83DADD1800": " ",
     "EE34601B-1121-4DD5-9088-6507437DD104": "People"
   },
   "resizingConstraint": 63,

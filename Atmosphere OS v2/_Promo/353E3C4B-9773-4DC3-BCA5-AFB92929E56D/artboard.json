@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0,
-    "green": 0,
-    "red": 0
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "do_objectID": "353E3C4B-9773-4DC3-BCA5-AFB92929E56D",
   "exportOptions": {
@@ -29,12 +29,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1079,
-    "width": 1024,
-    "x": -363,
-    "y": -363
+    "height": 740,
+    "width": 1124,
+    "x": -442,
+    "y": 84
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,15 +52,19 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "63699C6D-3020-451A-953A-B9D659C5B992"
+      "class": "text",
+      "id": "C6DC3A23-D615-4C6B-8B28-9A7AEA6648E4"
     },
     {
       "class": "symbolInstance",
       "id": "B734CD3C-8318-4094-B108-0966096BD9A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "154B393E-239A-41BD-A587-6638926D8674"
     }
   ],
-  "name": "Promo / Github",
+  "name": "Promo / Github Header",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

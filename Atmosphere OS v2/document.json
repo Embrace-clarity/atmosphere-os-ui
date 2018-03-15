@@ -123,7 +123,8 @@
     },
     "com.sketchrunner.Runner": {
       "ignoredLibraries": [
-        "2D9B6BBB-546D-4BB4-B556-040DEB0D155E"
+        "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+        "F55B8C55-90F8-4303-99AA-167FDD09C007"
       ]
     },
     "com.zeroheight.plugin": {

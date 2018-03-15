@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 1335,
+  "changeIdentifier": 1626,
   "do_objectID": "0DC36472-7E60-4AEB-904D-DA8497914CD6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 30,
     "width": 340,
-    "x": 9194,
+    "x": 11027,
     "y": 0
   },
   "hasBackgroundColor": true,
@@ -49,7 +49,7 @@
       "id": "6643947B-E810-44C5-8C35-8AC41193A6E8"
     }
   ],
-  "name": "System / Header / Hidden",
+  "name": "System / Header / Default",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

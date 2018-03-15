@@ -8,7 +8,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 2949,
+  "changeIdentifier": 3511,
   "do_objectID": "411CA6B2-2683-44AE-9FD0-85BCEC1E3FF2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "499B285A-F47A-44EB-8FAA-913BF7244457",
-    "height": 193,
+    "height": 120,
     "width": 340,
-    "x": 3095,
+    "x": 3552,
     "y": 0
   },
   "hasBackgroundColor": true,
@@ -53,21 +53,21 @@
       "id": "B45E8730-B0BF-4ACE-B484-107CBE0D2FC9"
     },
     {
-      "class": "symbolInstance",
-      "id": "659B3BAD-42C0-4B60-B031-CCA7EF2BD181"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F98710DF-34C4-48A2-A2A0-F1934D73234E"
+      "class": "text",
+      "id": "EB46FE15-0C69-4335-A2D1-8C18938A7EA6"
     },
     {
       "class": "symbolInstance",
       "id": "12F36B02-BB24-4303-8CB8-61B2993B1D97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC54BE1E-0E85-4A80-9547-C8F431B81191"
     }
   ],
-  "name": "Feed/ Item",
+  "name": "Feed/Item/Call",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

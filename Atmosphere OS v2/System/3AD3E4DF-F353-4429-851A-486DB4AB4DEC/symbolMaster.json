@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 26,
+  "changeIdentifier": 1501,
   "do_objectID": "3AD3E4DF-F353-4429-851A-486DB4AB4DEC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "6248A0BB-645C-47EE-9E5B-0505E2DF7C7F"
+    },
+    {
       "class": "symbolInstance",
       "id": "36962091-5276-4E79-A09A-B6D1E866A7AA"
     },
     {
-      "class": "symbolInstance",
-      "id": "86CD3B52-C80D-4A00-B8B9-A89D526A7BA2"
+      "class": "text",
+      "id": "19A63E56-9ACD-4239-9C73-C234A63088D6"
     }
   ],
   "layout": {
@@ -74,8 +78,8 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Screens / Command",
-  "nameIsFixed": false,
+  "name": "Screens / Controls",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

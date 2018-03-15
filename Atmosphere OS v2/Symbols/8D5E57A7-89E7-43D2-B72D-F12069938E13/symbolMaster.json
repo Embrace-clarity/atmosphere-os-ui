@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 15,
   "do_objectID": "8D5E57A7-89E7-43D2-B72D-F12069938E13",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 120,
     "width": 340,
-    "x": 7034,
-    "y": 220
+    "x": 4092,
+    "y": 440
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,8 +49,8 @@
       "id": "560F5E5F-CE98-47F1-880A-37D926F0ACF5"
     }
   ],
-  "name": "Modals / Popup / Assets / Bg / Light",
-  "nameIsFixed": false,
+  "name": "Globals / Bg / Light",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

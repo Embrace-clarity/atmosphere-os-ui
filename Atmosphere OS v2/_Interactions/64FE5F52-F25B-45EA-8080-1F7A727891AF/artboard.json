@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
-    "x": 1554,
+    "height": 1249,
+    "width": 824,
+    "x": 954,
     "y": -2192
   },
   "hasBackgroundColor": true,
@@ -49,10 +49,6 @@
     {
       "class": "group",
       "id": "863203B2-5DBD-4DA1-B982-6AA74E5D235D"
-    },
-    {
-      "class": "group",
-      "id": "C51B0BE1-66D9-4A8C-A018-27202592B62C"
     }
   ],
   "name": "Interactions / Hardware / Go Forward",

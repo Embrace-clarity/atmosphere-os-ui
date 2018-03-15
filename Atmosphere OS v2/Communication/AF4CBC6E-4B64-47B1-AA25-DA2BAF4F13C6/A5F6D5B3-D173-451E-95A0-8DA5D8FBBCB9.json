@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A5F6D5B3-D173-451E-95A0-8DA5D8FBBCB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9707E33-F34C-4D9C-9DFA-123C70FDBEC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09F79186-A952-4973-AE3F-0B5F6990390E",
+    "height": 120,
+    "width": 340,
+    "x": 0,
+    "y": 709
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feed/Item Call Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BBCE4DF7-B357-4EC8-A63B-D981EA0845BA",
+      "overrideName": "ADDA60CC-B727-4378-A569-4AA1EC6590B6_stringValue",
+      "value": "sent to @dsss"
+    }
+  ],
+  "overrides": {
+    "ADDA60CC-B727-4378-A569-4AA1EC6590B6": "sent to @dsss"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D9C022B-F7DD-4C15-98B0-127B3D3E5925",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "54A09A93-4183-41AD-B998-34F13C82C686",
+  "verticalSpacing": 0
+}

@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 15,
+  "changeIdentifier": 16,
   "do_objectID": "D33C40B7-584F-4BBF-8B40-06970678303F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "9933CA39-5E97-497D-8787-6E149312F7BB"
     }
   ],
-  "name": "Brand Assets / Logo",
+  "name": "Brand Assets / Logo Light",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

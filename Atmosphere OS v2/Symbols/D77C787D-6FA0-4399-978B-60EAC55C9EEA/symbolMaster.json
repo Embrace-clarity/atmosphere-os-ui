@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "326129C0-9368-441E-B87B-9D185D9309D0",
+    "green": 0,
+    "red": 0
+  },
+  "changeIdentifier": 3516,
+  "do_objectID": "D77C787D-6FA0-4399-978B-60EAC55C9EEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "332CB998-012B-44C8-8919-3A2737C2DD24",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F1F3885-4CE6-42AF-9677-3D1A171F5F2B",
+    "height": 120,
+    "width": 340,
+    "x": 3552,
+    "y": 919
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EB7969E3-4C68-48AD-8414-64B6C0227BB0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E81630E8-95E7-410B-86CD-6C64130F40F9"
+    },
+    {
+      "class": "text",
+      "id": "ADDA60CC-B727-4378-A569-4AA1EC6590B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DBA0253-1414-41FB-B79F-ADB9BBCC87DA"
+    }
+  ],
+  "name": "Feed/Item/Transcation",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDA8996B-301E-492A-B873-63EE940A96A5",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "54A09A93-4183-41AD-B998-34F13C82C686",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9CFEFF76-93A6-4CCB-A034-8959EC6FEBFF",
+    "guides": [
+    ]
+  }
+}

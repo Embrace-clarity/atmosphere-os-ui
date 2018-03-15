@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1,
-    "width": 341,
-    "x": 0,
-    "y": 0
+    "width": 317,
+    "x": 12,
+    "y": 119
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Divider / Light / Dark",
-  "nameIsFixed": false,
+  "name": "Divider",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

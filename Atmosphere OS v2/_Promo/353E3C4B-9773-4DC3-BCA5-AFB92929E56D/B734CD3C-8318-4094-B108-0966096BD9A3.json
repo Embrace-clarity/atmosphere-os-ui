@@ -12,11 +12,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "height": 63,
     "width": 40,
-    "x": 32,
-    "y": 32
+    "x": 48,
+    "y": 48
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -41,6 +41,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "F0043B77-5C7E-4AA9-8D8E-6BD874070A76",
+  "symbolID": "F4189154-4789-4C49-91FD-FCE11F6B8BE2",
   "verticalSpacing": 0
 }

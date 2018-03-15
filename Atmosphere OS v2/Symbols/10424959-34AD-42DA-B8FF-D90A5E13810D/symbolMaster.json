@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 505,
+  "changeIdentifier": 530,
   "do_objectID": "10424959-34AD-42DA-B8FF-D90A5E13810D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 8654,
+    "x": 10487,
     "y": 580
   },
   "grid": {
@@ -50,10 +50,6 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "ED485198-4973-4F89-9CAD-3A905E837599"
-    },
     {
       "class": "text",
       "id": "8DD37C93-9F65-408F-9ACB-E09C24F80DAD"

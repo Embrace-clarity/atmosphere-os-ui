@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 3949,
-    "y": -363
+    "x": 2168,
+    "y": -367
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,7 +47,7 @@
       "id": "ACFB8BE1-4E88-44D8-BCE7-D50753DA0034"
     }
   ],
-  "name": "Symbol / Clarity Copy",
+  "name": "Symbol / Clarity",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
