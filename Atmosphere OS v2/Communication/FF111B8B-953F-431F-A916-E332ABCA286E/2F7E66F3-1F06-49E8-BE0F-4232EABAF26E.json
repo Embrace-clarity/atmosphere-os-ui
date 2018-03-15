@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0E138E01-4C40-4970-8783-1C5916C0FA65",
-    "height": 30,
+    "height": 60,
     "width": 340,
     "x": 0,
     "y": 258
@@ -33,13 +33,13 @@
       "_class": "overrideValue",
       "do_objectID": "A986D56D-37C4-4923-818D-3BF542406675",
       "overrideName": "47DF78B0-0CEE-46CC-A1A7-A29BF5E54419_stringValue",
-      "value": "Recent"
+      "value": "Timeline"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "2322C667-C345-47A0-9184-287E991FCA86",
       "overrideName": "C65D7ECC-007B-4C9F-BF0D-6008B91F4633_stringValue",
-      "value": "Timeline"
+      "value": "Relationship"
     },
     {
       "_class": "overrideValue",
@@ -49,9 +49,9 @@
     }
   ],
   "overrides": {
-    "47DF78B0-0CEE-46CC-A1A7-A29BF5E54419": "Recent",
+    "47DF78B0-0CEE-46CC-A1A7-A29BF5E54419": "Timeline",
     "B558DC3D-6BEE-4D73-9663-02B48EF942AD": " ",
-    "C65D7ECC-007B-4C9F-BF0D-6008B91F4633": "Timeline"
+    "C65D7ECC-007B-4C9F-BF0D-6008B91F4633": "Relationship"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

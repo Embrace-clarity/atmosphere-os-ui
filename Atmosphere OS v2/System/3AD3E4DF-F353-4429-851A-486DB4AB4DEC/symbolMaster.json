@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 1501,
+  "changeIdentifier": 1744,
   "do_objectID": "3AD3E4DF-F353-4429-851A-486DB4AB4DEC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 480,
     "width": 340,
     "x": 786,
-    "y": -434
+    "y": 1756
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 2
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -78,7 +78,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Screens / Controls",
+  "name": "System / Status / Open",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

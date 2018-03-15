@@ -40,16 +40,9 @@
       "do_objectID": "41258AA9-5A34-4AAB-85B5-1A8511F33262",
       "overrideName": "E81630E8-95E7-410B-86CD-6C64130F40F9/1950689F-26A6-4718-B8D8-BA2A10D292E8_stringValue",
       "value": "2.1 BTC"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "AC51CA0F-9D16-4205-A708-462B38F14197",
-      "overrideName": "ADDA60CC-B727-4378-A569-4AA1EC6590B6_stringValue",
-      "value": "from @ana"
     }
   ],
   "overrides": {
-    "ADDA60CC-B727-4378-A569-4AA1EC6590B6": "from @ana",
     "E81630E8-95E7-410B-86CD-6C64130F40F9": {
       "1950689F-26A6-4718-B8D8-BA2A10D292E8": "2.1 BTC",
       "symbolID": "8F3D2E1F-CD1B-417A-8F42-6A591BBC3DE8"

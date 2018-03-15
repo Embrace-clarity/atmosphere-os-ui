@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "17DB7730-212A-4CE0-985F-CAB9A8614325",
+    "green": 0,
+    "red": 0
+  },
+  "changeIdentifier": 939,
+  "do_objectID": "728E8DB8-CD43-4B6A-ACF7-BBF7FC7A4479",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "434FB54F-E15D-4158-9B5F-B08FB4068580",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8E41C52-6537-4B86-98FC-46D55C7E77B2",
+    "height": 480,
+    "width": 340,
+    "x": 786,
+    "y": -434
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "6086F1A0-5D08-479E-8B5A-0F139FE04BD5",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0D4A0BCF-8CD7-4DF2-AF17-70B56D61348E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4266222B-E32A-42F1-BE76-8EFC9649A775"
+    },
+    {
+      "class": "text",
+      "id": "C861487C-241A-4FF6-8A55-A066A7283E0E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 72,
+    "do_objectID": "5429777D-FBEF-4103-97C0-4FB8A4872323",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 8,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 320
+  },
+  "name": "Screens / Locked",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A443E84C-1853-4992-AE8C-C52DE7DBC0D8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "49E28403-2165-4B6F-9F91-3D09E369E03E",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1,
+      "included": 1,
+      "linkedLayers": [
+        "5877CE82-FA9C-41CF-8C1C-9E24AB914A07",
+        "82E8FF3A-8CB8-4D38-AE00-4F7AE1446AB3"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1865916C-A8F9-4C2E-8B6C-403294EDE43C",
+    "guides": [
+    ]
+  }
+}

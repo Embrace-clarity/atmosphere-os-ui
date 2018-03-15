@@ -32,7 +32,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue",
-      "value": "People"
+      "value": "Discover"
     },
     {
       "_class": "overrideValue",
@@ -41,7 +41,7 @@
     }
   ],
   "overrides": {
-    "69C3A1CC-08A8-4811-B595-0D83DADD1800": "People",
+    "69C3A1CC-08A8-4811-B595-0D83DADD1800": "Discover",
     "EE34601B-1121-4DD5-9088-6507437DD104": "What's new"
   },
   "resizingConstraint": 63,

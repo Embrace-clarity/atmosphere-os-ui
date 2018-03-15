@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": -834,
+    "x": -444,
     "y": 762
   },
   "grid": {
@@ -58,10 +58,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "1CD26820-DB85-4725-8F22-6E98F69642EF"
-    },
-    {
       "class": "shapeGroup",
       "id": "B4766532-1170-4F5B-86B1-214FD61F9C64"
     },
@@ -75,19 +71,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A8A40177-0C6C-4474-A187-7F649D23369A"
+      "id": "D0FB305F-52D8-4410-A354-017474221F98"
     },
     {
       "class": "symbolInstance",
-      "id": "13D95479-843D-48C3-BA64-A27D1EBF25DA"
+      "id": "2BF5241D-D236-4E1A-9F1E-70AD58A99776"
     },
     {
       "class": "symbolInstance",
-      "id": "A948E8C7-B120-4F49-8F32-C56552EABF78"
+      "id": "DA65FF94-DD54-4A54-BFE1-47F1D6C49B2C"
     },
     {
       "class": "symbolInstance",
-      "id": "0EF99625-770B-40B4-8A19-487ED69BB008"
+      "id": "5213B64B-83BC-4921-8F80-BAF095E44A75"
     }
   ],
   "layout": {
@@ -105,7 +101,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Communication / People / Recent",
+  "name": "Communication / Discover",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

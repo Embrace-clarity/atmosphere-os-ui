@@ -29,7 +29,7 @@
     "y": -259
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -87,7 +87,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 898
   },
-  "name": "DS / Colours",
+  "name": "DS/Basics/Colours",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -26,7 +26,7 @@
     "height": 21,
     "width": 33,
     "x": 16,
-    "y": 21.5
+    "y": 20
   },
   "glyphBounds": "{{0, 4}, {32, 13}}",
   "isFlippedHorizontal": false,
@@ -68,5 +68,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
