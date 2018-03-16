@@ -16,7 +16,7 @@
     "height": 240,
     "width": 340,
     "x": 0,
-    "y": 240
+    "y": 58
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,8 +27,17 @@
   "name": "Type / Slash Menu",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55EE6CB5-B464-4CC7-914D-C0B56CB2C833",
+      "overrideName": "CDE61037-74D4-44CB-9F55-C28415B313CE/41C34D83-E526-4ABA-97C5-ED444502F1CC_stringValue",
+      "value": "/po"
+    }
   ],
   "overrides": {
+    "CDE61037-74D4-44CB-9F55-C28415B313CE": {
+      "41C34D83-E526-4ABA-97C5-ED444502F1CC": "/po"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

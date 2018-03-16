@@ -43,8 +43,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "DF02D1BB-74C8-47EC-B6B4-E0B90C640098"
+      "class": "symbolInstance",
+      "id": "1596ED1C-58D3-4A99-AFF5-9C523EEAC8CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A81F241E-76CE-406E-9574-B55033DDCD86"
     },
     {
       "class": "group",

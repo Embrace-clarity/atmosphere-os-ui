@@ -8,7 +8,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 2421,
+  "changeIdentifier": 2608,
   "do_objectID": "70AC41AD-6A26-4306-8D03-254D86FC5071",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +26,8 @@
     "do_objectID": "352762CE-B3F2-459E-9956-68E7C1BA4531",
     "height": 240,
     "width": 340,
-    "x": 12107,
-    "y": 130
+    "x": 13123,
+    "y": 160
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "6E8850D1-CFFF-413C-B550-FB4407A6F6F0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A8C4ABC7-1A34-4334-ABA4-D0DFAC7C20D6"
     },
     {
       "class": "symbolInstance",
@@ -66,19 +62,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "65C92D0A-94E3-431A-BB38-A28C9F6B1830"
+      "id": "CDE61037-74D4-44CB-9F55-C28415B313CE"
     },
     {
-      "class": "text",
-      "id": "4C1B2932-F9B7-4A12-B900-F34AA8D62980"
+      "class": "symbolInstance",
+      "id": "65C92D0A-94E3-431A-BB38-A28C9F6B1830"
     },
     {
       "class": "symbolInstance",
       "id": "5BA4B513-F034-4C7C-830E-49B6D0E64051"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "361C08AA-8951-4C0F-A718-57418529D011"
     }
   ],
   "name": "Type / Slash Menu",
