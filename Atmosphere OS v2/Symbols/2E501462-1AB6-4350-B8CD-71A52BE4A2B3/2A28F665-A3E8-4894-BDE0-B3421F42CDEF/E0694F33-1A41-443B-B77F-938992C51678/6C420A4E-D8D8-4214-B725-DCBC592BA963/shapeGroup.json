@@ -28,15 +28,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "9B5240D1-49C0-4BA6-874D-47108FA6BE36"
+      "class": "shapePath",
+      "id": "D89F6C72-DEA5-4007-8F47-2E8EDD8B813F"
     }
   ],
   "name": "Rectangle 10",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 180,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

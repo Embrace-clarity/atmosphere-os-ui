@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGSktYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwlLDA4OTo7PEBERlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA18QHkJ1dHRvbnMgLyBCYXNlIC8gQXNzZXRzIC8gRmlsbNMREgoTFhlXTlMua2V5c1pOUy5vYmplY3RzohQVgASABaIXGIAGgAiAEF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1R0KHh8gISIjJCNaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHSAAIAHI0A4AAAAAAAAEAHSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjKCorXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKLS4vXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAD4AJ0xESCjE0N6IyM4AKgAuiNTaADIANgA5fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAFwuU0ZOU0Rpc3BsYXnSJic9Pl8QE05TTXV0YWJsZURpY3Rpb25hcnmjPT8rXE5TRGljdGlvbmFyedImJ0FCXxAQTlNGb250RGVzY3JpcHRvcqJDK18QEE5TRm9udERlc2NyaXB0b3LSJic/RaI/K9ImJ0dIXxASTlNBdHRyaWJ1dGVkU3RyaW5nokkrXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0UxNVHJvb3SAAQAIABEAGgAjAC0AMgA3AEwAUgBZAGIAaQB2AHgAegB8AJ0ApACsALcAugC8AL4AwQDDAMUAxwDaAPwBBwESASQBRgFYAVoBXAFlAWcBbAF3AYABmgGeAbEBugG/AdwB3gHgAecB6gHsAe4B8QHzAfUB9wINAiMCLAI5Aj4CVAJYAmUCagJ9AoACkwKYApsCoAK1ArgCzQLfAuIC5wAAAAAAAAIBAAAAAAAAAE4AAAAAAAAAAAAAAAAAAALp"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "5B8B1575-9211-4210-B994-CA26E35BD8AC",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 241,
+    "x": 338,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 5}, {239, 18}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Buttons / Base / Assets / Fill",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "BAB532DC-98F3-44AF-949D-BC1B862590D0"
+  },
+  "textBehaviour": 0
+}

@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
-    "x": -594,
+    "height": 1249,
+    "width": 824,
+    "x": -794,
     "y": -2192
   },
   "hasBackgroundColor": true,
@@ -37,21 +37,22 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "0C2052A6-750B-4B8D-84BD-2A69E7351C15"
+      "class": "symbolInstance",
+      "id": "E4F6C4F5-61A6-4781-86BE-0971C35027AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DBE6A20-D044-4A71-888A-E865E2BE2FF9"
     },
     {
       "class": "group",
       "id": "E5569479-B6B0-43E1-87DB-AE5202C7370B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B4556BD2-E2A3-489B-A343-8452499DCD4D"
     }
   ],
   "name": "Interactions / Hardware / Main Nav",

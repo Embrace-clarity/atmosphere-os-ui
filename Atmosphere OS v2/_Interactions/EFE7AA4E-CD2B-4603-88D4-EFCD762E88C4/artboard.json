@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
-    "x": 480,
+    "height": 1249,
+    "width": 824,
+    "x": 80,
     "y": -2192
   },
   "hasBackgroundColor": true,
@@ -37,21 +37,22 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "A6D45286-FA1A-49C9-AEA4-98A65C18E01C"
+      "class": "symbolInstance",
+      "id": "1E9BA878-3D7E-4BE2-9A7D-AB5DAD4633E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9973AFEC-11BD-48CE-A005-D213DEA8AEB6"
     },
     {
       "class": "group",
       "id": "2DA1A35F-A31F-4208-975A-A17250AFECF5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2F5653E3-D098-42CB-9110-3BF3B2E45AE5"
     }
   ],
   "name": "Interactions / Hardware / Go Back",

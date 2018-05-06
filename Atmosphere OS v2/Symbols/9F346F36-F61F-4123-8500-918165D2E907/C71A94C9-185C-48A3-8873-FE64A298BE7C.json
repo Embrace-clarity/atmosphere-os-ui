@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C71A94C9-185C-48A3-8873-FE64A298BE7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EE805E0-0C66-43D5-A443-9A55D9DE0C22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CBF2426A-C41C-473F-8AD8-D7BE9E0270EB",
+    "height": 60,
+    "width": 260,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modals / Popup / Assets / Bg / Light",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77C5070B-66AA-43AB-ACE2-9D5FF0B9B66C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F5B35C15-3C41-4C3C-8D5E-A549E1F9A26B",
+  "verticalSpacing": 0
+}

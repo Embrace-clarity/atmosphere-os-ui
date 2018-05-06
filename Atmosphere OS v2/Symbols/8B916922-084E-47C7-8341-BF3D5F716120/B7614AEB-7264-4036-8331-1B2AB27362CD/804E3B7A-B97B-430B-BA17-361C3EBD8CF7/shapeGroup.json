@@ -45,29 +45,15 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.2542742300724637,
-          "blue": 0.8121545493197279,
-          "green": 0.8121545493197279,
-          "red": 0.8121545493197279
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
-        "thickness": 11
-      },
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 0.492866847826087,
-          "blue": 0.5317017431972789,
-          "green": 0.5317017431972789,
-          "red": 0.5317017431972789
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 5
+        "position": 1,
+        "thickness": 1
       }
     ],
     "endDecorationType": 0,
@@ -76,12 +62,43 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.2531136775362319,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 1,
+          "blue": 0.2235294117647059,
+          "green": 0.3294117647058825,
+          "red": 0.9176470588235294
         },
-        "fillType": 0,
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0, 1}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2235294117647059,
+                "green": 0.3294117647058825,
+                "red": 0.9176470588235294
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 1}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,

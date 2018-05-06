@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.1490196138620377,
-    "green": 0.1529411822557449,
-    "red": 0.1529411822557449
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
-  "changeIdentifier": 81,
+  "changeIdentifier": 1741,
   "do_objectID": "A27EE730-E7D8-42F7-AECE-0788A44FABFD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 274,
-    "width": 308,
-    "x": 1224,
-    "y": 1766
+    "height": 379,
+    "width": 340,
+    "x": 5108,
+    "y": 440
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,21 +39,34 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "FAAC66AD-DC61-425C-9198-FD86C6F92B2E"
+      "class": "text",
+      "id": "01AB6172-DFEB-46AB-8036-B103E65B830D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0ACB8308-BF77-40E7-B359-2E886738347D"
     },
     {
       "class": "symbolInstance",
       "id": "5C25F88A-1F98-4893-B8C5-CBCA05F105D1"
+    },
+    {
+      "class": "text",
+      "id": "6F083649-346E-4373-88CD-A7E60FCF8E8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "303CF6E9-C583-4238-9319-5E3ACD47AD3B"
     }
   ],
-  "name": "Feed / Text + Image",
-  "nameIsFixed": false,
+  "name": "Feed/Item/Text + Image",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -86,7 +99,7 @@
   "symbolID": "A5C75ED4-7C12-4976-A798-EAF64C18AC0D",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

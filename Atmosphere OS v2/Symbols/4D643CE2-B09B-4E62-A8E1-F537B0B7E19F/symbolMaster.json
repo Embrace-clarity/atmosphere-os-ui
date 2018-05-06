@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 72,
+  "changeIdentifier": 226,
   "do_objectID": "4D643CE2-B09B-4E62-A8E1-F537B0B7E19F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 308,
-    "x": 0,
-    "y": 1550
+    "height": 30,
+    "width": 340,
+    "x": 4028,
+    "y": 130
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -52,7 +53,7 @@
       "id": "FDE949AB-139A-44C6-8D2D-AC6EA7A55FF0"
     }
   ],
-  "name": "Feed / Assets / Meta",
+  "name": "Feed/Assets/ Meta",
   "nameIsFixed": false,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -86,7 +87,7 @@
   "symbolID": "036E3FF2-8E46-415C-A593-B536AEE5F32D",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

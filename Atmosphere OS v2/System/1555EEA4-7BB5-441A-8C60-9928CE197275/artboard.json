@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 415,
+    "x": 16,
     "y": 296
   },
   "grid": {
@@ -52,6 +52,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -59,10 +60,6 @@
     {
       "class": "shapeGroup",
       "id": "727C7702-3386-44AD-9323-3F744826EF1D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "719B70B1-AA93-494D-A037-A0077AA82496"
     },
     {
       "class": "text",
@@ -79,6 +76,10 @@
     {
       "class": "text",
       "id": "B77BB9EC-06AC-481F-98B2-3527F4174C2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1B73634-3D1C-40BA-9FF2-1CDF9CF1DB82"
     }
   ],
   "layout": {
@@ -96,7 +97,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Popup / Default",
+  "name": "Popup / Actions / Default",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -115,7 +116,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

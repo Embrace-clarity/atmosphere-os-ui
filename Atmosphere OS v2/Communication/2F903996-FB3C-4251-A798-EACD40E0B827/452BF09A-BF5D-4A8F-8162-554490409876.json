@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "452BF09A-BF5D-4A8F-8162-554490409876",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58B0A664-3CE5-4A4A-95FF-6F05D05E2F41",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF2228BC-D222-4CCD-B907-380371913225",
+    "height": 40,
+    "width": 40,
+    "x": 144,
+    "y": 424
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / 24 / White / Mic Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3AD61152-9ED8-4E2C-9687-E7D6E5B3DB28",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1ADE2AA1-27D9-4BC5-BC4E-54CD0C0AE75D",
+  "verticalSpacing": 0
+}

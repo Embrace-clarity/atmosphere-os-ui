@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 1585,
-    "y": 296
+    "x": 16,
+    "y": 1756
   },
   "grid": {
     "_class": "simpleGrid",
@@ -52,6 +52,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -66,15 +67,15 @@
     },
     {
       "class": "text",
-      "id": "7EADCC2C-36E6-445D-B08F-F528056551B8"
-    },
-    {
-      "class": "text",
       "id": "2CA94806-82ED-4A0F-AD9E-605CBF489907"
     },
     {
       "class": "text",
       "id": "03A32BC3-CBD5-4110-BA61-8A0240EA2BF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FF7318B-C59E-421E-A43E-7630FFDB57AF"
     }
   ],
   "layout": {
@@ -92,7 +93,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Popup / Toast",
+  "name": "System / Status / No connection",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

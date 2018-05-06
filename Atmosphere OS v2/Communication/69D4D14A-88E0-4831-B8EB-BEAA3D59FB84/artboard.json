@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 1543,
+    "x": -834,
     "y": 32
   },
   "grid": {
@@ -52,6 +52,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -61,8 +62,12 @@
       "id": "0FDDE0FA-D2B9-4B33-84DC-964F14CC1383"
     },
     {
-      "class": "group",
-      "id": "A0F13689-32E8-4314-9901-F2341554C085"
+      "class": "shapeGroup",
+      "id": "7007C6DC-F37B-4884-9CE1-3D9C0F422007"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB5CBBD6-89A6-42F8-B4E2-84EF144226C8"
     }
   ],
   "layout": {

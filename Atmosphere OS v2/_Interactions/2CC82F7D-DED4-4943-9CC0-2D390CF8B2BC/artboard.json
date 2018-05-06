@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
+    "height": 1249,
+    "width": 824,
     "x": -1668,
-    "y": -493
+    "y": -693
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -37,6 +37,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -44,10 +45,6 @@
     {
       "class": "text",
       "id": "40C208CF-D892-4CC5-BD2A-47BAC443658C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9D15D494-F8AD-4927-AFE7-AC97425B91EC"
     }
   ],
   "name": "Interactions / Software / Intro",

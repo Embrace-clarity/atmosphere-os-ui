@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
-    "x": 1554,
+    "height": 1249,
+    "width": 824,
+    "x": 954,
     "y": -2192
   },
   "hasBackgroundColor": true,
@@ -37,21 +37,22 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "9D43E63F-1356-4F27-80E3-F40FEEA148C1"
+      "class": "symbolInstance",
+      "id": "F66447E2-F968-47E6-912A-FD971590AC82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0EDE245-F77A-4C52-AC60-DF061933A10A"
     },
     {
       "class": "group",
       "id": "863203B2-5DBD-4DA1-B982-6AA74E5D235D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C4BCA307-E7AA-46ED-854C-3B09EF6DEC80"
     }
   ],
   "name": "Interactions / Hardware / Go Forward",

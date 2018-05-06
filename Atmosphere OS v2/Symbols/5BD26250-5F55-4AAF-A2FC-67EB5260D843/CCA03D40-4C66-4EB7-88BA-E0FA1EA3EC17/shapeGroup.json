@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 10,
-    "width": 10,
-    "x": 3.071067811865476,
-    "y": 15.07106781186553
+    "height": 7.071067811865283,
+    "width": 7.071067811865554,
+    "x": 3.464466094067128,
+    "y": 12.4644660940674
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "C30CF9F5-8C04-4887-B950-B4431FCFA925"
+      "id": "B23339B7-E8DA-4650-BB23-0880152BDD45"
     }
   ],
   "name": "Rectangle 7",

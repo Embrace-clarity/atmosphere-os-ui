@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": -834,
+    "x": -1224,
     "y": -698
   },
   "grid": {
@@ -52,6 +52,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -84,8 +85,8 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Call — Calling",
-  "nameIsFixed": false,
+  "name": "Call/Calling",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

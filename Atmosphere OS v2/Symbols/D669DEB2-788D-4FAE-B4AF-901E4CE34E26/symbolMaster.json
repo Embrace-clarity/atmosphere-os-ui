@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 4715,
+  "changeIdentifier": 4741,
   "do_objectID": "D669DEB2-788D-4FAE-B4AF-901E4CE34E26",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 120,
     "width": 120,
-    "x": 220,
-    "y": 228
+    "x": 2579,
+    "y": 220
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,17 +39,14 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B0E83443-FC5D-41F8-BAC1-219947F11297"
-    },
-    {
       "class": "group",
-      "id": "43C41F71-B499-4715-8793-6BC687C0E0AB"
+      "id": "0234AB25-D964-4B35-BE90-18B17D6920B7"
     }
   ],
   "name": "Device / Interactions / Swipe Left",

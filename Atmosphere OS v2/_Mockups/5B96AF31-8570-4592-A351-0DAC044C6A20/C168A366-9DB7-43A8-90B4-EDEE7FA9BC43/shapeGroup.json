@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 0,
+    "x": 14,
     "y": 0
   },
   "hasClickThrough": false,
@@ -70,7 +70,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/61844e2cf5317871f603095934730951c45244d9",
+          "_ref": "images/ec86a7f6e581376e7e0a2177bfda970fe200ab88",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

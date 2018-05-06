@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 110,
+  "changeIdentifier": 1297,
   "do_objectID": "35C1AA2A-FEC8-4849-A230-447C06319388",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 75,
-    "width": 308,
-    "x": 440,
-    "y": 3175
+    "height": 60,
+    "width": 340,
+    "x": 8010,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,18 +39,27 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "676F9766-4DEC-4094-A2F6-32128CCCE16F"
+      "class": "symbolInstance",
+      "id": "DE26F58C-71CA-4D9A-A478-6949F3E2F3CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9218D0E4-BD75-43AF-8241-EE5001926B96"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F824973-2778-44E3-A653-C5F6E0E23064"
     }
   ],
-  "name": "List / Item",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "List / Item / Default",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -82,7 +91,7 @@
   "symbolID": "71454109-6925-4CA0-8DD5-67855C73773C",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

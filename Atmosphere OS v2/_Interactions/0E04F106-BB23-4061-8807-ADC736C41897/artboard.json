@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
-    "x": -594,
-    "y": -493
+    "height": 1249,
+    "width": 824,
+    "x": -794,
+    "y": -693
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -37,21 +37,22 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "DF02D1BB-74C8-47EC-B6B4-E0B90C640098"
+      "class": "symbolInstance",
+      "id": "1596ED1C-58D3-4A99-AFF5-9C523EEAC8CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A81F241E-76CE-406E-9574-B55033DDCD86"
     },
     {
       "class": "group",
       "id": "9E0B9DE1-4D1F-43A5-A4D8-50D66FE31C52"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C456CF79-4EF8-4C51-86A5-C4F5D98AA7DB"
     }
   ],
   "name": "Interactions / Software / Main View",

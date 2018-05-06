@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
-    "x": 4776,
+    "height": 1249,
+    "width": 824,
+    "x": 3576,
     "y": -2192
   },
   "hasBackgroundColor": true,
@@ -37,21 +37,26 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "C46715ED-1B22-483F-A5A7-5701F549985E"
+    },
+    {
       "class": "group",
-      "id": "F08FE7D8-D5AA-4AEE-85BC-31D8A20F7B99"
+      "id": "F758FDA9-E9D1-4397-B349-CD56820723BD"
     },
     {
       "class": "group",
       "id": "121FC7C6-0623-4465-8C00-13EC83DF5E75"
     },
     {
-      "class": "symbolInstance",
-      "id": "076345FB-311D-459B-97E8-80ECF578AD5C"
+      "class": "group",
+      "id": "0C79D97E-E5DE-4CAB-8969-7704EC6CEDE4"
     }
   ],
   "name": "Interactions / Hardware / Scroll",

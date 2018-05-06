@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTdCRUhMUFhZWltcX2NVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANvEEsAMgAzACAAVwBlAGQAbgBlAHMAZABhAHkALAAgAE0AYQByAGMAaAAKAC0AMwCwACAAYQBuAGQAIABzAHUAcABlAHIAIABzAHUAbgBuAHkALgAgAEgAbwB3AGUAdgBlAHIAIAByAGEAaQBuACAAaQBzACAAZQB4AHAAZQBjAHQAZQBkACAAaQBuACAAMwAwAG0AaQBuAC7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAD4ATgA5fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnJiaADIANgAyADIAOU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/wAAAAAAAAIz/gAAAAAAAA0jIzNDVaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNDZYTlNPYmplY3TWODk6Owo8PT4/PkE/Wk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAECNALgAAAAAAAIAQgBLSEgpDRKCAEdIyM0ZHV05TQXJyYXmiRjbSMjNJSl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0lLNl8QEE5TUGFyYWdyYXBoU3R5bGXSCk1OT18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBqAFNMREgpRVFeiUlOAFYAWolVWgBeAGIAZXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABfEA9JbnRlclVJLVJlZ3VsYXLSMjNdXl8QE05TTXV0YWJsZURpY3Rpb25hcnmjXTQ20jIzYGFfEBBOU0ZvbnREZXNjcmlwdG9yomI2XxAQTlNGb250RGVzY3JpcHRvctIyM2RlXxASTlNBdHRyaWJ1dGVkU3RyaW5nomY2XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WlqVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAR8BJgEuATkBPQE/AUEBQwFHAUkBSwFNAU8BfAGPAbEBuAG9Ab8BwQHDAcUBygHMAc4B0AHSAdQB2AHeAeMB6QHyAfsCAAILAhQCIQIkAi0COgJFAlECYwJwAoIChAKGAo8CkQKTApgCmQKbAqACqAKrArACygLOAuEC5gMDAwUDBwMOAxEDEwMVAxgDGgMcAx4DNANKA1MDZQNqA4ADhAOJA5wDnwOyA7cDzAPPA+QD9gP5A/4AAAAAAAACAQAAAAAAAABrAAAAAAAAAAAAAAAAAAAEAA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C861487C-241A-4FF6-8A55-A066A7283E0E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC14732A-A284-4C11-BD0D-5DF66B57E32E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E0D44B9-85B3-44D8-A6D6-51B12FE3919F",
+    "height": 45,
+    "width": 198,
+    "x": 16,
+    "y": 132
+  },
+  "glyphBounds": "{{0, 3}, {192, 42}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "23 Wednesday, March",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A05A0983-CA8F-4B20-9545-4A6F7757D483"
+  },
+  "textBehaviour": 1
+}

@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
-    "x": 2628,
+    "height": 1249,
+    "width": 824,
+    "x": 1828,
     "y": -2192
   },
   "hasBackgroundColor": true,
@@ -37,6 +37,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -48,10 +49,6 @@
     {
       "class": "group",
       "id": "C2D9FFA2-92E5-4CAD-B6D4-E65E5DC79350"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7C113D60-B343-4BE1-A99B-ED85F1BFF772"
     }
   ],
   "name": "Interactions / Hardware / Lock",

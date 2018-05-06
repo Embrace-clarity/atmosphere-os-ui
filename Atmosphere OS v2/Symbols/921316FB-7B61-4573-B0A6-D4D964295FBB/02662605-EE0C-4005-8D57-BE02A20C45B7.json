@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGSktYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwlLDA4OTo7PEBERlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA18QHExpc3QgLyBJdGVtIC8gQXNzZXRzIC8gUmlnaHTTERIKExYZV05TLmtleXNaTlMub2JqZWN0c6IUFYAEgAWiFxiABoAIgBBfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdUdCh4fICEiIyQjWk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0gACAByNAOAAAAAAAABAB0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloygqK18QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3TSCi0uL18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgA+ACdMREgoxNDeiMjOACoALojU2gAyADYAOXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABcLlNGTlNEaXNwbGF50iYnPT5fEBNOU011dGFibGVEaWN0aW9uYXJ5oz0/K1xOU0RpY3Rpb25hcnnSJidBQl8QEE5TRm9udERlc2NyaXB0b3KiQytfEBBOU0ZvbnREZXNjcmlwdG9y0iYnP0WiPyvSJidHSF8QEk5TQXR0cmlidXRlZFN0cmluZ6JJK18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFMTVRyb290gAEACAARABoAIwAtADIANwBMAFIAWQBiAGkAdgB4AHoAfACbAKIAqgC1ALgAugC8AL8AwQDDAMUA2AD6AQUBEAEiAUQBVgFYAVoBYwFlAWoBdQF+AZgBnAGvAbgBvQHaAdwB3gHlAegB6gHsAe8B8QHzAfUCCwIhAioCNwI8AlICVgJjAmgCewJ+ApEClgKZAp4CswK2AssC3QLgAuUAAAAAAAACAQAAAAAAAABOAAAAAAAAAAAAAAAAAAAC5w=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "02662605-EE0C-4005-8D57-BE02A20C45B7",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 222,
+    "x": 7730,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 5}, {220, 19}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "List / Item / Assets / Right",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "BAB532DC-98F3-44AF-949D-BC1B862590D0"
+  },
+  "textBehaviour": 0
+}

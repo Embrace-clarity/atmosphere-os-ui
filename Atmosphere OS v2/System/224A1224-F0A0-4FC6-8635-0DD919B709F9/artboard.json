@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 415,
-    "y": -1164
+    "x": 16,
+    "y": -434
   },
   "grid": {
     "_class": "simpleGrid",
@@ -41,7 +41,7 @@
     "thickGridTimes": 2
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,25 +52,26 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "4822E19C-7C49-4669-A164-D25694E9C525"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0763FBC6-1848-4B74-ADA5-92C0FEAE0B17"
-    },
-    {
-      "class": "text",
-      "id": "03955A8A-57AA-4F8F-9CBB-98F41CE7CBF7"
+      "id": "BB3B6C3F-36A0-4B04-BC02-4CCC1B30AB01"
     },
     {
       "class": "group",
-      "id": "A1ADE684-90A3-45AD-BB61-CDFE3F48C188"
+      "id": "DB38E17B-C7DB-48CA-A455-449223AE2D4D"
+    },
+    {
+      "class": "group",
+      "id": "F551AF4E-6566-4B0E-938E-4375F0E2E091"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60CF3EA9-B4B9-4864-A729-49CD78D395E8"
     }
   ],
   "layout": {

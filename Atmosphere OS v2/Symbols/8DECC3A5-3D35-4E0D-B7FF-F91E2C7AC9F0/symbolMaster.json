@@ -7,7 +7,7 @@
     "green": 0.1529411822557449,
     "red": 0.1529411822557449
   },
-  "changeIdentifier": 14,
+  "changeIdentifier": 22,
   "do_objectID": "8DECC3A5-3D35-4E0D-B7FF-F91E2C7AC9F0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 1,
     "width": 341,
-    "x": 0,
-    "y": 1349
+    "x": 3487,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -48,7 +49,7 @@
       "id": "9273A289-9E9B-4E75-A67E-3C802AE0A022"
     }
   ],
-  "name": "Divider / Light / Dark",
+  "name": "Divider / Dark",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": -834,
+    "x": -444,
     "y": 762
   },
   "grid": {
@@ -52,6 +52,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -62,10 +63,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8C141161-11E9-4538-89CE-BF87F7CFCD13"
-    },
-    {
-      "class": "symbolInstance",
       "id": "1F00679A-BE20-4443-A90B-9836110F4761"
     },
     {
@@ -73,12 +70,16 @@
       "id": "005B2377-031E-4E9F-815E-E560AE8C35C2"
     },
     {
-      "class": "group",
-      "id": "EE2B9AB6-D6EA-4AB0-8BC7-9D63105532D9"
+      "class": "symbolInstance",
+      "id": "D0FB305F-52D8-4410-A354-017474221F98"
     },
     {
       "class": "symbolInstance",
-      "id": "0D400258-CCB9-4215-855B-F1DEAA3D1449"
+      "id": "2BF5241D-D236-4E1A-9F1E-70AD58A99776"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA65FF94-DD54-4A54-BFE1-47F1D6C49B2C"
     }
   ],
   "layout": {
@@ -96,7 +97,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Communication / People / Recent",
+  "name": "Communication / Discover",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -115,7 +116,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 1
     }
   },

@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 3949,
-    "y": -363
+    "x": 2168,
+    "y": -367
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,25 +37,25 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "886DA087-EC46-4FE8-B8AC-98A6A2DCE5C9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "685E4566-6A8D-41C1-AB86-2B1EA18995D4"
-    },
-    {
       "class": "symbolInstance",
       "id": "ACFB8BE1-4E88-44D8-BCE7-D50753DA0034"
     }
   ],
-  "name": "Symbol / Clarity Copy",
+  "name": "Symbol / Clarity",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -87,7 +87,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 1195,
-    "y": 296
+    "x": 406,
+    "y": 1026
   },
   "grid": {
     "_class": "simpleGrid",
@@ -52,6 +52,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -61,24 +62,16 @@
       "id": "5263ACE3-AA83-4185-953F-25523AF77849"
     },
     {
-      "class": "shapeGroup",
-      "id": "4375F348-1B92-444B-B500-F2C9069886FE"
-    },
-    {
-      "class": "text",
-      "id": "E4336B55-EF62-4C43-894C-60538CCE18B0"
-    },
-    {
-      "class": "text",
-      "id": "35B5CC87-4A4C-4C7A-9D2C-0F531CC52DE9"
-    },
-    {
       "class": "text",
       "id": "C8BCCE68-23E4-4151-9D08-7C113C16720E"
     },
     {
       "class": "text",
       "id": "0D5256BC-96EB-4569-B62C-2296B7B2C90F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5688B58C-61AF-4F8F-83DF-F977CACB4184"
     }
   ],
   "layout": {
@@ -96,7 +89,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Popup / Error",
+  "name": "Popup / Notification / Error",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -115,7 +108,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

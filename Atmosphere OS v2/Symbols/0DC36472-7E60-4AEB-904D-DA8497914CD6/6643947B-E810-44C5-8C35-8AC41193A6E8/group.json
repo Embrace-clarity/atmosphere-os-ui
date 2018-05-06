@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 340,
-    "x": 0,
-    "y": 0
+    "height": 15,
+    "width": 32,
+    "x": 16,
+    "y": 7
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,17 +26,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "F3B2D6AB-9F12-4D03-BA01-BF53B6640B88"
-    },
-    {
       "class": "text",
       "id": "9C651E91-828E-437C-B00B-3774499A55C1"
     }
   ],
   "name": "Group",
   "nameIsFixed": false,
-  "resizingConstraint": 15,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

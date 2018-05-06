@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 744,
-    "width": 527,
-    "x": 456,
-    "y": 108
+    "height": 577,
+    "width": 409,
+    "x": 516,
+    "y": 210
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -59,7 +59,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 5,
-      "opacity": 1
+      "opacity": 0.98
     },
     "endDecorationType": 0,
     "fills": [
@@ -94,7 +94,6 @@
           "elipseLength": 0,
           "from": "{0.5, 0}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",

@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1449,
-    "width": 1024,
-    "x": 3702,
+    "height": 1249,
+    "width": 824,
+    "x": 2702,
     "y": -2192
   },
   "hasBackgroundColor": true,
@@ -37,21 +37,26 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "D2C2F488-8B09-4FAA-B666-D3B878A85801"
+      "class": "symbolInstance",
+      "id": "795D2F9B-1D94-4B63-88E7-4919DCFAA21D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83AE480C-B53D-4DD3-B722-090E4D230F65"
     },
     {
       "class": "group",
       "id": "4AA68427-2B7F-4B38-97CF-6FE34A99FF73"
     },
     {
-      "class": "symbolInstance",
-      "id": "C490DFC1-27F3-437F-BF5A-3FCE21073D0E"
+      "class": "group",
+      "id": "BEE660DE-60D9-47F3-97DD-4C187ABDE326"
     }
   ],
   "name": "Interactions / Hardware / Quick Command",

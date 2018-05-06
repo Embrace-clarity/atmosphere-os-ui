@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 36,
+  "changeIdentifier": 649,
   "do_objectID": "07598520-83BC-4B48-8C00-D615679F19CC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
-    "width": 28,
-    "x": 0,
-    "y": 2493
+    "height": 24,
+    "width": 24,
+    "x": 6808,
+    "y": 124
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -48,7 +49,7 @@
       "id": "01B55854-F7F3-4498-A4B7-6F6B5A34A3D5"
     }
   ],
-  "name": "Icon / 28 / White / Circle",
+  "name": "Icon / 24 / White / Circle",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -82,7 +83,7 @@
   "symbolID": "8213EA34-ADFF-4462-ADB2-7FB87C9E9EDF",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

@@ -16,7 +16,7 @@
     "height": 30,
     "width": 340,
     "x": 0,
-    "y": 30
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,15 +24,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "System / Label Header",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC6289B4-1414-4668-8E57-1928659E7F77",
+      "overrideName": "9FD2765B-451D-4C28-B2CE-599EBB1F2369_stringValue",
+      "value": "Communications"
+    }
   ],
   "overrides": {
+    "9FD2765B-451D-4C28-B2CE-599EBB1F2369": "Communications"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

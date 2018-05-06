@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 4744,
+  "changeIdentifier": 4771,
   "do_objectID": "5E6D60E5-62B1-41DC-8B14-909769FEDD32",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 120,
     "width": 120,
-    "x": 440,
-    "y": 228
+    "x": 2579,
+    "y": 440
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,17 +39,14 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "1CFCE7DB-5CFA-4298-821E-6A6CE523DF95"
-    },
-    {
       "class": "group",
-      "id": "ADC1FC17-FFFC-433B-9823-D099C7D4105C"
+      "id": "CBE1ABDD-D979-45D3-84DF-F2FFEDBFF557"
     }
   ],
   "name": "Device / Interactions / Swipe Right",

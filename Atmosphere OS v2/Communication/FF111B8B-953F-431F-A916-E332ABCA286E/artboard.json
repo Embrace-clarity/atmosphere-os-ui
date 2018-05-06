@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 763,
+    "x": -1224,
     "y": 32
   },
   "grid": {
@@ -52,49 +52,38 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
+      "id": "AF8CCC2B-14E7-49A3-8563-55534365CF11"
+    },
+    {
+      "class": "shapeGroup",
       "id": "6093A57C-E568-411E-9906-5232320EBAD3"
     },
     {
-      "class": "symbolInstance",
-      "id": "52AC3CD9-676F-4AED-8BB8-0B5749F53007"
+      "class": "group",
+      "id": "D194DACB-7DE3-41C2-825D-3CE964A4C069"
     },
     {
       "class": "group",
-      "id": "E6C45B59-FEE0-419E-95CC-B41960742048"
+      "id": "30BFBDAA-8903-485D-A847-31874BD22386"
     },
     {
       "class": "symbolInstance",
-      "id": "65EC8BFB-A9FA-4E5E-9340-37A6A076ED82"
+      "id": "8577314D-9E28-49F0-9CBC-364EDDFE8BE9"
+    },
+    {
+      "class": "text",
+      "id": "DA87BA9C-EBAD-466C-A6DE-747392200618"
     },
     {
       "class": "symbolInstance",
-      "id": "6A10E4FC-EF28-4208-A15C-9B006F9DCC52"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BD14862F-5ED0-486F-9435-6E9668E0F3F1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CE3B62D9-5819-4D71-9D39-27808134C791"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FAD21CCD-B897-4F14-9BD0-26CA4654A3E4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2240A42C-2D5D-4E0A-89E5-21803A752CC8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1BC5C8C6-E1AC-407C-B70C-86EAEF79B370"
+      "id": "2F7E66F3-1F06-49E8-BE0F-4232EABAF26E"
     }
   ],
   "layout": {
@@ -131,7 +120,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 1
     }
   },

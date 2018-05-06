@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 2165,
   "do_objectID": "3AD3E4DF-F353-4429-851A-486DB4AB4DEC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 805,
-    "y": -434
+    "x": 406,
+    "y": 1756
   },
   "grid": {
     "_class": "simpleGrid",
@@ -45,17 +45,26 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "6248A0BB-645C-47EE-9E5B-0505E2DF7C7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2224B492-944D-4484-BDE0-585321FB80BE"
+    },
+    {
       "class": "symbolInstance",
       "id": "36962091-5276-4E79-A09A-B6D1E866A7AA"
     },
     {
-      "class": "symbolInstance",
-      "id": "86CD3B52-C80D-4A00-B8B9-A89D526A7BA2"
+      "class": "text",
+      "id": "19A63E56-9ACD-4239-9C73-C234A63088D6"
     }
   ],
   "layout": {
@@ -73,8 +82,8 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Nav / Command",
-  "nameIsFixed": false,
+  "name": "System / Status / Open",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,7 +98,7 @@
   "symbolID": "685BC3E6-628B-418A-BF0F-B69B63C8B699",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

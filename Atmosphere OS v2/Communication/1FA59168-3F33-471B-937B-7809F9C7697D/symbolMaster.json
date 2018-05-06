@@ -7,7 +7,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 25,
+  "changeIdentifier": 968,
   "do_objectID": "1FA59168-3F33-471B-937B-7809F9C7697D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": -834,
-    "y": 1492
+    "x": -1224,
+    "y": 2041
   },
   "grid": {
     "_class": "simpleGrid",
@@ -45,37 +45,30 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "767B6E01-53A0-45B0-9E9D-858FCC416ACD"
+      "class": "symbolInstance",
+      "id": "1A6EC0D1-BF44-467F-8B95-85CA463BA41B"
     },
     {
       "class": "shapeGroup",
       "id": "AC3EB53C-B9F6-4C11-AF8A-B4D3614616E8"
     },
     {
-      "class": "group",
-      "id": "1F7DECCD-B1C1-493F-B0B6-3768C1852487"
+      "class": "symbolInstance",
+      "id": "A61625D7-29A5-47D5-9AAE-1C918480492A"
     },
     {
       "class": "symbolInstance",
       "id": "D2803234-8CF3-4E4D-BC3F-CAB108996461"
     },
     {
-      "class": "shapeGroup",
-      "id": "707D2FC6-4BE0-4995-AAA7-0D6B56C6124C"
-    },
-    {
       "class": "symbolInstance",
       "id": "B3786D9C-CC34-483A-B7D2-6581CE0546A8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "74C5BB3A-4370-4580-9D04-FDF924656A7F"
     },
     {
       "class": "symbolInstance",
@@ -97,7 +90,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Communication / Chat",
+  "name": "Screens / Chat",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -113,7 +106,7 @@
   "symbolID": "74782969-935E-4244-887F-95B6B0444004",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {
