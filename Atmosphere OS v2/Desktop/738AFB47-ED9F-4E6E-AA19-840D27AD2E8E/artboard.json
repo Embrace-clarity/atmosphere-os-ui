@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.4880952380952381,
-    "green": 0.4880952380952381,
-    "red": 0.4880952380952381
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
-  "do_objectID": "211467C9-81C7-4A01-85D9-4ACBA2424C30",
+  "do_objectID": "738AFB47-ED9F-4E6E-AA19-840D27AD2E8E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1523,
-    "width": 898,
-    "x": -369,
-    "y": -259
+    "height": 1200,
+    "width": 2000,
+    "x": -192,
+    "y": 16
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,45 +44,42 @@
   "layers": [
     {
       "class": "group",
-      "id": "521D2B0B-EAA3-423B-81FC-5570C1D4B585"
+      "id": "3203059D-3DBB-48BF-9FA1-99DF1000CD5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E727A0E-E50D-4374-AD8A-95A5D46CE4B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E000C5F3-7848-4C7D-81F7-8C47A77C8C92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A3C4E47-78B7-447C-90B9-FFC7E04E620D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA31E544-AAED-4F06-B1A4-5559DE42AEC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E17CAA5-0D70-4BA6-A1B1-BB638BFC98DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9D63CAF-5D7C-4827-8592-D90F885F766A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C67DE66B-E5D6-463B-BFA0-90EA72AF04F9"
     },
     {
       "class": "group",
-      "id": "F2F9C04D-B7A8-4922-B377-05E293A37418"
-    },
-    {
-      "class": "group",
-      "id": "2E878E32-8FDD-466C-B8FE-437A7E73455C"
-    },
-    {
-      "class": "group",
-      "id": "8C6AF6AD-A2DD-47BD-AFAD-619181538092"
-    },
-    {
-      "class": "group",
-      "id": "B6EEAF6B-C922-49C7-B5BE-A0D0A2E0B4E4"
-    },
-    {
-      "class": "text",
-      "id": "D0736E7E-0649-42F4-BFD8-55979F9A91B4"
+      "id": "7575D4B3-0C7A-4484-840D-A784ADED4B2A"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 128.3333333333333,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 7,
-    "gutterWidth": 8,
-    "guttersOutside": true,
-    "horizontalOffset": 40,
-    "isEnabled": false,
-    "numberOfColumns": 6,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 818
-  },
-  "name": "DS/Basics/Typography",
+  "name": "Desktop / Command Center",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -115,7 +112,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {
