@@ -1,3 +1,16 @@
 # Atmosphere OS
 
-![alt text](https://github.com/Embrace-clarity/atmosphere-os/blob/master/Design%20Source/Assets/Header.png"aos clarity promo")
+Operating system designed for decentralisation.
+
+![Atmosphere OS](https://github.com/Embrace-clarity/atmosphere-os/blob/master/Design%20Source/Assets/Header.png)
+
+# Contribute
+
+## UI/UX Designers and Thinkers
+If you want to contribute with design please follow the guide in [Design Source](https://github.com/Embrace-clarity/atmosphere-os/tree/master/Design%20Source).
+
+## Developers
+If you feel like contributing code you might want to read through the [Whitepaper](https://github.com/Embrace-clarity/clarity-whitepaper) first. The project is in early stage so we need an Architecture of the OS. 
+
+## Product Designers and Hardware Engineers
+The renders we currently have are just concepts done in Cinema 4D. We need serious development in this area as well.
