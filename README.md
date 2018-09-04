@@ -8,7 +8,7 @@ Atmosphere is an operating system free from the cloud. It is fully  decentralize
 - [UI Guidelines](https://embrace-clarity.gitbooks.io/atmosphere-os-ui-guidelines/content/)
 
 ## Using the File
-- Download [Interface Typeface](https://rsms.me/inter/)
+- Download [Inter Ui Typeface](https://rsms.me/inter/)
 - Download [Kactus](https://kactus.io) for version control
 
 ## Plugins (Recommended)
