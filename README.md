@@ -4,8 +4,6 @@ Operating system designed for decentralisation.
 
 ![Atmosphere OS](https://github.com/Embrace-clarity/atmosphere-os/blob/master/Design%20Source/Assets/Header.png)
 
-
-
 # Contribute
 
 ## UI/UX Designers and Thinkers
