@@ -1,10 +1,64 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGk5RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJgcIERIYJSYnKCkxNDo9QUlKS0xNUVVhYmNkZWZnaWp2goOEh4uPVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAjgAOAJV8QD0wgRmFkZSBMaWdodCAyNNITDBQXWk5TLm9iamVjdHOiFRaABIAegCLTGRMMGh8kV05TLmtleXOkGxwdHoAFgAaAB4AIpCAhIiOACYANgBWAHYAcXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1CoMKywtLi8vWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgACADIAKgArSEwwyM6CAC9I1Njc4WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaI3OVhOU09iamVjdNI1Njs8XxAQTlNQYXJhZ3JhcGhTdHlsZaI7OdIMPj9AXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xkTDEJFSKJDRIAPgBCiRkeAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF8QD0ludGVyVUktUmVndWxhctI1Nk5PXxATTlNNdXRhYmxlRGljdGlvbmFyeaNOUDlcTlNEaWN0aW9uYXJ50jU2UlNfEBBOU0ZvbnREZXNjcmlwdG9yolQ5XxAQTlNGb250RGVzY3JpcHRvctMZEwxWWySkV1hZWoAWgBeAGIAZpFxdXFyAGoAbgBqAGoAcU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/wAAAAAAAAIz/jMzMzMzMz0jU2UGiiUDkjv7wo9cAAAADTGRMMa3AkpBscHR6ABYAGgAeACKQgIXN0gAmADYAfgCGAHNMZEwx3fCSkV1hZWoAWgBeAGIAZpFx+XFyAGoAggBqAGoAcIz/jMzMzMzMzEADSNTaFhl5OU011dGFibGVBcnJheaOFNznSiAyJildOUy5kYXRhRA4AAQGAJNI1NoyNXU5TTXV0YWJsZURhdGGjjI45Vk5TRGF0YdI1NpCRXxASTlNBdHRyaWJ1dGVkU3RyaW5nopI5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0ZWWVHJvb3SAAQAIABEAGgAjAC0AMgA3AGAAZgBvAHgAigCXAJ4AoACiAKQApgC4AL0AyADLAM0AzwDRANgA4ADlAOcA6QDrAO0A8gD0APYA+AD6APwBDwExAV4BZQFuAXkBhgGSAZQBlgGYAZoBnwGgAaIBpwGyAbsBwwHGAc8B1AHnAeoB7wIMAg4CEAIXAhoCHAIeAiECIwIlAicCPQJTAlwCbgJzAokCjQKaAp8CsgK1AsgCzwLUAtYC2ALaAtwC4QLjAuUC5wLpAusC7wL1AvoDAAMJAxIDFwMaAyMDKgMvAzEDMwM1AzcDPAM+A0ADQgNEA0YDTQNSA1QDVgNYA1oDXwNhA2MDZQNnA2kDcgN0A3kDiAOMA5EDmQOeA6ADpQOzA7cDvgPDA9gD2wPwBAIEBQQKAAAAAAAAAgEAAAAAAAAAlwAAAAAAAAAAAAAAAAAABAw="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.6,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "InterUI-Regular",
+              "size": 24
+            }
+          },
+          "kerning": -0.1099999994039536,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 14,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.6,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "InterUI-Regular",
+              "size": 24
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 1,
+        "location": 14
+      }
+    ],
+    "string": "L Fade Light 24"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4E6292CB-5D2F-414D-95B8-65302F18C937",

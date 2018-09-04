@@ -40,10 +40,6 @@
       "value": "People"
     }
   ],
-  "overrides": {
-    "69C3A1CC-08A8-4811-B595-0D83DADD1800": " ",
-    "EE34601B-1121-4DD5-9088-6507437DD104": "People"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

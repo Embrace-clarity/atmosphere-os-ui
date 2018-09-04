@@ -1,10 +1,39 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGamtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAeHyAhIi0wNjo+RkdISUpOUl5fYGFiY2VmVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADUXzTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAbgBpfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WIyQlJgonKCkqKSwqWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACACSNAPAAAAAAAAIAJgAvSEgouL6CACtIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIzNVhOU09iamVjdNIxMjc4XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNzk1XxAQTlNQYXJhZ3JhcGhTdHlsZdIKOzw9XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCj9CRaJAQYAOgA+iQ0SAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF8QD0ludGVyVUktUmVndWxhctIxMktMXxATTlNNdXRhYmxlRGljdGlvbmFyeaNLTTVcTlNEaWN0aW9uYXJ50jEyT1BfEBBOU0ZvbnREZXNjcmlwdG9yolE1XxAQTlNGb250RGVzY3JpcHRvctMREgpTWB2kVFVWV4AVgBaAF4AYpFlZWVmAGYAZgBmAGYAaU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/wAAAAAAAA0jEyTWSiTTUjv7vtYZfKjIHSMTJnaF8QEk5TQXR0cmlidXRlZFN0cmluZ6JpNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFsbVRyb290gAEACAARABoAIwAtADIANwBXAF0AZABtAHQAgQCDAIUAhwCJAJAAmACjAKgAqgCsAK4AsAC1ALcAuQC7AL0AvwDSAPQBIQEoATUBQAFMAV4BawF9AX8BgQGKAYwBjgGTAZQBlgGbAaYBrwG3AboBwwHIAeIB5gH5Af4CGwIdAh8CJgIpAisCLQIwAjICNAI2AkwCYgJrAn0CggKYApwCqQKuAsECxALXAt4C4wLlAucC6QLrAvAC8gL0AvYC+AL6Av4DBAMJAw8DGAMdAyADKQMuA0MDRgNbA20DcAN1AAAAAAAAAgEAAAAAAAAAbgAAAAAAAAAAAAAAAAAAA3c="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "InterUI-Regular",
+              "size": 24
+            }
+          },
+          "kerning": -0.1090909,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
+          }
+        },
+        "length": 1,
+        "location": 0
+      }
+    ],
+    "string": "|"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2691D803-89F3-48B6-AFAE-2B5A222ABD68",

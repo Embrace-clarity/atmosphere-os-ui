@@ -8,7 +8,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 5037,
+  "changeIdentifier": 11123,
   "do_objectID": "B5346877-4883-4396-AD80-03445039181B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,19 +50,19 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "D1EC01BC-5EE9-4937-A189-123040B5740F"
-    },
-    {
-      "class": "shapeGroup",
       "id": "75D79991-2258-4110-9343-70DC9176FD59"
     },
     {
       "class": "shapeGroup",
-      "id": "91352DFB-7C54-4CA2-BA8D-1A9DED6CCD09"
+      "id": "10AE9341-6570-4E10-A9F0-0569F974DB73"
     },
     {
       "class": "shapeGroup",
-      "id": "E8931A3A-88DE-443D-8B18-4CDDA9BED710"
+      "id": "753F9D9A-F075-4A45-9C18-66185D115CDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E7D842B4-0E3C-4835-A499-00C937EE69C5"
     }
   ],
   "name": "Icon / 24 / White / Speaker",

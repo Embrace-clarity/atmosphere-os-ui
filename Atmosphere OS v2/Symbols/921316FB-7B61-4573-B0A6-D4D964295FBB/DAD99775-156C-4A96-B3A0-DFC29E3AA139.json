@@ -1,10 +1,30 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGSktYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwlLDA4OTo7PEBERlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA1xHbG9iYWxzIC8gQmfTERIKExYZV05TLmtleXNaTlMub2JqZWN0c6IUFYAEgAWiFxiABoAIgBBfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdUdCh4fICEiIyQjWk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0gACAByNAOAAAAAAAABAB0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloygqK18QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3TSCi0uL18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgA+ACdMREgoxNDeiMjOACoALojU2gAyADYAOXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABcLlNGTlNEaXNwbGF50iYnPT5fEBNOU011dGFibGVEaWN0aW9uYXJ5oz0/K1xOU0RpY3Rpb25hcnnSJidBQl8QEE5TRm9udERlc2NyaXB0b3KiQytfEBBOU0ZvbnREZXNjcmlwdG9y0iYnP0WiPyvSJidHSF8QEk5TQXR0cmlidXRlZFN0cmluZ6JJK18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFMTVRyb290gAEACAARABoAIwAtADIANwBMAFIAWQBiAGkAdgB4AHoAfACJAJAAmACjAKYAqACqAK0ArwCxALMAxgDoAPMA/gEQATIBRAFGAUgBUQFTAVgBYwFsAYYBigGdAaYBqwHIAcoBzAHTAdYB2AHaAd0B3wHhAeMB+QIPAhgCJQIqAkACRAJRAlYCaQJsAn8ChAKHAowCoQKkArkCywLOAtMAAAAAAAACAQAAAAAAAABOAAAAAAAAAAAAAAAAAAAC1Q=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": ".SFNSDisplay",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 12,
+        "location": 0
+      }
+    ],
+    "string": "Globals / Bg"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DAD99775-156C-4A96-B3A0-DFC29E3AA139",

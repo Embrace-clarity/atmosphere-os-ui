@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0CCC5FB1-C290-449D-92BD-0E69B883FF6B",
-    "height": 60,
+    "height": 40,
     "width": 340,
     "x": 0,
     "y": 150
@@ -48,13 +48,6 @@
       "value": "anafiki"
     }
   ],
-  "overrides": {
-    "4F824973-2778-44E3-A653-C5F6E0E23064": {
-      "6F25BD24-0C88-493C-9F3D-327DC4DFBB07": "anafiki",
-      "8F9716A0-5C8D-4647-AE55-81B563145170": "1",
-      "symbolID": "8C1E1B49-BE49-4D2A-A644-AC46983F37F1"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

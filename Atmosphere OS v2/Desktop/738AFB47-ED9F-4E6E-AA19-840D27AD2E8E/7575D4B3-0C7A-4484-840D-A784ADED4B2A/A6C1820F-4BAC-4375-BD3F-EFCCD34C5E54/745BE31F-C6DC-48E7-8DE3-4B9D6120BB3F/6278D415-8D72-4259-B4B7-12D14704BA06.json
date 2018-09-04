@@ -1,10 +1,37 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIiotMzY6QkNERUZKTlpbXF1eX2BiY1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA1ZCbG9jayDTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAcgBtfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7UIwokJSYnKChaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIALgAmACdISCissoIAK0i4vMDFaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojAyWE5TT2JqZWN00i4vNDVfEBBOU1BhcmFncmFwaFN0eWxlojQy0go3ODlfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKOz5Bojw9gA6AD6I/QIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A4AAAAAAAAXxAPSW50ZXJVSS1SZWd1bGFy0i4vR0hfEBNOU011dGFibGVEaWN0aW9uYXJ5o0dJMlxOU0RpY3Rpb25hcnnSLi9LTF8QEE5TRm9udERlc2NyaXB0b3KiTTJfEBBOU0ZvbnREZXNjcmlwdG9y0xESCk9UHaRQUVJTgBWAFoAXgBikVVZVVYAZgBqAGYAZgBtTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP/AAAAAAAAAjP+MzMzMzMzPSLi9JYaJJMiO/vCj1wAAAA9IuL2RlXxASTlNBdHRyaWJ1dGVkU3RyaW5nomYyXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WlqVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAI8AlgCeAKkArgCwALIAtAC2ALsAvQC/AMEAwwDFANgA+gEnAS4BNwFCAU8BWwFdAV8BYQFjAWgBaQFrAXABewGEAYwBjwGYAZ0BsAGzAbgB1QHXAdkB4AHjAeUB5wHqAewB7gHwAgYCHAIlAjcCPAJSAlYCYwJoAnsCfgKRApgCnQKfAqECowKlAqoCrAKuArACsgK0ArgCvgLDAskC0gLbAuAC4wLsAvEDBgMJAx4DMAMzAzgAAAAAAAACAQAAAAAAAABrAAAAAAAAAAAAAAAAAAADOg=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.6,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "InterUI-Regular",
+              "size": 24
+            }
+          },
+          "kerning": -0.1099999994039536,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 6,
+        "location": 0
+      }
+    ],
+    "string": "Block "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6278D415-8D72-4259-B4B7-12D14704BA06",

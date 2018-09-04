@@ -42,12 +42,6 @@
       "value": "2.1 BTC"
     }
   ],
-  "overrides": {
-    "E81630E8-95E7-410B-86CD-6C64130F40F9": {
-      "1950689F-26A6-4718-B8D8-BA2A10D292E8": "2.1 BTC",
-      "symbolID": "8F3D2E1F-CD1B-417A-8F42-6A591BBC3DE8"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

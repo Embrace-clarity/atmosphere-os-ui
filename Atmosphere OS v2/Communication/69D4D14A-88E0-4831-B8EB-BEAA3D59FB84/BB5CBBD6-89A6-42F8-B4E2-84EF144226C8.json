@@ -52,12 +52,6 @@
       "value": "Block"
     }
   ],
-  "overrides": {
-    "7C93E9C7-A085-462F-9B2F-EA06D529CBCE": "Call",
-    "B2563300-20B5-4B91-9DFA-946D863928E8": "Else",
-    "CEF3BE1C-2F06-492E-B968-3768D29C2141": "Message",
-    "E8F43260-3553-48E2-A1E2-1341B23B329C": "Block"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
