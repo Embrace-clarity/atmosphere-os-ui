@@ -38,10 +38,6 @@
       "value": "Discover"
     }
   ],
-  "overrides": {
-    "69C3A1CC-08A8-4811-B595-0D83DADD1800": " People",
-    "EE34601B-1121-4DD5-9088-6507437DD104": "Discover"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

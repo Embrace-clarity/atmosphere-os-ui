@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAgISIjJCUxMjM0NTY3ODk/Sk1QVFhgYWJjZGdrbFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA1Ex0xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0dgAmAE4AXgB+AH4ASXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVbTlNVbmRlcmxpbmVfEA9OU1N0cmlrZXRocm91Z2jTERIKJisfpCcoKSqACoALgAyADaQsLS4vgA6AD4AQgBGAElNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/75+fn5+foCM/8AAAAAAAACMAAAAAAAAAACM/0ZGRkZGRk9I6Ozw9WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojw+WE5TT2JqZWN01kBBQkMKREVGR0ZJR1pOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgBQjQDUAAAAAAACAFIAW0hIKS0yggBXSOjtOT1dOU0FycmF5ok4+0jo7UVJfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNRUz5fEBBOU1BhcmFncmFwaFN0eWxl0gpVVldfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AegBjTERIKWVxfolpbgBmAGqJdXoAbgByAHV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXxAPSW50ZXJVSS1SZWd1bGFy0jo7ZWZfEBNOU011dGFibGVEaWN0aW9uYXJ5o2U8PtI6O2hpXxAQTlNGb250RGVzY3JpcHRvcqJqPl8QEE5TRm9udERlc2NyaXB0b3IQANI6O21uXxASTlNBdHRyaWJ1dGVkU3RyaW5nom8+XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XJzVHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLAI0AlACcAKcArQCvALEAswC1ALcAvQC/AMEAwwDFAMcAyQD2AQkBKwE3AUkBUAFVAVcBWQFbAV0BYgFkAWYBaAFqAWwBcAF2AXsBgQGKAZMBnAGlAaoBtQG+AcsBzgHXAeQB7wH7Ag0CGgIsAi4CMAI5AjsCPQJCAkMCRQJKAlICVQJaAnQCeAKLApACrQKvArECuAK7Ar0CvwLCAsQCxgLIAt4C9AL9Aw8DFAMqAy4DMwNGA0kDXANeA2MDeAN7A5ADogOlA6oAAAAAAAACAQAAAAAAAAB0AAAAAAAAAAAAAAAAAAADrA=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0.2745098039215687,
+            "red": 0.9882352941176471
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "InterUI-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 1,
+        "location": 0
+      }
+    ],
+    "string": "1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1C2EB1A3-B5C0-424A-9E68-13ADD5E4404D",

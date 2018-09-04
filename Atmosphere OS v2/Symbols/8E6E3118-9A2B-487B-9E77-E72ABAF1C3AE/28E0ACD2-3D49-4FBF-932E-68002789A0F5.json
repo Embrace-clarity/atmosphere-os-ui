@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAgISIjJCUxMjM0NTY8R0pNUVVdXl9gYWRoaVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA15UeXBlIHNvbWV0aGluZ9MREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHYAJgBCAFIAcgByAD18QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlW05TVW5kZXJsaW5lXxAPTlNTdHJpa2V0aHJvdWdo0xESCiYrH6QnKCkqgAqAC4AMgA2kLCwsLIAOgA6ADoAOgA9TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP/AAAAAAAADSNzg5OlokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI5O1hOU09iamVjdNY9Pj9ACkFCQ0RDRkRaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIARI0A1AAAAAAAAgBGAE9ISCkhJoIAS0jc4S0xXTlNBcnJheaJLO9I3OE5PXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjTlA7XxAQTlNQYXJhZ3JhcGhTdHlsZdIKUlNUXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAG4AV0xESClZZXKJXWIAWgBeiWluAGIAZgBpfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QD0ludGVyVUktUmVndWxhctI3OGJjXxATTlNNdXRhYmxlRGljdGlvbmFyeaNiOTvSNzhlZl8QEE5TRm9udERlc2NyaXB0b3KiZztfEBBOU0ZvbnREZXNjcmlwdG9yEADSNzhqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsO18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBYAF4AZQBuAHUAggCEAIYAiACXAJ4ApgCxALcAuQC7AL0AvwDBAMcAyQDLAM0AzwDRANMBAAETATUBQQFTAVoBXwFhAWMBZQFnAWwBbgFwAXIBdAF2AXoBgAGFAYsBlAGZAaQBrQG6Ab0BxgHTAd4B6gH8AgkCGwIdAh8CKAIqAiwCMQIyAjQCOQJBAkQCSQJjAmcCegJ/ApwCngKgAqcCqgKsAq4CsQKzArUCtwLNAuMC7AL+AwMDGQMdAyIDNQM4A0sDTQNSA2cDagN/A5EDlAOZAAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAAA5s="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "InterUI-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 14,
+        "location": 0
+      }
+    ],
+    "string": "Type something"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "28E0ACD2-3D49-4FBF-932E-68002789A0F5",

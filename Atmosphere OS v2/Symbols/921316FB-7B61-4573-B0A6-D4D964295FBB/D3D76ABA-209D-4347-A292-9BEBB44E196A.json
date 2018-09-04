@@ -1,10 +1,30 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGSktYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwlLDA4OTo7PEBERlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA18QFURldmljZSAvIEludGVyYWN0aW9uc9MREgoTFhlXTlMua2V5c1pOUy5vYmplY3RzohQVgASABaIXGIAGgAiAEF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1R0KHh8gISIjJCNaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHSAAIAHI0A4AAAAAAAAEAHSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjKCorXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKLS4vXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAD4AJ0xESCjE0N6IyM4AKgAuiNTaADIANgA5fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAFwuU0ZOU0Rpc3BsYXnSJic9Pl8QE05TTXV0YWJsZURpY3Rpb25hcnmjPT8rXE5TRGljdGlvbmFyedImJ0FCXxAQTlNGb250RGVzY3JpcHRvcqJDK18QEE5TRm9udERlc2NyaXB0b3LSJic/RaI/K9ImJ0dIXxASTlNBdHRyaWJ1dGVkU3RyaW5nokkrXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0UxNVHJvb3SAAQAIABEAGgAjAC0AMgA3AEwAUgBZAGIAaQB2AHgAegB8AJQAmwCjAK4AsQCzALUAuAC6ALwAvgDRAPMA/gEJARsBPQFPAVEBUwFcAV4BYwFuAXcBkQGVAagBsQG2AdMB1QHXAd4B4QHjAeUB6AHqAewB7gIEAhoCIwIwAjUCSwJPAlwCYQJ0AncCigKPApIClwKsAq8CxALWAtkC3gAAAAAAAAIBAAAAAAAAAE4AAAAAAAAAAAAAAAAAAALg"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": ".SFNSDisplay",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 21,
+        "location": 0
+      }
+    ],
+    "string": "Device / Interactions"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D3D76ABA-209D-4347-A292-9BEBB44E196A",

@@ -34,11 +34,6 @@
       "value": "/po"
     }
   ],
-  "overrides": {
-    "CDE61037-74D4-44CB-9F55-C28415B313CE": {
-      "41C34D83-E526-4ABA-97C5-ED444502F1CC": "/po"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

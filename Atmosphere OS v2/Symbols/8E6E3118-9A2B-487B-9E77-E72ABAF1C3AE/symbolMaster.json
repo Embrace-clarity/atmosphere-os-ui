@@ -8,7 +8,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 1636,
+  "changeIdentifier": 1889,
   "do_objectID": "8E6E3118-9A2B-487B-9E77-E72ABAF1C3AE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,11 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "586F1F5E-7D86-402E-9AEC-FB6DB27087AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BC704EF-A3C9-4662-9FE9-402848E1FCC7"
     },
     {
       "class": "text",

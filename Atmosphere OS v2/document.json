@@ -23,7 +23,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "EC04A4AA-4C02-414A-8B58-78F00D3EFCE8",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -31,9 +35,9 @@
     ]
   },
   "meta": {
-    "appVersion": "49.3",
-    "build": 51167,
-    "version": 101
+    "appVersion": "50",
+    "build": 54983,
+    "version": 103
   },
   "pages": [
     "_Design System",
