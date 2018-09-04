@@ -1,4 +1,4 @@
-# Atmosphere OS — Design
+# Getting started guide
 
 ## Things you would need
 - Download [Inter Ui Typeface](https://rsms.me/inter/)
