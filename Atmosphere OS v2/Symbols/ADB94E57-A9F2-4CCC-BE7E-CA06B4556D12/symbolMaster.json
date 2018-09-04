@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F7281BF3-A15D-499E-BE24-DB38CC6EA391",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 496,
+  "do_objectID": "ADB94E57-A9F2-4CCC-BE7E-CA06B4556D12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "291514D7-91B0-4A51-86BF-196C37769477",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AA0D8F0-0262-417C-92F1-C7EFD3AD14A9",
+    "height": 60,
+    "width": 260,
+    "x": 7270,
+    "y": 1280
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A497C7B6-76DF-4AF2-8421-BA503406814C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "77ABAEE9-AFC0-4AE2-B304-C331EE0943AA"
+    },
+    {
+      "class": "text",
+      "id": "E31C5DA0-B7BC-4C13-8C3B-FB6B9FE1579A"
+    }
+  ],
+  "name": "List / Item / Assets / Left /Light/ L Title Solid",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA462C66-5A0C-41F2-B2A7-6D5DF4A5AE29",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D3005DF1-5C27-46E8-A624-20FA17740E19",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4F703689-111D-47E9-86A0-B5F77F05B294",
+    "guides": [
+    ]
+  }
+}
