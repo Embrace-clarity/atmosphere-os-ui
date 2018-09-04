@@ -15,9 +15,10 @@ Always check what's on the [roadmap](https://github.com/Embrace-clarity/atmosphe
 1. Download Kactus
 2. File -> Clone Repository
 3. Paste `https://github.com/Embrace-clarity/atmosphere-os.git`
-4. Open the `Design Source` folder and click Open File / Generate Sketch
+4. Select the Atmosphere OS v2 from the left sidebar.
+5. In the main window select `Regenerate Sketch File from JSON`
 2. Create a branch yourname/new-buttons
-3. Make your changes in Sketch
+3. Make your changes in Sketck
 4. Commit your changes
 5. Push your changes to your git server for others to review/merge
 
