@@ -2,7 +2,7 @@
 
 Operating system designed for decentralisation.
 
-![Atmosphere OS](https://github.com/Embrace-clarity/atmosphere-os/blob/master/Assets/Header.png)
+![Atmosphere OS](https://raw.githubusercontent.com/Embrace-clarity/atmosphere-os-ui/master/Assets/Header.png)
 
 # Contribute
 
