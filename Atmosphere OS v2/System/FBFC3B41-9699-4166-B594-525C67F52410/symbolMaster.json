@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 883,
+  "changeIdentifier": 885,
   "do_objectID": "FBFC3B41-9699-4166-B594-525C67F52410",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "height": 480,
     "width": 340,
     "x": 406,
-    "y": -334
+    "y": -264
   },
   "grid": {
     "_class": "simpleGrid",
