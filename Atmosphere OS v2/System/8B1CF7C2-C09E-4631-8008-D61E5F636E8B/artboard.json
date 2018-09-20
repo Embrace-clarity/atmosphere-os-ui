@@ -8,6 +8,7 @@
     "green": 0,
     "red": 0
   },
+  "booleanOperation": 0,
   "do_objectID": "8B1CF7C2-C09E-4631-8008-D61E5F636E8B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -34,8 +35,8 @@
     "do_objectID": "ACC7932F-FD9D-44DE-8628-0DEF30F5AC5F",
     "height": 480,
     "width": 340,
-    "x": 406,
-    "y": 296
+    "x": -80,
+    "y": 766
   },
   "grid": {
     "_class": "simpleGrid",
@@ -55,6 +56,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -113,9 +115,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "EA2D6050-5ED9-4EF9-A498-0322F36BADAA",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

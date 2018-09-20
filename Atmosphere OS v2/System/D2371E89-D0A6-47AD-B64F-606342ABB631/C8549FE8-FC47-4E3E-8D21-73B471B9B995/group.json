@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "C8549FE8-FC47-4E3E-8D21-73B471B9B995",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 206,
+    "x": 134,
+    "y": 58
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EBAE0C3F-B90A-4AB8-8F06-E02087E70B1D"
+    },
+    {
+      "class": "text",
+      "id": "EB0AF2BE-DF90-455F-A936-9A9562477D5A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41A08BBB-6B01-4850-952A-48788A9EB4B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "90A643AA-E706-4506-844C-1F79BF3E1EEA"
+    }
+  ],
+  "name": "Unlock Error",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

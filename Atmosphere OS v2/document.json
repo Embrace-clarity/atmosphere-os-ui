@@ -35,18 +35,20 @@
     ]
   },
   "meta": {
-    "appVersion": "50",
-    "build": 54983,
-    "version": 103
+    "appVersion": "51.3",
+    "build": 57544,
+    "version": 105
   },
   "pages": [
     "_Design System",
     "_Promo",
-    "_Interactions",
     "_Brand",
     "_Mockups",
+    "_Device",
+    "Browser",
     "Desktop",
     "System",
+    "Boarding",
     "Communication",
     "Symbols"
   ],

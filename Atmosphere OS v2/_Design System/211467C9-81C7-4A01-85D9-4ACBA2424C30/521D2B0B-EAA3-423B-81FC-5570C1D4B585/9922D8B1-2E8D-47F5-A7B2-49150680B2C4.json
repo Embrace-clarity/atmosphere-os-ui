@@ -61,6 +61,7 @@
     "string": "L Solid Accent 24"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "9922D8B1-2E8D-47F5-A7B2-49150680B2C4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -83,6 +84,7 @@
     "y": 110
   },
   "glyphBounds": "{{2, 5}, {189, 19}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

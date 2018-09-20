@@ -7,6 +7,7 @@
     "green": 0,
     "red": 0
   },
+  "booleanOperation": 0,
   "do_objectID": "224A1224-F0A0-4FC6-8635-0DD919B709F9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -31,8 +32,8 @@
     "constrainProportions": false,
     "height": 480,
     "width": 340,
-    "x": 16,
-    "y": -434
+    "x": -470,
+    "y": 36
   },
   "grid": {
     "_class": "simpleGrid",
@@ -50,6 +51,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -98,9 +100,10 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
@@ -108,7 +111,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

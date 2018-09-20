@@ -61,6 +61,7 @@
     "string": "L Fade Light 24"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "4E6292CB-5D2F-414D-95B8-65302F18C937",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -81,6 +82,7 @@
     "y": 38
   },
   "glyphBounds": "{{2, 5}, {167, 23}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

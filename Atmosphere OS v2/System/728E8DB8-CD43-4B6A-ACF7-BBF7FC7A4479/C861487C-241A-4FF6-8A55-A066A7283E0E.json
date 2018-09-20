@@ -35,6 +35,7 @@
     "string": "23 Wednesday, March\n-3° and super sunny. However rain is expected in 30min."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "C861487C-241A-4FF6-8A55-A066A7283E0E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 132
   },
   "glyphBounds": "{{0, 3}, {192, 42}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

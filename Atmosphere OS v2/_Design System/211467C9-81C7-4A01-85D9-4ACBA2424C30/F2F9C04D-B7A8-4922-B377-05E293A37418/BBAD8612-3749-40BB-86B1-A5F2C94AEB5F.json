@@ -37,6 +37,7 @@
     "string": "M Solid Dark 16"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "BBAD8612-3749-40BB-86B1-A5F2C94AEB5F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +60,7 @@
     "y": 58
   },
   "glyphBounds": "{{1, 4}, {112, 13}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

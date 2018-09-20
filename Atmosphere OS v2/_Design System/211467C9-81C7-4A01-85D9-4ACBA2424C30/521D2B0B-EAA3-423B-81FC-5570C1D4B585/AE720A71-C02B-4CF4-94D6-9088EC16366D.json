@@ -34,6 +34,7 @@
     "string": "L Solid Dark 24"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "AE720A71-C02B-4CF4-94D6-9088EC16366D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 74
   },
   "glyphBounds": "{{2, 5}, {163, 19}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

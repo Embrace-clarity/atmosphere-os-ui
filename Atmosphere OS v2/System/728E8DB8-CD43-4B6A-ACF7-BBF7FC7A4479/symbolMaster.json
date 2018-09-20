@@ -8,7 +8,8 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 1070,
+  "booleanOperation": 0,
+  "changeIdentifier": 1083,
   "do_objectID": "728E8DB8-CD43-4B6A-ACF7-BBF7FC7A4479",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +27,8 @@
     "do_objectID": "F8E41C52-6537-4B86-98FC-46D55C7E77B2",
     "height": 480,
     "width": 340,
-    "x": 796,
-    "y": -434
+    "x": 310,
+    "y": 36
   },
   "grid": {
     "_class": "simpleGrid",
@@ -48,6 +49,7 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -90,9 +92,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "A443E84C-1853-4992-AE8C-C52DE7DBC0D8",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "49E28403-2165-4B6F-9F91-3D09E369E03E",
   "userInfo": {

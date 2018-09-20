@@ -35,6 +35,7 @@
     "string": "@denull 30min ago"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "893F0A2F-0408-45B8-9F35-2783EF805864",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 16
   },
   "glyphBounds": "{{0, 3}, {106, 12}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
