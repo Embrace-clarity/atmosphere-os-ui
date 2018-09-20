@@ -27,6 +27,7 @@
     "string": "Chat/Bubbles/Right"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "E35DEF3A-B196-49A1-BF9A-232A491AD506",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -47,6 +48,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 5}, {172, 19}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

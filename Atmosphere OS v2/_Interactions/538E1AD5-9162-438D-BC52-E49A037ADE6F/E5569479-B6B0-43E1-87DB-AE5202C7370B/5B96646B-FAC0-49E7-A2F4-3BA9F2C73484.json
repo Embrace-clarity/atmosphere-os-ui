@@ -35,6 +35,7 @@
     "string": "Tap the tactile button to get to the main navigation of aos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "5B96646B-FAC0-49E7-A2F4-3BA9F2C73484",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 59
   },
   "glyphBounds": "{{0, 4}, {294, 37}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,10 +72,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "88D3C02C-30FE-41B0-8FFE-E3B97EA94159",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "75276402-D3C5-41B1-ABC0-2A430AEE731D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

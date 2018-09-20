@@ -37,6 +37,7 @@
     "string": "An OS for the decentralised internet. An environment where dapps can thrive. A community driven system freeing people from the term 'user'."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "C6DC3A23-D615-4C6B-8B28-9A7AEA6648E4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 135
   },
   "glyphBounds": "{{0, 4}, {391, 58}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,10 +74,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "CC15856F-2601-4261-86B7-6664591C5A5B",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "76A5E6EE-4E88-4E4B-9DCA-BDBF9FC782AA",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +106,8 @@
         "underlineStyle": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

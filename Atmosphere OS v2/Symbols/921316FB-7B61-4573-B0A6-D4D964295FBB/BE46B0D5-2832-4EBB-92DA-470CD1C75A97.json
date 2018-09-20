@@ -27,6 +27,7 @@
     "string": "List / Item"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "BE46B0D5-2832-4EBB-92DA-470CD1C75A97",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -47,6 +48,7 @@
     "y": 0
   },
   "glyphBounds": "{{1, 5}, {83, 18}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -27,6 +27,7 @@
     "string": "List / Item / Assets / Left"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "22025EAD-64EE-4E52-86AE-2AF32D732C3F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -47,6 +48,7 @@
     "y": 0
   },
   "glyphBounds": "{{1, 5}, {208, 18}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

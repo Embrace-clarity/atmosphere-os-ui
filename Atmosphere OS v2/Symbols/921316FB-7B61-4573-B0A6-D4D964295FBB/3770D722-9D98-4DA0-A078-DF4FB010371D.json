@@ -27,6 +27,7 @@
     "string": "Device / Wireframe"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "3770D722-9D98-4DA0-A078-DF4FB010371D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -47,6 +48,7 @@
     "y": 0
   },
   "glyphBounds": "{{1, 5}, {164, 18}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

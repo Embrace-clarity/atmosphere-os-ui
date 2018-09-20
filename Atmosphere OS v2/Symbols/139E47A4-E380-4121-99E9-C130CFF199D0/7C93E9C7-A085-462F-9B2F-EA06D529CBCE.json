@@ -34,6 +34,7 @@
     "string": "Option 1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "7C93E9C7-A085-462F-9B2F-EA06D529CBCE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +55,7 @@
     "y": 22
   },
   "glyphBounds": "{{1, 5}, {86, 23}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

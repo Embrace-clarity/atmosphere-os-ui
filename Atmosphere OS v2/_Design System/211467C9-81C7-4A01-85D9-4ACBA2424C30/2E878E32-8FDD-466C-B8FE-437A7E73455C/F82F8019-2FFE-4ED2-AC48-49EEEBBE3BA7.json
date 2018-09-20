@@ -36,6 +36,7 @@
     "string": "XL Solid Dark 32"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "F82F8019-2FFE-4ED2-AC48-49EEEBBE3BA7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +59,7 @@
     "y": 90
   },
   "glyphBounds": "{{0, 6}, {228, 25}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -73,10 +75,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "08AF04CF-04EF-454A-B215-BCEA117A6ADB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "2393CB62-E007-40C2-81F7-C90F52398EB6",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "4345F66B-D168-4A61-B5C3-027590CD06E3",
@@ -105,7 +107,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

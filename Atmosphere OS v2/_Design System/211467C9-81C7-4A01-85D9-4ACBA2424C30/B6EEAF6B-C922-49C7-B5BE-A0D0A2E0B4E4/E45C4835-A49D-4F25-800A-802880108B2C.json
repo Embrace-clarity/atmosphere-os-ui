@@ -34,6 +34,7 @@
     "string": "XXL Fade Dark 44"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "E45C4835-A49D-4F25-800A-802880108B2C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 192
   },
   "glyphBounds": "{{0, 10}, {357, 33}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,10 +73,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "95CF21B2-AF98-41A5-846D-E28100F69D90",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "1122DBC5-797E-4154-BB83-C7A130A13D3D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

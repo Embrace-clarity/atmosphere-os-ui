@@ -27,6 +27,7 @@
     "string": "Globals/Notification"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "8B064FA7-34BE-4411-AAEA-E9049F4FA59B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -47,6 +48,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 5}, {172, 18}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

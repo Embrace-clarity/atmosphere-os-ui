@@ -36,6 +36,7 @@
     "string": "12.324 ETH"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "75619A15-7144-42D9-90A7-EC6CCBEFDC11",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 8.599999999999909
   },
   "glyphBounds": "{{0, 5}, {123, 19}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,10 +73,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "634FBA79-B8AC-46D0-8C40-BACCC159C090",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "4E293A4A-7689-4B1A-9F2A-B148299D402C",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +104,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

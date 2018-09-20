@@ -36,6 +36,7 @@
     "string": "06. Scroll Content"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "586062BB-9613-44CE-9AC0-2839133A3389",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": -2
   },
   "glyphBounds": "{{1, 9}, {261, 25}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,10 +73,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "76D7165A-F859-415A-9090-A211E87353AC",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "FFDBD355-771A-4269-9D18-44FADC2B5D48",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +104,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

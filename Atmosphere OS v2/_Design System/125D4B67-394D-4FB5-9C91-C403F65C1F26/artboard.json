@@ -8,6 +8,7 @@
     "green": 0.4880952380952381,
     "red": 0.4880952380952381
   },
+  "booleanOperation": 0,
   "do_objectID": "125D4B67-394D-4FB5-9C91-C403F65C1F26",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +40,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -77,7 +79,7 @@
   "style": {
     "_class": "style",
     "do_objectID": "BFF13EF8-5628-4173-8BC6-88EEA3FEAEDC",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -97,7 +99,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "io.magicsketch.mirror": {

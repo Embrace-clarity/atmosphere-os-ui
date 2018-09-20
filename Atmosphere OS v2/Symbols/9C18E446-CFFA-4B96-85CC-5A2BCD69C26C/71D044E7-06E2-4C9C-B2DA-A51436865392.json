@@ -34,6 +34,7 @@
     "string": "Label 2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "71D044E7-06E2-4C9C-B2DA-A51436865392",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 21
   },
   "glyphBounds": "{{2, 5}, {78, 19}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

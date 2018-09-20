@@ -35,6 +35,7 @@
     "string": "Press the lock button to lock the device. Place your finger on the button to unlock the device via finger print scan."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "FEAA9818-E5AC-4D14-8661-D25A3B1F1B8D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 59
   },
   "glyphBounds": "{{0, 4}, {303, 58}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,10 +72,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "FDBE7395-85D7-4D52-AF44-228ABEF99E28",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "75276402-D3C5-41B1-ABC0-2A430AEE731D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -37,6 +37,7 @@
     "string": "M Solid Dark Underline 16"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "CCC0B115-03F3-4E53-A668-D78004181419",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +60,7 @@
     "y": 116
   },
   "glyphBounds": "{{1, 4}, {188, 13}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

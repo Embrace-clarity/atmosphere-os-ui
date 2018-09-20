@@ -37,6 +37,7 @@
     "string": "Popup description goes here. Read it please."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "C49B260B-CD90-48AE-9609-98ED1BB6332B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 53
   },
   "glyphBounds": "{{1, 4}, {273, 37}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -35,6 +35,7 @@
     "string": "Swipe up and down on the back of the device to scroll content."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "14290B42-3072-4F9D-BB8A-E803F55893F4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 59
   },
   "glyphBounds": "{{0, 4}, {286, 34}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,10 +72,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "92E6A041-45CE-4139-85AF-FB01D26F3F14",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "75276402-D3C5-41B1-ABC0-2A430AEE731D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

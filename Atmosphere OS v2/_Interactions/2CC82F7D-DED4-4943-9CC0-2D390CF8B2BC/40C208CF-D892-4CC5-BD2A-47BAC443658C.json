@@ -35,6 +35,7 @@
     "string": "Software Interactions."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "40C208CF-D892-4CC5-BD2A-47BAC443658C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 182
   },
   "glyphBounds": "{{2, 9}, {434, 34}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,10 +72,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "DFF8AD57-943A-4406-84D1-2C9D3DEBCEE1",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "711D5553-1755-43F9-AE6B-481E8C99D0B9",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

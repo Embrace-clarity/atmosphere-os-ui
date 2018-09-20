@@ -36,6 +36,7 @@
     "string": "Invite "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "C0119E7E-739E-4662-9B91-DCA7E71701A0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +59,7 @@
     "y": 22
   },
   "glyphBounds": "{{1, 5}, {58, 19}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

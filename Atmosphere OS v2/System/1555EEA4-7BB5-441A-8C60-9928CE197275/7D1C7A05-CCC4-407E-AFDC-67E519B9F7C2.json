@@ -37,6 +37,7 @@
     "string": "Popup title"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "7D1C7A05-CCC4-407E-AFDC-67E519B9F7C2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 29
   },
   "glyphBounds": "{{1, 4}, {79, 16}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

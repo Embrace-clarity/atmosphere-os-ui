@@ -34,6 +34,7 @@
     "string": "Typography Guides"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "D0736E7E-0649-42F4-BFD8-55979F9A91B4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +55,7 @@
     "y": 40
   },
   "glyphBounds": "{{1, 5}, {213, 24}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

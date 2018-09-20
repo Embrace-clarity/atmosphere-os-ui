@@ -37,6 +37,7 @@
     "string": "This new Clarity is brilliant. You have to check it out."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "056BCF50-ACA3-420D-8D6C-02ABB1226F47",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +60,7 @@
     "y": 39
   },
   "glyphBounds": "{{0, 4}, {287, 34}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
