@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
   "do_objectID": "FF96BB9E-8985-4EF7-8705-52363D2733BC",
@@ -26,8 +26,8 @@
     "x": -1640,
     "y": -1580
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,11 +42,47 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "5DCBDA23-5128-41FF-8DAF-555E6CDE80B0"
+      "id": "35DF06AF-6865-4785-9B01-020F12F5C0F5"
+    },
+    {
+      "class": "group",
+      "id": "B6998FA5-586C-4451-BF9D-BBECEE1D542C"
+    },
+    {
+      "class": "group",
+      "id": "856C74F6-1B25-4DE7-84EF-A674B863D793"
+    },
+    {
+      "class": "group",
+      "id": "B7F9556F-34C2-4DEC-8E3F-BC57193E4A0A"
+    },
+    {
+      "class": "group",
+      "id": "F2C29E97-45B3-4397-9D75-8411F5C3273C"
+    },
+    {
+      "class": "group",
+      "id": "BD20131E-0390-4230-8BF1-ECF50E77B00A"
+    },
+    {
+      "class": "group",
+      "id": "1B1F5A0A-899F-414C-A735-CD86C6E71528"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4612776-32E1-4F39-AA7B-61AE916AB1E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "066ACBA3-C97B-486B-A476-5376367BEF16"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5188E87B-96DD-455A-895A-C678EDE617CA"
     }
   ],
   "name": "C1 / Blueprints overview",
@@ -65,7 +101,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

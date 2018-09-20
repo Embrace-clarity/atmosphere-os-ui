@@ -65,8 +65,84 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "36598DEB-4AD4-4CC0-A430-3976F1610855"
+      "class": "shapeGroup",
+      "id": "507781A7-50CC-4BAE-B136-43120D072FFF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88BD163E-5327-4CA0-9DB3-3A40195D3EC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3A9990D-28FE-4E8C-8E25-54447EAC1E06"
+    },
+    {
+      "class": "text",
+      "id": "251EB159-6C4D-49D6-98BC-4E89400B5FA4"
+    },
+    {
+      "class": "text",
+      "id": "ABC9B25C-4C38-46B5-B359-AAC06D3D6B35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3CCBA0B3-8F34-4CCE-91E9-157770815E3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7BCFE26-3E5F-4F58-AFB0-307C0D47D709"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5A05AF07-F416-407A-8F50-28F96DB6A10C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "263F3161-5584-4BB2-8AD8-59F3A276706F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C8F7B22-BFC7-45C8-B883-B14527DC0160"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10511CC9-2D13-470B-A4D0-395862D9C0B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CDCD34E-4A87-4D86-B430-FB79AE112277"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CB9A309-4278-4319-AAE8-68023F8C055B"
+    },
+    {
+      "class": "text",
+      "id": "C76CA2F5-1414-4A28-96F5-D03F496E3415"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "83B1D74B-685A-4849-BB99-D7ACA1B1B677"
+    },
+    {
+      "class": "text",
+      "id": "F97F0A43-1C63-47E8-9A7D-9FB6D6A44435"
+    },
+    {
+      "class": "text",
+      "id": "3351B17E-07C6-4C1D-9FA8-F4E3FC1B926B"
+    },
+    {
+      "class": "text",
+      "id": "8FB32138-A99E-4C14-AFBC-BE42D3B7DF0D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C8A5814-8331-4821-B220-33094C9BB97E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97807482-FF3D-409C-8F76-CBC2C61DBE61"
     }
   ],
   "layout": {
@@ -106,7 +182,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {
