@@ -4,15 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0,
-    "do_objectID": "27E4E816-6FEA-4414-96F1-42113E76D529",
+    "do_objectID": "33B096B9-CF9E-464C-A5C4-7A93FE56EED2",
     "green": 0,
     "red": 0
   },
   "booleanOperation": 0,
-  "do_objectID": "B1506E2B-970E-480F-AF49-DDD92604AA31",
+  "do_objectID": "2FA22AAF-B69A-4360-B5B2-001BF2C79E04",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A82FEBDE-AC8E-4EC1-86EC-FC7B881F57C7",
+    "do_objectID": "08E57032-0684-4364-BE34-3775A46ADCF8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -32,25 +32,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DE68D57C-103B-4F23-9EC7-C0EB23A764AC",
+    "do_objectID": "FE047BF8-EEA7-4FE2-AED9-0685273D980B",
     "height": 480,
     "width": 340,
-    "x": -470,
-    "y": -1424
+    "x": -171,
+    "y": -240
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "1C3618F0-8475-438F-B393-9C93EF3F6BDE",
+    "do_objectID": "40184F46-3517-4720-AC47-A39F343FF488",
     "gridSize": 10,
     "isEnabled": false,
     "thickGridTimes": 2
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0FAC8A28-91D7-41E7-AE89-8A94A6E61D10",
+    "do_objectID": "0BDAC2D5-7B78-4951-8F39-0409233B7691",
     "guides": [
     ]
   },
@@ -66,13 +66,13 @@
   "layers": [
     {
       "class": "group",
-      "id": "B3B141D3-9946-45A8-834E-9368708ADC38"
+      "id": "36598DEB-4AD4-4CC0-A430-3976F1610855"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 72,
-    "do_objectID": "0CA1F239-5BDB-483F-8151-FFA9ACCEBFD2",
+    "do_objectID": "EBEB74CB-456F-40E6-A8D5-2714EFABC9CB",
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -85,7 +85,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "System / Settings",
+  "name": "Browser / Warning",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -94,7 +94,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "739036EA-636E-4B68-B518-4E1EF567F169",
+    "do_objectID": "B7D057B8-0906-486E-8682-C38E4C41D8F1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -106,13 +106,13 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "D5A8DFEC-C966-4808-B930-1321FC8A021D",
+    "do_objectID": "4592612D-BE94-4758-9167-D5DFBCC95BF0",
     "guides": [
     ]
   }
