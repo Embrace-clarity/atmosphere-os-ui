@@ -6,6 +6,13 @@
       {
         "_class": "stringAttribute",
         "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
@@ -13,7 +20,13 @@
               "size": 12
             }
           },
-          "ligature": 0
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 15,
+            "minimumLineHeight": 15
+          }
         },
         "length": 1,
         "location": 0
@@ -37,9 +50,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
+    "height": 15,
     "width": 7.976539589442815,
-    "x": 23.92961876832845,
+    "x": 24.92961876832845,
     "y": 443.2158357771262
   },
   "glyphBounds": "{{0, 2}, {7, 10}}",
@@ -58,30 +71,21 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6636F335-78B4-4437-9E9A-04F402AE8F01",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
+    "miterLimit": 10,
+    "sharedObjectID": "93B00B3A-C96A-4122-A8E3-E2372E623D36",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
         },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
@@ -89,7 +93,13 @@
             "size": 12
           }
         },
-        "ligature": 0
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 15,
+          "minimumLineHeight": 15
+        }
       },
       "verticalAlignment": 0
     },

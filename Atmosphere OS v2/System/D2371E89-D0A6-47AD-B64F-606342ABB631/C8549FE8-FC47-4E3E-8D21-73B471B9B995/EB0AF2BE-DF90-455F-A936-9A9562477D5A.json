@@ -6,6 +6,13 @@
       {
         "_class": "stringAttribute",
         "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.5,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
@@ -13,13 +20,19 @@
               "size": 12
             }
           },
-          "ligature": 0
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 15,
+            "minimumLineHeight": 15
+          }
         },
-        "length": 24,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "Swipe your finger on the"
+    "string": "Swipe your finger on the\nlock button"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -37,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 137,
-    "x": 145.414,
-    "y": 125.54
+    "height": 30,
+    "width": 148,
+    "x": 0.4139999999999873,
+    "y": 67.53999999999996
   },
-  "glyphBounds": "{{0, 2}, {136, 12}}",
+  "glyphBounds": "{{0, 2}, {136, 25}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -50,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Swipe your finger on the",
+  "name": "Swipe your finger on",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -58,30 +71,21 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "AA56FA97-C1CC-490F-9EC7-A8517F577199",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 0.6,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
+    "sharedObjectID": "A05A0983-CA8F-4B20-9545-4A6F7757D483",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
@@ -89,11 +93,17 @@
             "size": 12
           }
         },
-        "ligature": 0
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 15,
+          "minimumLineHeight": 15
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

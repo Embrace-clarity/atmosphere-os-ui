@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0,
-    "do_objectID": "45BF1FD0-E8E8-4C76-984C-AEF95C319FFD",
     "green": 0,
     "red": 0
   },
@@ -65,8 +64,32 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "6A8D9C88-91EB-4A56-B557-122344A24CA4"
+      "class": "shapeGroup",
+      "id": "97E66EAB-C880-495E-A6CF-0A76900FFF27"
+    },
+    {
+      "class": "text",
+      "id": "5B9AFA1F-39E8-4370-A2D5-2D2AB117DA12"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B4D11F6-4020-4296-ABE3-CE2D20317F5C"
+    },
+    {
+      "class": "text",
+      "id": "D660FA47-EDEE-4BE4-82EE-A0F1775FCB2F"
+    },
+    {
+      "class": "text",
+      "id": "9887C3E2-DD65-4045-8C37-245F4A15CBCE"
+    },
+    {
+      "class": "text",
+      "id": "35879EEE-8156-4132-9C4B-C64256DEAA86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "520897D2-0101-4B23-8966-6098C1B9747C"
     }
   ],
   "layout": {

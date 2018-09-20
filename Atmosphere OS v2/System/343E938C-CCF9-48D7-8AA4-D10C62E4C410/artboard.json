@@ -65,8 +65,40 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "22E729D4-2CF3-4BE9-9D53-5BFD7A9122BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76B93A2D-4CCE-4709-A96F-C5CC578DC61F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3BF451DC-0B27-41EB-BBB9-3216651CF638"
+    },
+    {
+      "class": "text",
+      "id": "2545257D-9EA4-4C1B-AB6B-0CB7782E6E6E"
+    },
+    {
+      "class": "text",
+      "id": "9A16C800-72D5-4D59-9E4A-188CDA215717"
+    },
+    {
+      "class": "text",
+      "id": "5F812592-2735-4B3A-9281-C1ADA41910A6"
+    },
+    {
+      "class": "text",
+      "id": "629612B2-7045-4BD8-95A3-A67977E1BFC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "94B6E277-D30B-4246-89B8-751A1677F7A4"
+    },
+    {
       "class": "group",
-      "id": "78D5CF67-59F1-4FF2-9A51-AB7DD4497687"
+      "id": "BD837DB6-B4D8-4874-BC41-A27562809A5F"
     }
   ],
   "layout": {
@@ -106,7 +138,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

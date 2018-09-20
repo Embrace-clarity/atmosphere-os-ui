@@ -6,6 +6,13 @@
       {
         "_class": "stringAttribute",
         "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.5,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
@@ -13,7 +20,13 @@
               "size": 16
             }
           },
-          "ligature": 0
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
+          }
         },
         "length": 8,
         "location": 0
@@ -37,7 +50,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
+    "height": 21,
     "width": 54.83870967741936,
     "x": 51.8475073313783,
     "y": 441.0608211143696
@@ -58,30 +71,21 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "CE42FDE8-C388-45C3-A3E7-64966673B9F4",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 0.3,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
+    "sharedObjectID": "75276402-D3C5-41B1-ABC0-2A430AEE731D",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
@@ -89,7 +93,13 @@
             "size": 16
           }
         },
-        "ligature": 0
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21
+        }
       },
       "verticalAlignment": 0
     },
