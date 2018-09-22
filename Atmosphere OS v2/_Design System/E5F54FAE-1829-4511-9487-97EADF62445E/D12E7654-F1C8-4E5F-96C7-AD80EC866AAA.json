@@ -1,0 +1,106 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "InterUI-Regular",
+              "size": 44
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 3,
+        "location": 0
+      }
+    ],
+    "string": "XXL"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "do_objectID": "D12E7654-F1C8-4E5F-96C7-AD80EC866AAA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17645DD4-26A7-4342-89C8-ACDB9E40C574",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A749BD46-03A8-43D2-BC12-A45832570BE6",
+    "height": 52,
+    "width": 77,
+    "x": 150,
+    "y": 1036
+  },
+  "glyphBounds": "{{0, 10}, {75, 33}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "XXL/Left/Dark/Solid/1",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D2AC25C-2777-4F21-9609-B1D0C9894A07",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "4805CCD9-495E-4F20-9565-4624CEF91CCB",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "4DF7DC05-E743-44BD-8AF0-FC293E277290",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "InterUI-Regular",
+            "size": 44
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

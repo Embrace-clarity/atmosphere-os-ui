@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 621,
+  "changeIdentifier": 653,
   "do_objectID": "94AFD619-2EA3-40B2-A8F4-9486B72BA949",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -97,6 +97,11 @@
     "windingRule": 1
   },
   "symbolID": "8C1E1B49-BE49-4D2A-A644-AC46983F37F1",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

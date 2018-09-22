@@ -1,0 +1,40 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "59584ACA-D127-4B52-9AA6-0DA45C12337A",
+  "name": "M/Centre/Accent/Solid/1",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "59584ACA-D127-4B52-9AA6-0DA45C12337A",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.2745098039215687,
+          "red": 0.9882352941176471
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "InterUI-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

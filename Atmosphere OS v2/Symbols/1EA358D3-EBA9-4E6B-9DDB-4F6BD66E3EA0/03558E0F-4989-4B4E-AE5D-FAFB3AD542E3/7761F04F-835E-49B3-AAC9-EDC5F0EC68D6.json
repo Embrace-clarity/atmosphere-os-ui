@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.6,
+            "alpha": 0.5,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -23,9 +23,7 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "allowsDefaultTighteningForTruncation": 0
           }
         },
         "length": 8,
@@ -52,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "48C09782-B3AD-44E6-AA60-80C83DD8C181",
-    "height": 15,
+    "height": 14,
     "width": 43,
     "x": 0,
-    "y": 19
+    "y": 23
   },
-  "glyphBounds": "{{0, 3}, {43, 10}}",
+  "glyphBounds": "{{0, 2}, {43, 10}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -72,7 +70,38 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "1E0E8EC1-8DEA-4B7C-9DE7-8D8C0EC091F0"
+    "_class": "style",
+    "do_objectID": "9D0C5AB7-6B53-4245-B20D-751CE0DA09FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "64928804-8899-4B40-84AF-6BE08A9C24B5",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "InterUI-Regular",
+            "size": 12
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

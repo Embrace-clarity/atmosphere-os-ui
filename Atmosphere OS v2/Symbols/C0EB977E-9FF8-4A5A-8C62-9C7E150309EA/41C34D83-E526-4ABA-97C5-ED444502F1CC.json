@@ -22,11 +22,11 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21
-          }
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
         "length": 14,
         "location": 0
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
+    "height": 19,
     "width": 119,
     "x": 56,
-    "y": 19
+    "y": 20
   },
-  "glyphBounds": "{{0, 4}, {118, 16}}",
+  "glyphBounds": "{{0, 3}, {118, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -70,7 +70,40 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "75276402-D3C5-41B1-ABC0-2A430AEE731D"
+    "_class": "style",
+    "do_objectID": "82B84D83-8A4A-4B04-A41B-E10283C54C92",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "263586C3-0932-44A7-8F5B-6E7D341B589F",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "InterUI-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

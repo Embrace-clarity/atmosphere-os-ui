@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.5,
+            "alpha": 1,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -23,10 +23,10 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21
-          }
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
         "length": 1,
         "location": 0
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
+    "height": 19,
     "width": 13,
     "x": 35,
     "y": 0
   },
-  "glyphBounds": "{{0, 8}, {13, 10}}",
+  "glyphBounds": "{{0, 6}, {13, 10}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -70,7 +70,40 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "75276402-D3C5-41B1-ABC0-2A430AEE731D"
+    "_class": "style",
+    "do_objectID": "0961CD6A-1389-4BF2-B93C-E8596F209A6B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "F4EE4714-2C3F-4B23-86F4-185B684DC0EA",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "InterUI-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

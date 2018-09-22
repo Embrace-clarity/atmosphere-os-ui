@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7610,
+  "changeIdentifier": 7624,
   "do_objectID": "E05F50EA-D199-44AE-A250-0D8EFB094430",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

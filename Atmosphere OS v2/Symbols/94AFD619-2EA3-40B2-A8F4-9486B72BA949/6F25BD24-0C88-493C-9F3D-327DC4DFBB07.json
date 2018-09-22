@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.6,
+            "alpha": 1,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -20,7 +20,6 @@
               "size": 24
             }
           },
-          "kerning": -0.1099999994039536,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -75,15 +74,14 @@
     "do_objectID": "67552EC3-F939-4A2D-8DFE-4C17B0493B83",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "07C4EC43-E159-45F6-8DB9-AF389A51327F",
+    "sharedObjectID": "379E20A4-9916-4449-AE37-1AC88175D166",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7D8D2406-422E-4755-8138-2A7092D5FED0",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.6,
+          "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -95,7 +93,6 @@
             "size": 24
           }
         },
-        "kerning": -0.1099999994039536,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

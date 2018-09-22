@@ -1,0 +1,38 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "172E814A-6777-4CB2-B451-D98F315FFF59",
+  "name": "S/Right/Dark/Solid/1",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "172E814A-6777-4CB2-B451-D98F315FFF59",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "InterUI-Regular",
+            "size": 12
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 1,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

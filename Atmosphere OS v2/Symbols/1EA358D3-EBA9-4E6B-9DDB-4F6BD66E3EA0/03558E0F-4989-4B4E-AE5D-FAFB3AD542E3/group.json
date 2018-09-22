@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 34,
+    "height": 37,
     "width": 43,
     "x": 16,
-    "y": 13
+    "y": 10
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",

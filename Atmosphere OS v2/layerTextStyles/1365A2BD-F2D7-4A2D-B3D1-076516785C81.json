@@ -1,0 +1,38 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "1365A2BD-F2D7-4A2D-B3D1-076516785C81",
+  "name": "S/Right/Accent/Fade/1",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "1365A2BD-F2D7-4A2D-B3D1-076516785C81",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0.2745098039215687,
+          "red": 0.9882352941176471
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "InterUI-Regular",
+            "size": 12
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 1,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}
