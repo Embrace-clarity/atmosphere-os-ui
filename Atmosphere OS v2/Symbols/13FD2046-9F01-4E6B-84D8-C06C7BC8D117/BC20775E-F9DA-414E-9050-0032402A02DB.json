@@ -23,9 +23,7 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21
+            "allowsDefaultTighteningForTruncation": 0
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -52,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
+    "height": 38,
     "width": 276,
     "x": 16,
-    "y": 16
+    "y": 17
   },
-  "glyphBounds": "{{0, 4}, {244, 37}}",
+  "glyphBounds": "{{0, 3}, {244, 35}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -76,7 +74,7 @@
     "do_objectID": "B91E82DD-49C0-49B7-8B1B-608B7ADC3E45",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "A53FD224-77D7-4F55-8EEC-77E0812E0CCA",
+    "sharedObjectID": "F4EE4714-2C3F-4B23-86F4-185B684DC0EA",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -98,9 +96,7 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 21,
-          "minimumLineHeight": 21
+          "allowsDefaultTighteningForTruncation": 0
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

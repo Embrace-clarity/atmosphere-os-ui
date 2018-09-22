@@ -20,13 +20,10 @@
               "size": 24
             }
           },
-          "kerning": -0.1090909,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
+            "allowsDefaultTighteningForTruncation": 0
           }
         },
         "length": 4,
@@ -58,7 +55,7 @@
     "x": 16,
     "y": 16
   },
-  "glyphBounds": "{{1, 5}, {55, 19}}",
+  "glyphBounds": "{{1, 5}, {56, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -77,11 +74,10 @@
     "do_objectID": "D693F240-83C5-46B0-971B-54D47E8CE9D0",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "4E293A4A-7689-4B1A-9F2A-B148299D402C",
+    "sharedObjectID": "379E20A4-9916-4449-AE37-1AC88175D166",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "522951FF-43F6-43D0-89F5-02BE09AAD719",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -97,13 +93,10 @@
             "size": 24
           }
         },
-        "kerning": -0.1090909,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.5,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -23,9 +23,7 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "allowsDefaultTighteningForTruncation": 0
           }
         },
         "length": 75,
@@ -50,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
+    "height": 42,
     "width": 214,
     "x": 16,
-    "y": 46
+    "y": 47
   },
-  "glyphBounds": "{{0, 3}, {204, 42}}",
+  "glyphBounds": "{{0, 2}, {204, 40}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -70,7 +68,38 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "93B00B3A-C96A-4122-A8E3-E2372E623D36"
+    "_class": "style",
+    "do_objectID": "BD3B9853-12AC-417C-80BE-BCBE6FA3C065",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "0BAC46A1-4967-43C1-A3EC-1B99365626A4",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "InterUI-Regular",
+            "size": 12
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.6,
+            "alpha": 0.5,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -20,10 +20,9 @@
               "size": 24
             }
           },
-          "kerning": -0.1099999994039536,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
@@ -52,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "343ECBC5-F560-4E01-BB69-D4238E8E57BF",
     "height": 28,
-    "width": 95,
+    "width": 96,
     "x": 212,
     "y": 448.08
   },
-  "glyphBounds": "{{1, 5}, {92, 19}}",
+  "glyphBounds": "{{1, 5}, {93, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -75,14 +74,14 @@
     "do_objectID": "8D303089-79DD-4F7B-AC94-E5D8B016C6A2",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "07C4EC43-E159-45F6-8DB9-AF389A51327F",
+    "sharedObjectID": "E1BF699B-41C4-4682-8937-5824A9751AA3",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.6,
+          "alpha": 0.5,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -94,10 +93,9 @@
             "size": 24
           }
         },
-        "kerning": -0.1099999994039536,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

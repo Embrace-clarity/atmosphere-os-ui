@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2156862745098039,
-            "green": 0.3333333333333334,
-            "red": 0.9568627450980393
+            "blue": 0,
+            "green": 0.2745098039215687,
+            "red": 0.9882352941176471
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,13 +20,10 @@
               "size": 32
             }
           },
-          "kerning": -0.01999999955296516,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 38,
-            "minimumLineHeight": 38
+            "allowsDefaultTighteningForTruncation": 0
           }
         },
         "length": 1,
@@ -56,7 +53,7 @@
     "height": 38,
     "width": 19,
     "x": 132,
-    "y": 213
+    "y": 192
   },
   "glyphBounds": "{{2, 7}, {15, 25}}",
   "isFixedToViewport": false,
@@ -77,18 +74,17 @@
     "do_objectID": "90083104-D267-4CE8-9885-7C4F803DE653",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "12D2244C-18ED-4C16-9F1E-07A318ED3F65",
+    "sharedObjectID": "391AFB54-073B-48EE-ADF6-41E86649231E",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "2E6BBEE6-A1AC-472A-B98E-002C8A3053AF",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2156862745098039,
-          "green": 0.3333333333333334,
-          "red": 0.9568627450980393
+          "blue": 0,
+          "green": 0.2745098039215687,
+          "red": 0.9882352941176471
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -97,13 +93,10 @@
             "size": 32
           }
         },
-        "kerning": -0.01999999955296516,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 38,
-          "minimumLineHeight": 38
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

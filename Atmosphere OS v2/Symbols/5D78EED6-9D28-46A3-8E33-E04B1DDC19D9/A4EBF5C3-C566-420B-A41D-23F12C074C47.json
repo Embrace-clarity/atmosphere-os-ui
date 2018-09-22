@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.5,
+            "alpha": 1,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -23,10 +23,10 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21
-          }
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
         "length": 51,
         "location": 0
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
+    "height": 38,
     "width": 276,
     "x": 48,
-    "y": 15
+    "y": 16
   },
-  "glyphBounds": "{{0, 4}, {264, 37}}",
+  "glyphBounds": "{{0, 3}, {264, 35}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -74,14 +74,14 @@
     "do_objectID": "E8ECD24D-CBAB-4465-99B2-7DF1AC7D8664",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "75276402-D3C5-41B1-ABC0-2A430AEE731D",
+    "sharedObjectID": "F4EE4714-2C3F-4B23-86F4-185B684DC0EA",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.5,
+          "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -96,10 +96,10 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 21,
-          "minimumLineHeight": 21
-        }
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
