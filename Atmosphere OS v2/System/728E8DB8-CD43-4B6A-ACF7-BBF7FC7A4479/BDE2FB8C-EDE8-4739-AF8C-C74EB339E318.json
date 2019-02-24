@@ -17,14 +17,16 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "InterUI-Regular",
-              "size": 12
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
-          }
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
         "length": 75,
         "location": 0
@@ -35,11 +37,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C861487C-241A-4FF6-8A55-A066A7283E0E",
+  "do_objectID": "BDE2FB8C-EDE8-4739-AF8C-C74EB339E318",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DC14732A-A284-4C11-BD0D-5DF66B57E32E",
+    "do_objectID": "A22312E6-4600-4B58-9617-F7C68396BCF2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2E0D44B9-85B3-44D8-A6D6-51B12FE3919F",
-    "height": 42,
-    "width": 198,
+    "do_objectID": "68397B9B-F645-4DB7-B60B-A426F86C8AE4",
+    "height": 57,
+    "width": 233,
     "x": 16,
     "y": 133
   },
-  "glyphBounds": "{{0, 2}, {192, 40}}",
+  "glyphBounds": "{{0, 3}, {228, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,16 +72,17 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0BAC46A1-4967-43C1-A3EC-1B99365626A4",
+  "sharedStyleID": "3C963480-3EB2-40B7-82F2-C8E95E2FD9DF",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BF2406CE-75F8-407F-9211-D56F505745DD",
+    "do_objectID": "7D8EBA33-BA2F-4DAE-BF06-073DC0BDE7F0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "4F343114-190B-4241-96C3-0065689BF31C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,14 +95,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "InterUI-Regular",
-            "size": 12
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
-        }
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },

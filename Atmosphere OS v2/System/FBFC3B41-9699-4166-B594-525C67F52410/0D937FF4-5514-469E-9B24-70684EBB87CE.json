@@ -9,37 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "InterUI-Regular",
-              "size": 24
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
-          }
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
-        "length": 25,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "Missed call from @anafiki"
+    "string": "5"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "52D6D10F-0C36-42CA-8303-4A9290D83352",
+  "do_objectID": "0D937FF4-5514-469E-9B24-70684EBB87CE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B30D459B-0026-4EA1-B3E6-9BA04AD954E7",
+    "do_objectID": "7CEC5B71-AB60-4E8D-818F-B34FB69EEF06",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
-    "width": 287,
+    "do_objectID": "1D3D2BAB-AE68-491D-A237-0A4189C51581",
+    "height": 19,
+    "width": 32,
     "x": 16,
-    "y": 5
+    "y": 439
   },
-  "glyphBounds": "{{2, 5}, {284, 23}}",
+  "glyphBounds": "{{12, 3}, {8, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,16 +67,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Missed call from @an",
+  "name": "5",
   "nameIsFixed": false,
-  "resizingConstraint": 11,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "379E20A4-9916-4449-AE37-1AC88175D166",
+  "sharedStyleID": "ED9EC271-BAB3-4EDB-B832-45EB32913EE8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8EE0A58E-D548-43AA-8289-86326446C038",
+    "do_objectID": "3683693D-09D5-47C2-ACDC-D11BA2362AB6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -83,26 +86,28 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "InterUI-Regular",
-            "size": 24
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
-        }
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
