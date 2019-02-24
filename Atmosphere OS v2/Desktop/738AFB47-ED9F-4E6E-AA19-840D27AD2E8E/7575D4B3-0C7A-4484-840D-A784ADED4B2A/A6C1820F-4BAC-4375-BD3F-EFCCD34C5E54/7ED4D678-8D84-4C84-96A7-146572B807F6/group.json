@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7ED4D678-8D84-4C84-96A7-146572B807F6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +22,11 @@
     "x": 24,
     "y": 238
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

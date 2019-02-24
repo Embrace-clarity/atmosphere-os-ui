@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 50,
+  "clippingMaskMode": 0,
   "do_objectID": "FA89C571-643B-482F-BFA4-105CD5018D5D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 11811,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,12 +52,14 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "CB2D9FBC-6A4F-470D-843F-A852B82522C2"
     }
   ],
   "name": "Profile / Thumbnail",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

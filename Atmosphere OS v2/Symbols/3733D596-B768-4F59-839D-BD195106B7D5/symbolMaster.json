@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 4804,
+  "clippingMaskMode": 0,
   "do_objectID": "3733D596-B768-4F59-839D-BD195106B7D5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 2579,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +58,8 @@
   ],
   "name": "Device / Interactions / Swipe Down",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

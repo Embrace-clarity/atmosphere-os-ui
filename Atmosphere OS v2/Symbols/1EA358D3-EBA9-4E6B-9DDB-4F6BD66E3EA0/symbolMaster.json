@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 501,
+  "clippingMaskMode": 0,
   "do_objectID": "1EA358D3-EBA9-4E6B-9DDB-4F6BD66E3EA0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 7270,
     "y": 480
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +66,33 @@
   ],
   "name": "List / Item / Assets / Left /Dark/ Title+Subtitle",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7761F04F-835E-49B3-AAC9-EDC5F0EC68D6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A7FFA0C4-6E9F-4A8D-997F-60765F659BF8_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5D1F3072-CC7A-489C-B4A8-5F5178D59A3B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7761F04F-835E-49B3-AAC9-EDC5F0EC68D6_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A7FFA0C4-6E9F-4A8D-997F-60765F659BF8_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

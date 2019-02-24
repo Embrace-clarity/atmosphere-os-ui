@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 4741,
+  "clippingMaskMode": 0,
   "do_objectID": "D669DEB2-788D-4FAE-B4AF-901E4CE34E26",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 2579,
     "y": 220
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +58,8 @@
   ],
   "name": "Device / Interactions / Swipe Left",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

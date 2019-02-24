@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 968,
+  "clippingMaskMode": 0,
   "do_objectID": "1FA59168-3F33-471B-937B-7809F9C7697D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,8 +34,12 @@
     "isEnabled": false,
     "thickGridTimes": 2
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,7 +62,7 @@
       "id": "1A6EC0D1-BF44-467F-8B95-85CA463BA41B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "AC3EB53C-B9F6-4C11-AF8A-B4D3614616E8"
     },
     {
@@ -94,6 +99,33 @@
   },
   "name": "Screens / Chat",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DB0F73DB-DAAB-4380-A344-2E37A1133336_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A61625D7-29A5-47D5-9AAE-1C918480492A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B3786D9C-CC34-483A-B7D2-6581CE0546A8_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1A6EC0D1-BF44-467F-8B95-85CA463BA41B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2803234-8CF3-4E4D-BC3F-CAB108996461_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

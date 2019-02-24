@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 547,
+  "clippingMaskMode": 0,
   "do_objectID": "A967632C-0BD2-498E-92B7-C9011A3095F3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 7730,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +58,8 @@
   ],
   "name": "List / Item / Assets / Right /Light/Empty",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

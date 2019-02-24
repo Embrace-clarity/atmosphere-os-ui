@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 320,
+  "clippingMaskMode": 0,
   "do_objectID": "B7D17636-F57A-4B34-9000-72902EFB72C0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 11271,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +66,38 @@
   ],
   "name": "Nav / Menu / Sub",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B558DC3D-6BEE-4D73-9663-02B48EF942AD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C65D7ECC-007B-4C9F-BF0D-6008B91F4633_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C65D7ECC-007B-4C9F-BF0D-6008B91F4633_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "47DF78B0-0CEE-46CC-A1A7-A29BF5E54419_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "47DF78B0-0CEE-46CC-A1A7-A29BF5E54419_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B558DC3D-6BEE-4D73-9663-02B48EF942AD_textStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

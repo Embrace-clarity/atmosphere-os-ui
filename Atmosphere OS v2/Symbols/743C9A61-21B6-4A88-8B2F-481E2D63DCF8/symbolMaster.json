@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 817,
+  "clippingMaskMode": 0,
   "do_objectID": "743C9A61-21B6-4A88-8B2F-481E2D63DCF8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 2899,
     "y": 701
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,15 +52,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "3FA40C06-8F37-4B49-A88B-50FB946794C3"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "858D8515-E4CE-4D80-96BB-84D92C5ABA2D"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "A9EB1610-0297-4026-9002-D1A6753E85F9"
     },
     {
@@ -65,6 +70,8 @@
   ],
   "name": "Device / Wireframe / Front",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

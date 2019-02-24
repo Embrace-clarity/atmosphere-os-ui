@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2F903996-FB3C-4251-A798-EACD40E0B827",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,8 +46,12 @@
     "isEnabled": false,
     "thickGridTimes": 2
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -65,7 +70,7 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "F75FB503-E61C-4D07-A5DE-33A253C83E02"
     },
     {

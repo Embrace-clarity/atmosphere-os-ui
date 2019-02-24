@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 649,
+  "clippingMaskMode": 0,
   "do_objectID": "07598520-83BC-4B48-8C00-D615679F19CC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 6808,
     "y": 124
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,12 +52,24 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "01B55854-F7F3-4498-A4B7-6F6B5A34A3D5"
     }
   ],
   "name": "Icon / 24 / White / Circle",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "01B55854-F7F3-4498-A4B7-6F6B5A34A3D5_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "01B55854-F7F3-4498-A4B7-6F6B5A34A3D5_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

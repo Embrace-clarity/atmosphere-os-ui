@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 176,
+  "clippingMaskMode": 0,
   "do_objectID": "63A060B8-EB17-47AE-9A9A-F45CD848BCB5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 4028,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +58,18 @@
   ],
   "name": "Feed/Assets/Header",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A59CFEA4-2616-473B-8ADC-094A41615DEA_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A59CFEA4-2616-473B-8ADC-094A41615DEA_textStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

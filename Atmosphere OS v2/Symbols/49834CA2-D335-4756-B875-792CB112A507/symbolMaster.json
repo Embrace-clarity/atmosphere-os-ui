@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 46,
+  "clippingMaskMode": 0,
   "do_objectID": "49834CA2-D335-4756-B875-792CB112A507",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 5648,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,12 +56,24 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "A8F177A6-4C64-46F8-B56C-CD580F87E9C0"
     }
   ],
   "name": "Globals / Bg / Accent",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A8F177A6-4C64-46F8-B56C-CD580F87E9C0_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A8F177A6-4C64-46F8-B56C-CD580F87E9C0_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

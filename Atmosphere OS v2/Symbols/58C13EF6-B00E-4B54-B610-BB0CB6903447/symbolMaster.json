@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 55,
+  "clippingMaskMode": 0,
   "do_objectID": "58C13EF6-B00E-4B54-B610-BB0CB6903447",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,8 +30,12 @@
     "x": 0,
     "y": 318
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,6 +61,8 @@
   ],
   "name": "Brand Assets / Logo Light Dark",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 479,
+  "clippingMaskMode": 0,
   "do_objectID": "6E7FD73E-E48D-48DC-AF8A-8C2D172F0149",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 8550,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +66,23 @@
   ],
   "name": "Modals / Popup ",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AB92E3F2-8EFF-4073-B913-DFE9524AAE02_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E55A31C-2A30-4D54-9C21-38B62A7D40F4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C83E197F-BC8F-4A5E-8567-FD7ACBFD67F0_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "B088E027-E7A7-418E-BAF4-7AD587B176F1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,7 +20,11 @@
     "x": 416,
     "y": 22
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -28,199 +33,199 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "DA249F83-F1B8-4D52-894A-78B553D07CD9"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "2AA3E3FC-A8DD-4B83-9EA7-75E7E0B6358B"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "0113CFE4-96DA-4CC7-B4A2-D20F4B0C096C"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "3F67B695-010F-4209-92A0-EE741E2227C0"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "B63E0B02-376A-4EFB-8FBC-FD8ACDCB6B36"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "367C86DB-BAFF-4AE7-9D95-DE16A4E4DFB2"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "927BE30E-5A4E-41B2-837B-DA892FC5424E"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "D80BA6C9-7863-467B-8241-C76B7F1D502C"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "C5263B1A-34DD-4766-A193-C4BDF05D20B7"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "754DA3C8-4A53-487E-BC96-75545B5FB4B1"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "DCFB3ACB-2FA3-4D73-969C-90DE6E617FAE"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "DDD2833F-6E3A-47D3-8A58-A1A96150BB5B"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "006646AC-10C3-4C44-B296-CBD410BAAD0D"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "70CBEE37-7AB1-46D4-9347-BE2667997421"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "6BA11306-816D-4633-92AA-749E23A732F2"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "25C5DB56-09BC-4A66-A225-79606F42EE5A"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "8E170FC1-BE93-4FE5-BF7C-C52193EC3ABF"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "FC828702-0C3C-4A01-BB40-7AC63033249F"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "DF10C529-8FBD-4C8F-91A3-8837844D7CC5"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "1EC40557-0980-4946-B503-F26EFE541CDE"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "395C3240-E7E1-49B3-BB6D-1D3407F7E88C"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "2E10EB87-A385-4C0F-AB6F-2E716D36B917"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "9DC333B4-A5F8-497E-86A0-E4B64B69F3B0"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "C97497E7-C9E1-4B9D-AE92-8F20A0174096"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "DA3E9A38-C65E-4795-B531-9002A6BB6FC2"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "E5169C54-4514-4E0B-BD49-F9B27568E6B1"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "82344007-CE4F-4CAE-8ACE-A4F84EFBD967"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "0A4A12C8-FED1-43F2-ABBC-A97A8A88D6A3"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "F44EF204-4634-4043-9E46-571EB575367C"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "AFE0B036-4D05-4B9A-B935-2AE6870B0E2B"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "4B102FD2-7043-447C-9D6F-0EE5BC3792B4"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "2A061C86-65E6-4297-9120-372AEA09A4F5"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "CC5C7C0A-77BF-48D8-8A92-75174AED76C3"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "67FCC8DD-BCA1-4D7C-BFE0-B2953D31BE3C"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "DE174A98-11BE-4BB3-880E-06050440AADE"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "C2A9534F-316D-44A3-B5A9-9A340379E1C4"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "8A726814-81CD-45B5-ABC4-52053E29D474"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "7FED1FEE-83B7-4C0B-9088-FFD241BBDC25"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "3E9289FE-6E17-4D1A-A298-42D7A1394132"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "A05B99A5-1B58-4FA0-B794-1F3C511AAC37"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "60A7A427-A23A-4C45-B685-3A6626676F51"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "1FB77072-4975-439C-AA53-7315D2A8CD99"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "6DCD1A03-E4FD-417B-88C8-5FC93E6D96C3"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "68DCC45F-DADF-4607-ADF6-2753E286DED7"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "5ED122E8-41C0-4AF3-9BBA-FC55065BE55B"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "A2848A29-B629-4B07-9BC1-60B1E3FC4DD4"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "4D2C04E6-5D0C-459F-A8B8-58182D83CAF2"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "42C79C0B-3B29-4C9F-B726-1BF6A2357152"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "724E77AC-3FBC-4AFB-8EEC-205DE6666C28"
     }
   ],

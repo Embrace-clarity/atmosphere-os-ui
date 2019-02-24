@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 74,
+  "clippingMaskMode": 0,
   "do_objectID": "13FD2046-9F01-4E6B-84D8-C06C7BC8D117",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 1042,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,7 +52,7 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "7C207641-3ED5-4E90-92C9-8576A4C7CB6C"
     },
     {
@@ -57,6 +62,18 @@
   ],
   "name": "Chat/Bubbles/Left/Text",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BC20775E-F9DA-414E-9050-0032402A02DB_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BC20775E-F9DA-414E-9050-0032402A02DB_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

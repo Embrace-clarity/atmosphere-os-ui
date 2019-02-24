@@ -8,6 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "FF111B8B-953F-431F-A916-E332ABCA286E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,8 +42,12 @@
     "isEnabled": false,
     "thickGridTimes": 2
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -60,20 +65,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "AF8CCC2B-14E7-49A3-8563-55534365CF11"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "6093A57C-E568-411E-9906-5232320EBAD3"
     },
     {
       "class": "group",
       "id": "D194DACB-7DE3-41C2-825D-3CE964A4C069"
-    },
-    {
-      "class": "group",
-      "id": "30BFBDAA-8903-485D-A847-31874BD22386"
     },
     {
       "class": "symbolInstance",
@@ -86,6 +87,10 @@
     {
       "class": "symbolInstance",
       "id": "2F7E66F3-1F06-49E8-BE0F-4232EABAF26E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62F8B087-5F1F-4A35-BE9D-2D1C1E8FE9B6"
     }
   ],
   "layout": {

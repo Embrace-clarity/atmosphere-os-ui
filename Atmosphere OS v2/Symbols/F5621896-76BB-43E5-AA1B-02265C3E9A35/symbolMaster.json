@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 757,
+  "clippingMaskMode": 0,
   "do_objectID": "F5621896-76BB-43E5-AA1B-02265C3E9A35",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 2122,
     "y": 124
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,12 +56,24 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "8A4988B1-EEA3-4DE9-94E4-4DCD2259E8EB"
     }
   ],
   "name": "Controls/Radio/Dark/Selected",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8A4988B1-EEA3-4DE9-94E4-4DCD2259E8EB_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8A4988B1-EEA3-4DE9-94E4-4DCD2259E8EB_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

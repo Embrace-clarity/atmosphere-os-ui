@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 22,
+  "clippingMaskMode": 0,
   "do_objectID": "8DECC3A5-3D35-4E0D-B7FF-F91E2C7AC9F0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 3487,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,12 +52,14 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "9273A289-9E9B-4E75-A67E-3C802AE0A022"
     }
   ],
   "name": "Divider / Dark",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

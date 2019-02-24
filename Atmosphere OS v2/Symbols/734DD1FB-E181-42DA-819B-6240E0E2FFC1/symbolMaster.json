@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 160,
+  "clippingMaskMode": 0,
   "do_objectID": "734DD1FB-E181-42DA-819B-6240E0E2FFC1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 4568,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +58,18 @@
   ],
   "name": "Feed/Assets/Rich Content/Missed",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52D6D10F-0C36-42CA-8303-4A9290D83352_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52D6D10F-0C36-42CA-8303-4A9290D83352_textStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

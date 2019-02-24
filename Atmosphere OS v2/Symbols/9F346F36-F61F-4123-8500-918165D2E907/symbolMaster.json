@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 541,
+  "clippingMaskMode": 0,
   "do_objectID": "9F346F36-F61F-4123-8500-918165D2E907",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 7270,
     "y": 960
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +66,23 @@
   ],
   "name": "List / Item / Assets / Left /Light/M Title",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "71D37A5A-5758-47AB-9E5B-BB7EAEFDA4EC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "71D37A5A-5758-47AB-9E5B-BB7EAEFDA4EC_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C71A94C9-185C-48A3-8873-FE64A298BE7C_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

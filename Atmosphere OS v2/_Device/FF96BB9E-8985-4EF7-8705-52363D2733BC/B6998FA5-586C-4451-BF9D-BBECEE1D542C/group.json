@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "B6998FA5-586C-4451-BF9D-BBECEE1D542C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,7 +20,11 @@
     "x": 2856,
     "y": 3405
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -50,6 +55,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 20,
+      "saturation": 1,
       "type": 0
     },
     "endMarkerType": 0,

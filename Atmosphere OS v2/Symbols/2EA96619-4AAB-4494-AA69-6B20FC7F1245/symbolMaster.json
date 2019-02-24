@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 48,
+  "clippingMaskMode": 0,
   "do_objectID": "2EA96619-4AAB-4494-AA69-6B20FC7F1245",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 338,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,12 +52,14 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "004B85A7-E11D-459C-ADC6-AB4009F4F517"
     }
   ],
   "name": "Buttons / Base / Assets / Fill / Light",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

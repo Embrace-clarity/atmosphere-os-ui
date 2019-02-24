@@ -2,6 +2,18 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.407843137254902,
+          "green": 0.407843137254902,
+          "red": 0.407843137254902
+        }
+      }
+    ],
     "colors": [
       {
         "_class": "color",
@@ -10,6 +22,8 @@
         "green": 0.407843137254902,
         "red": 0.407843137254902
       }
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -35,9 +49,9 @@
     ]
   },
   "meta": {
-    "appVersion": "51.3",
-    "build": 57544,
-    "version": 105
+    "appVersion": "53.2",
+    "build": 72643,
+    "version": 116
   },
   "pages": [
     "_Design System",

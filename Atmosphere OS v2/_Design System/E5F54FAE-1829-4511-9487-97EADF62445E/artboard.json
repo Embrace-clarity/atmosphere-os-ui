@@ -8,6 +8,7 @@
     "red": 0.4325839710884354
   },
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "E5F54FAE-1829-4511-9487-97EADF62445E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +27,12 @@
     "x": -1618,
     "y": -232
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -409,7 +414,7 @@
       "id": "127B5605-6CDD-4F52-8ECB-80C36064F43B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "39B53A5B-870F-488F-9901-CE54E4A27A88"
     },
     {
@@ -417,7 +422,7 @@
       "id": "F397AB10-B00D-4C2B-92F6-DD20151F6001"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "094A0D01-CE54-44C0-AF8D-89104B6DB4D8"
     },
     {
@@ -425,7 +430,7 @@
       "id": "AA0A1C9F-B9FB-4830-9660-C12D9E3BB729"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "E8EC0570-4EA9-4100-B906-81D27EE398B4"
     },
     {
@@ -433,7 +438,7 @@
       "id": "7A315748-D120-4206-A6BD-CC1F68EAF0C4"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "5297DA27-AA15-43C8-B986-246B05F14A7B"
     },
     {
@@ -441,15 +446,15 @@
       "id": "97B99CF3-DA70-4392-97BA-FDE08B98EAE4"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "44783EFD-AA6D-46E2-92BB-8043680804AF"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "D25E8BA4-DD8D-4145-878B-EEF53D67DB9D"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "3B08CACA-CB6B-41D6-8C61-389C5DD27AC1"
     },
     {
@@ -469,23 +474,23 @@
       "id": "4A610B65-2ED6-420C-9FDB-22A81B416AB6"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "423735F3-E2CC-4902-968F-82492F4C97E5"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "2BB61134-317D-4563-A1D8-12FCD3DB9201"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "15E08FA5-2468-408C-867E-295456346582"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "180FEEB0-A38D-4D88-82FF-6C993F574A0C"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "7AE7F61E-BD74-4367-A536-71893D3592AB"
     }
   ],

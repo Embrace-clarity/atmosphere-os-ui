@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 851,
+  "clippingMaskMode": 0,
   "do_objectID": "2E501462-1AB6-4350-B8CD-71A52BE4A2B3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 2899,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +58,8 @@
   ],
   "name": "Device / Wireframe / Back",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

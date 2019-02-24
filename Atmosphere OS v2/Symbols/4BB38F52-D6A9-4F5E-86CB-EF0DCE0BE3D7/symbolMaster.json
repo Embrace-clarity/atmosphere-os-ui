@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 2806,
+  "clippingMaskMode": 0,
   "do_objectID": "4BB38F52-D6A9-4F5E-86CB-EF0DCE0BE3D7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 6808,
     "y": 416
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,16 +56,38 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "A7E021BF-8526-41FF-877C-FA4C934E36BD"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "7A2E2118-8882-406C-BA73-7EBA162FAC06"
     }
   ],
   "name": "Icon / 24 / White / Mic",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7A2E2118-8882-406C-BA73-7EBA162FAC06_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A7E021BF-8526-41FF-877C-FA4C934E36BD_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A7E021BF-8526-41FF-877C-FA4C934E36BD_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7A2E2118-8882-406C-BA73-7EBA162FAC06_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

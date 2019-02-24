@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 400,
+  "clippingMaskMode": 0,
   "do_objectID": "FAA0C783-DE34-4275-8475-7FF230F40D31",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 7270,
     "y": 320
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +66,23 @@
   ],
   "name": "List / Item / Assets / Left /Dark/M Title Solid",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9EAC2A11-EF24-4378-945A-CB2718232768_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "002F62B4-59F6-45B0-B414-D0B509C17825_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9EAC2A11-EF24-4378-945A-CB2718232768_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

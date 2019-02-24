@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 4396,
+  "clippingMaskMode": 0,
   "do_objectID": "5BD26250-5F55-4AAF-A2FC-67EB5260D843",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 6808,
     "y": 248
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,16 +52,18 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "0FADD721-484D-4A37-9262-D4017C0750A3"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "CCA03D40-4C66-4EB7-88BA-E0FA1EA3EC17"
     }
   ],
   "name": "Icon / 24 / White / Enter",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

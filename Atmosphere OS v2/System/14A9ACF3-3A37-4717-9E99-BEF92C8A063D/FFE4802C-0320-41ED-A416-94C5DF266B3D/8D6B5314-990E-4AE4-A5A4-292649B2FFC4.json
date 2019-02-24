@@ -37,6 +37,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "8D6B5314-990E-4AE4-A5A4-292649B2FFC4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "306011C2-0A61-4C48-A2D4-AD3F6EB9D0F4",
     "height": 38,
-    "width": 19,
+    "width": 20,
     "x": 132,
     "y": 191
   },
   "glyphBounds": "{{2, 7}, {15, 25}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

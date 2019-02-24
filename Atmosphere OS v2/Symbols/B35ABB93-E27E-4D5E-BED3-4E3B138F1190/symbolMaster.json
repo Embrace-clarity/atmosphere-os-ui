@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 625,
+  "clippingMaskMode": 0,
   "do_objectID": "B35ABB93-E27E-4D5E-BED3-4E3B138F1190",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 7730,
     "y": 160
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +66,18 @@
   ],
   "name": "List / Item / Assets / Right /Light/Radio",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "852C8722-0E4E-4CA3-A9A4-1A37A69783B8_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "489BEA30-AC70-4708-971C-5B8DB29113B2_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

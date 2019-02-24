@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 2632,
+  "clippingMaskMode": 0,
   "do_objectID": "14A9ACF3-3A37-4717-9E99-BEF92C8A063D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -37,8 +38,12 @@
     "isEnabled": false,
     "thickGridTimes": 2
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -66,7 +71,7 @@
       "id": "FFE4802C-0320-41ED-A416-94C5DF266B3D"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "04374B2E-8A93-49EE-88EF-43551C4589D0"
     },
     {
@@ -96,6 +101,43 @@
   },
   "name": "Screens / Slash",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5982D338-1E96-45FB-BD8A-37FE32651560_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "58C624FB-DFE9-48D4-9E1A-403EA9A3A4A0_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7FFD727A-C0B0-47E0-8AF3-C453CDFBD7B8_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "60131655-BDD2-4494-B35D-1C4E8C207DBD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8D6B5314-990E-4AE4-A5A4-292649B2FFC4_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "26FA0214-08F7-4B4E-8764-13FB838CCFC6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DB3BD8D3-6D98-4AC7-A2B9-03C287E7BF15_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

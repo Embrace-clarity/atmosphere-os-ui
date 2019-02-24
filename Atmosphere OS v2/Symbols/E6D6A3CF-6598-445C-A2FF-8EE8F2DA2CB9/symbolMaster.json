@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 6,
+  "clippingMaskMode": 0,
   "do_objectID": "E6D6A3CF-6598-445C-A2FF-8EE8F2DA2CB9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 6390,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +58,13 @@
   ],
   "name": "Globals/Notification/Default",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2AF5A27-52E3-429D-B177-B5E74AD48CDC_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

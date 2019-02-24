@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 5572,
+  "clippingMaskMode": 0,
   "do_objectID": "8B916922-084E-47C7-8341-BF3D5F716120",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 2579,
     "y": 660
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +58,8 @@
   ],
   "name": "Device / Interactions / Swipe Up",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

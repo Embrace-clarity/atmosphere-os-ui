@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 163,
+  "clippingMaskMode": 0,
   "do_objectID": "B10D6DFB-BC75-4828-BEDD-EC89C345D658",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 4568,
     "y": 296
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +66,18 @@
   ],
   "name": "Feed/Assets/Rich Content/Transaction Success",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1950689F-26A6-4718-B8D8-BA2A10D292E8_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1950689F-26A6-4718-B8D8-BA2A10D292E8_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

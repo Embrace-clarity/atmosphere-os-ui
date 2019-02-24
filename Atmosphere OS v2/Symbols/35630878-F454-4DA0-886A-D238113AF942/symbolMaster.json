@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 2822,
+  "clippingMaskMode": 0,
   "do_objectID": "35630878-F454-4DA0-886A-D238113AF942",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 2346,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,16 +56,38 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "90756A55-DF00-42EF-98DD-72DFB07F5927"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "00456CC4-293F-4413-8088-D86C648E11DE"
     }
   ],
   "name": "Controls/Switch/Dark/Default",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "00456CC4-293F-4413-8088-D86C648E11DE_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "90756A55-DF00-42EF-98DD-72DFB07F5927_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "00456CC4-293F-4413-8088-D86C648E11DE_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "90756A55-DF00-42EF-98DD-72DFB07F5927_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

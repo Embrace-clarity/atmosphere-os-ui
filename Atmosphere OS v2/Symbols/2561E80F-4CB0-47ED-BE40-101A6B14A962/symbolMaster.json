@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 573,
+  "clippingMaskMode": 0,
   "do_objectID": "2561E80F-4CB0-47ED-BE40-101A6B14A962",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 7270,
     "y": 1440
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +66,33 @@
   ],
   "name": "List / Item / Assets / Left /Light/ Title + Subtitle",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "61AF1FDB-5E7B-4228-B75A-77803AB1DF0B_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FE1501A1-6532-4CC1-AA8F-E20E6808A76B_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "61AF1FDB-5E7B-4228-B75A-77803AB1DF0B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FE1501A1-6532-4CC1-AA8F-E20E6808A76B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EAE4B91C-EC23-4EC8-8361-C2B46B75BF83_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

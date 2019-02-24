@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 248,
+  "clippingMaskMode": 0,
   "do_objectID": "23D1A5EE-DAC4-4370-A91D-FF71D82CD161",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 10170,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,6 +62,28 @@
   ],
   "name": "Modals / Popup / Assets / Type / Dark",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8646C3F9-5666-4230-81E3-FB998DE89E3F_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C49B260B-CD90-48AE-9609-98ED1BB6332B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8646C3F9-5666-4230-81E3-FB998DE89E3F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C49B260B-CD90-48AE-9609-98ED1BB6332B_textStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

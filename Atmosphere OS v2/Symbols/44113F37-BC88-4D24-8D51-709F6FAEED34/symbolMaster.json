@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 195,
+  "clippingMaskMode": 0,
   "do_objectID": "44113F37-BC88-4D24-8D51-709F6FAEED34",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,8 +30,12 @@
     "x": 9630,
     "y": 169
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -60,6 +65,28 @@
   ],
   "name": "Modals / Popup / Assets / Actions / Buttons / Light",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "924554EE-4201-4511-876C-92ED9ECAD46B_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F55D2E76-A0CD-401B-B376-54E590AD6285_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "924554EE-4201-4511-876C-92ED9ECAD46B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F55D2E76-A0CD-401B-B376-54E590AD6285_textStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

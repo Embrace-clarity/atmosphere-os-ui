@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6328C9A5-35A1-427C-84DB-50D5EE0BE20A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,7 +20,11 @@
     "x": 267,
     "y": 8
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -28,11 +33,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "7F94EF49-BCE4-4294-91D7-6AB1AA3FC308"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "16622637-9611-4206-86DF-986D6696358E"
     }
   ],

@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 110,
+  "clippingMaskMode": 0,
   "do_objectID": "F72D23DE-634D-41BF-8549-EA5B9857B9D1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 566,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +58,28 @@
   ],
   "name": "Chat/Assets/Status/Seen",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2E7BE32-8A80-446A-8502-CDA4D62873F7_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F5E12BB9-98E0-4A37-A533-131ACA82334F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F5E12BB9-98E0-4A37-A533-131ACA82334F_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2E7BE32-8A80-446A-8502-CDA4D62873F7_textStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

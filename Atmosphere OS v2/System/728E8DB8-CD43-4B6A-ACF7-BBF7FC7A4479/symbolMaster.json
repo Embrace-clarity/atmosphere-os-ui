@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 1102,
+  "clippingMaskMode": 0,
   "do_objectID": "728E8DB8-CD43-4B6A-ACF7-BBF7FC7A4479",
   "exportOptions": {
     "_class": "exportOptions",
@@ -37,8 +38,12 @@
     "isEnabled": false,
     "thickGridTimes": 2
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -84,6 +89,23 @@
   },
   "name": "Screens / Locked",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C861487C-241A-4FF6-8A55-A066A7283E0E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C861487C-241A-4FF6-8A55-A066A7283E0E_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4266222B-E32A-42F1-BE76-8EFC9649A775_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

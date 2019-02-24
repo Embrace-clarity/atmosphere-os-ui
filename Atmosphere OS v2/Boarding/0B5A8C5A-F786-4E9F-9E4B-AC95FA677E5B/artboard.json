@@ -9,6 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "0B5A8C5A-F786-4E9F-9E4B-AC95FA677E5B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,8 +46,12 @@
     "isEnabled": false,
     "thickGridTimes": 2
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -73,7 +78,7 @@
       "id": "4138BD6C-1956-49F6-ACDF-E42C2E44DE8A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "51247792-C4E2-4414-B8B5-30CE7C0EF84F"
     },
     {
@@ -153,11 +158,11 @@
       "id": "C73233D7-DC6A-48E4-A1F1-D25F7D147505"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "277F8A9E-E4E4-493A-BB01-07B72F86BCFC"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "BA3C6375-5DB1-4BE7-BF2A-40E3C5161462"
     },
     {
@@ -189,15 +194,15 @@
       "id": "545A9D33-DDC7-4FB4-86AD-AE3C79297D96"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "590D98A9-F0F6-4949-8705-01540143394C"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "FB3CC5DA-9A52-4323-A093-8CAD34F7DA93"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "D60FE14D-A938-4EDD-B845-042E25F84772"
     },
     {
@@ -205,7 +210,7 @@
       "id": "C51D80C0-E379-4497-A2B7-63457C41B905"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "3FDCA3B9-5E9C-4532-BD43-BB209CBA5281"
     },
     {
@@ -213,7 +218,7 @@
       "id": "95CF7906-E923-4936-AE76-A83E47B04A34"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "221BAEED-BD31-4142-9936-B6CEEE61E39F"
     },
     {
@@ -221,11 +226,11 @@
       "id": "DAB345D7-69EA-496C-9D84-D1EF14AC54FC"
     },
     {
-      "class": "shapeGroup",
+      "class": "oval",
       "id": "CE08B6C5-735F-488D-9FA4-94293C27CA41"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "0D2F1057-6411-4A90-879C-219F197E5885"
     }
   ],

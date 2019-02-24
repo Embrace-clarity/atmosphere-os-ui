@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 507,
+  "clippingMaskMode": 0,
   "do_objectID": "ADB94E57-A9F2-4CCC-BE7E-CA06B4556D12",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 7270,
     "y": 1280
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +66,23 @@
   ],
   "name": "List / Item / Assets / Left /Light/ L Title Solid",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "77ABAEE9-AFC0-4AE2-B304-C331EE0943AA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E31C5DA0-B7BC-4C13-8C3B-FB6B9FE1579A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E31C5DA0-B7BC-4C13-8C3B-FB6B9FE1579A_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 205,
+  "clippingMaskMode": 0,
   "do_objectID": "55CFB07E-6F61-46FB-97C9-592F6B86C7AC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,8 +31,12 @@
     "x": 5648,
     "y": 440
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,12 +56,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "B8185F82-5521-4CAC-AA88-809D440DCF0D"
     }
   ],
   "name": "Globals / Bg / Dark 2",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B8185F82-5521-4CAC-AA88-809D440DCF0D_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B8185F82-5521-4CAC-AA88-809D440DCF0D_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

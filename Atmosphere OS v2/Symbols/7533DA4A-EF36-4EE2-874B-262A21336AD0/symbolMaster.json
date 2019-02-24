@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 679,
+  "clippingMaskMode": 0,
   "do_objectID": "7533DA4A-EF36-4EE2-874B-262A21336AD0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +28,12 @@
     "x": 10710,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,6 +62,18 @@
   ],
   "name": "Nav / Header / Horizontal Slide",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
