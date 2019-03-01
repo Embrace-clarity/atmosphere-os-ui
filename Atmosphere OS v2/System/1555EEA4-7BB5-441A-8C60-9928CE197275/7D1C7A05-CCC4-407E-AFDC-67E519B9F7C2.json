@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "InterUI-Regular",
+              "name": "Inter-Regular",
               "size": 16
             }
           },
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 81,
+    "width": 82,
     "x": 24,
-    "y": 29
+    "y": 30
   },
-  "glyphBounds": "{{1, 4}, {79, 16}}",
+  "glyphBounds": "{{1, 4}, {80, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "InterUI-Regular",
+            "name": "Inter-Regular",
             "size": 16
           }
         },

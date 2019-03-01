@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "InterUI-Regular",
+              "name": "Inter-Regular",
               "size": 32
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 56,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "Transport\nCommunication\nCollaborate\nWallet\nAudio\nModules"
+    "string": "Transport\nCommunication\nWallet\nAudio"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 234,
-    "width": 235,
+    "height": 188,
+    "width": 236,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 7}, {228, 215}}",
+  "glyphBounds": "{{0, 15}, {234, 166}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -90,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "InterUI-Regular",
+            "name": "Inter-Regular",
             "size": 32
           }
         },

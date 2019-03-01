@@ -9,7 +9,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": ".SFNSDisplay",
+              "name": "Inter-Regular",
               "size": 20
             }
           },
@@ -44,11 +44,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 62,
+    "width": 68,
     "x": 3487,
     "y": 0
   },
-  "glyphBounds": "{{1, 5}, {60, 16}}",
+  "glyphBounds": "{{1, 4}, {67, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,7 +74,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": ".SFNSDisplay",
+            "name": "Inter-Regular",
             "size": 20
           }
         },
