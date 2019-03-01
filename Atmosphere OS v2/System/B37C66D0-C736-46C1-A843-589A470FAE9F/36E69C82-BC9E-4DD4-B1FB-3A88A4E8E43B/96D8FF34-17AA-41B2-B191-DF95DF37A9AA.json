@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0.2745098039215687,
-            "red": 0.9882352941176471
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "1"
+    "string": "3"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "98C8B132-3FA6-49ED-A652-140DAA3ABCCF",
     "height": 47,
-    "width": 15,
-    "x": 97,
-    "y": 141
+    "width": 21,
+    "x": 99,
+    "y": 94
   },
-  "glyphBounds": "{{1, 15}, {9, 25}}",
+  "glyphBounds": "{{2, 15}, {17, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,12 +65,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "1",
+  "name": "3",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "391AFB54-073B-48EE-ADF6-41E86649231E",
+  "sharedStyleID": "01F129AE-5F92-465E-AC9F-5E200F130CF5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -84,9 +84,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0.2745098039215687,
-          "red": 0.9882352941176471
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
