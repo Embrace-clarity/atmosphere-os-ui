@@ -20,7 +20,7 @@
         "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 3,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -43,7 +43,7 @@
     "do_objectID": "0524A424-64A0-4F98-B2C5-95F53F1D53D2"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
