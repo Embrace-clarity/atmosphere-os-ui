@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "253B06D5-BE55-4A56-812F-2761DDF7C971",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8863E54-6C3A-405F-953F-B8D1002A1687",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FF6A872-F7F4-44A7-85CE-3E4C0A780FAA",
+    "height": 19,
+    "width": 313,
+    "x": 16,
+    "y": 13
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feed/Assets/Meta",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27689768-253B-4DE2-92C1-50EE47591A22",
+      "overrideName": "EB46FE15-0C69-4335-A2D1-8C18938A7EA6_stringValue",
+      "value": "Sent by @denull 30min ago. 23 confirmations"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "070B3C1E-8D26-40C7-A53B-94CA1E9A58E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41D23D7C-7728-4E1C-BFEC-BA47B729A79E",
+  "verticalSpacing": 0
+}

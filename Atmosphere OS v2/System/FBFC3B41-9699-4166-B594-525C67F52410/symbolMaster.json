@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1542,
+  "changeIdentifier": 2216,
   "clippingMaskMode": 0,
   "do_objectID": "FBFC3B41-9699-4166-B594-525C67F52410",
   "exportOptions": {
@@ -71,16 +71,8 @@
       "id": "9DDB18B2-52B3-454B-BC0B-6A2A0B1E49CC"
     },
     {
-      "class": "oval",
-      "id": "F7828DA2-8402-463F-B8CC-D0025DF7717A"
-    },
-    {
       "class": "text",
-      "id": "E1CE3E8B-291E-4CCA-BA59-DB39626B6781"
-    },
-    {
-      "class": "text",
-      "id": "0D937FF4-5514-469E-9B24-70684EBB87CE"
+      "id": "B8174637-6BC8-4960-8B01-EC2CEFEC3CBF"
     }
   ],
   "layout": {

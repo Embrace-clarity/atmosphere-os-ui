@@ -28,11 +28,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 75,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "23 Wednesday, March\n-3° and super sunny. However rain is expected in 30min."
+    "string": "23 Wed\n-3° and Sunny"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1D512778-7DCB-4672-AEB6-F0843F579037",
-    "height": 69,
-    "width": 263,
+    "height": 46,
+    "width": 212,
     "x": 16,
-    "y": 129
+    "y": 134
   },
-  "glyphBounds": "{{0, 7}, {262, 62}}",
+  "glyphBounds": "{{1, 7}, {108, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "23 Wednesday, March",
+  "name": "23 Wed -3° and Sunny",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

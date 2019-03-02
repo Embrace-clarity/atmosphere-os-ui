@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3554,
+  "changeIdentifier": 3681,
   "clippingMaskMode": 0,
   "do_objectID": "D77C787D-6FA0-4399-978B-60EAC55C9EEA",
   "exportOptions": {
@@ -53,19 +53,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "E81630E8-95E7-410B-86CD-6C64130F40F9"
     },
     {
-      "class": "text",
-      "id": "ADDA60CC-B727-4378-A569-4AA1EC6590B6"
+      "class": "symbolInstance",
+      "id": "3DBA0253-1414-41FB-B79F-ADB9BBCC87DA"
     },
     {
       "class": "symbolInstance",
-      "id": "3DBA0253-1414-41FB-B79F-ADB9BBCC87DA"
+      "id": "253B06D5-BE55-4A56-812F-2761DDF7C971"
     }
   ],
   "name": "Feed/Item/Transcation",

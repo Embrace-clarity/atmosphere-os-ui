@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 518,
+  "changeIdentifier": 521,
   "clippingMaskMode": 0,
   "do_objectID": "1EA358D3-EBA9-4E6B-9DDB-4F6BD66E3EA0",
   "exportOptions": {
@@ -53,12 +53,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "5D1F3072-CC7A-489C-B4A8-5F5178D59A3B"
-    },
     {
       "class": "group",
       "id": "03558E0F-4989-4B4E-AE5D-FAFB3AD542E3"

@@ -3,13 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "4DEDE799-E738-41AE-804D-B02C1A8A0526",
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 590,
+  "changeIdentifier": 602,
   "clippingMaskMode": 0,
   "do_objectID": "2561E80F-4CB0-47ED-BE40-101A6B14A962",
   "exportOptions": {
@@ -34,7 +33,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -53,12 +52,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "EAE4B91C-EC23-4EC8-8361-C2B46B75BF83"
-    },
     {
       "class": "group",
       "id": "0EE654D1-273F-4F53-8F25-9AF5B70F3F9F"
@@ -67,6 +62,11 @@
   "name": "List / Item / Assets / Left /Light/ Title + Subtitle",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "177863B2-BFE2-47DA-A905-063C9F685FEA_layerStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -86,11 +86,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "FE1501A1-6532-4CC1-AA8F-E20E6808A76B_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EAE4B91C-EC23-4EC8-8361-C2B46B75BF83_symbolID"
     }
   ],
   "resizesContent": false,

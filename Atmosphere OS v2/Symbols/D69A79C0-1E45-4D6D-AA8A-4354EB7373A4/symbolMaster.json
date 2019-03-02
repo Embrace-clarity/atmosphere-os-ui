@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 606,
+  "changeIdentifier": 608,
   "clippingMaskMode": 0,
   "do_objectID": "D69A79C0-1E45-4D6D-AA8A-4354EB7373A4",
   "exportOptions": {
@@ -52,8 +52,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "075221F7-AFF0-4A73-9974-823B25ECF966"
+      "class": "group",
+      "id": "2A69F48F-04BC-4C3E-80ED-3EDC49CCFC85"
     },
     {
       "class": "symbolInstance",

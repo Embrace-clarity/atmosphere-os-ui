@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1774,
+  "changeIdentifier": 1779,
   "clippingMaskMode": 0,
   "do_objectID": "A27EE730-E7D8-42F7-AECE-0788A44FABFD",
   "exportOptions": {
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -64,12 +64,12 @@
       "id": "5C25F88A-1F98-4893-B8C5-CBCA05F105D1"
     },
     {
-      "class": "text",
-      "id": "6F083649-346E-4373-88CD-A7E60FCF8E8D"
+      "class": "symbolInstance",
+      "id": "303CF6E9-C583-4238-9319-5E3ACD47AD3B"
     },
     {
       "class": "symbolInstance",
-      "id": "303CF6E9-C583-4238-9319-5E3ACD47AD3B"
+      "id": "4D65B1A8-88CD-4EF8-8F73-BCB3A384E471"
     }
   ],
   "name": "Feed/Item/Text + Image",
