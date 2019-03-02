@@ -81,7 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D1F1F85F-AA67-4D60-9C6A-11CD7F025274",
+  "sharedStyleID": "3B8D4423-CBFC-4FE0-AEAE-2B6DDE1DB60E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0,
           "blue": 0.228688350340136,
           "green": 0.228688350340136,
           "red": 0.228688350340136

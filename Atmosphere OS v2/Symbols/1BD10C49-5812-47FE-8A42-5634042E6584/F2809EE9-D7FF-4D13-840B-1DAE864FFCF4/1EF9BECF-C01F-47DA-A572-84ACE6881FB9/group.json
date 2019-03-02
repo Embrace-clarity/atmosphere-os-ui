@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 23,
     "width": 315,
-    "x": 12,
-    "y": 8
+    "x": 1,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"

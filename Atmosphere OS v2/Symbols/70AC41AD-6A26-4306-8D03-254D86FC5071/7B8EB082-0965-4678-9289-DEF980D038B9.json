@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "List / Item / Default",
   "nameIsFixed": false,
   "overrideValues": [
@@ -48,6 +48,12 @@
       "do_objectID": "8D3C51DE-A9C4-459F-A642-9DF6F0F42670",
       "overrideName": "4F824973-2778-44E3-A653-C5F6E0E23064/61AF1FDB-5E7B-4228-B75A-77803AB1DF0B_stringValue",
       "value": "/post"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7908310-A43C-4D57-9E17-7FA6568B11C0",
+      "overrideName": "3C66FF6E-B1DC-4C81-B13D-5C17D6A8E66F_layerStyle",
+      "value": "3B8D4423-CBFC-4FE0-AEAE-2B6DDE1DB60E"
     }
   ],
   "resizingConstraint": 63,
