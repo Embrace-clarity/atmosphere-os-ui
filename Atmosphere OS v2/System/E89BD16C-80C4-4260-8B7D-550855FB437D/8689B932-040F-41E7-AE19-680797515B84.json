@@ -24,8 +24,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 38,
-            "minimumLineHeight": 38
+            "maximumLineHeight": 37,
+            "minimumLineHeight": 37
           }
         },
         "length": 8,
@@ -53,7 +53,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0D324936-39D1-49F4-AED7-EC0AF8C0FC33",
-    "height": 38,
+    "height": 37,
     "width": 132,
     "x": 16,
     "y": 16
@@ -101,8 +101,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 38,
-          "minimumLineHeight": 38
+          "maximumLineHeight": 37,
+          "minimumLineHeight": 37
         }
       },
       "verticalAlignment": 0

@@ -27,7 +27,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 37,
+          "minimumLineHeight": 37
         }
       },
       "verticalAlignment": 0

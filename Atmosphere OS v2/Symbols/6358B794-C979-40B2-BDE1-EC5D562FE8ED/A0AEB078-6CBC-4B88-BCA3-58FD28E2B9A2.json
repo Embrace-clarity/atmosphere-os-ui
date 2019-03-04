@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.5,
+            "alpha": 0.6,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -80,11 +80,10 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "987A44D6-B029-4D3B-AA27-53360B3CD813",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.5,
+          "alpha": 0.6,
           "blue": 1,
           "green": 1,
           "red": 1
