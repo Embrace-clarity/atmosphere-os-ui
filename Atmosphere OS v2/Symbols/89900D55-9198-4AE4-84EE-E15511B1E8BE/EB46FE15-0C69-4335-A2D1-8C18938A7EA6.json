@@ -23,7 +23,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
         "length": 18,
@@ -49,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
+    "height": 16,
     "width": 112,
     "x": 23,
-    "y": -1
+    "y": 2
   },
-  "glyphBounds": "{{0, 5}, {112, 13}}",
+  "glyphBounds": "{{0, 2}, {112, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -96,7 +98,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

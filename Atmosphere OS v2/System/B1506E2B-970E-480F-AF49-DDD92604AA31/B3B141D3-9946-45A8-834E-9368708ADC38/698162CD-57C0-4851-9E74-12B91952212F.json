@@ -23,7 +23,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
           }
         },
         "length": 7,
@@ -49,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
+    "height": 32,
     "width": 78,
     "x": 16,
-    "y": 205.08
+    "y": 209.08
   },
-  "glyphBounds": "{{0, 10}, {77, 20}}",
+  "glyphBounds": "{{0, 6}, {77, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +64,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
+  "lineSpacingBehaviour": 2,
   "name": "Wifi on",
   "nameIsFixed": false,
   "resizingConstraint": 47,
@@ -96,7 +98,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
         }
       },
       "verticalAlignment": 0

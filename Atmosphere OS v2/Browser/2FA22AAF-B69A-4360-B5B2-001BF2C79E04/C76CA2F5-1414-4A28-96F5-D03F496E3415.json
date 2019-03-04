@@ -23,7 +23,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
         "length": 1,
@@ -49,7 +51,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
+    "height": 16,
     "width": 7.976539589442815,
     "x": 23.92961876832846,
     "y": 440.2158357771262
@@ -96,7 +98,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

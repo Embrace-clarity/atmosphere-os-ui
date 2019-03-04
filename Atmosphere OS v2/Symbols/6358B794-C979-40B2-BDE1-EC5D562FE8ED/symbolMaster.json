@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 473,
+  "changeIdentifier": 507,
   "clippingMaskMode": 0,
   "do_objectID": "6358B794-C979-40B2-BDE1-EC5D562FE8ED",
   "exportOptions": {
@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "739B65CC-4649-49B5-A145-CA2632A6258C",
-    "height": 166,
+    "height": 159,
     "width": 340,
-    "x": 14665,
-    "y": -6
+    "x": 14273,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -79,7 +79,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A0AEB078-6CBC-4B88-BCA3-58FD28E2B9A2_textStyle"
+      "overrideName": "B94FA37B-AE76-45FC-BE05-191DDE805B69_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -89,17 +89,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A0AEB078-6CBC-4B88-BCA3-58FD28E2B9A2_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B94FA37B-AE76-45FC-BE05-191DDE805B69_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "C2C86EEA-E05B-44BC-8AA1-6939F65658BD_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3D0289A9-C22A-43AA-8B7E-A8E8EB469429_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A0AEB078-6CBC-4B88-BCA3-58FD28E2B9A2_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -109,7 +109,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "3D0289A9-C22A-43AA-8B7E-A8E8EB469429_stringValue"
+      "overrideName": "A0AEB078-6CBC-4B88-BCA3-58FD28E2B9A2_stringValue"
     }
   ],
   "resizesContent": false,

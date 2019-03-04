@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 297,
+    "width": 308,
     "x": 16,
-    "y": 99.386
+    "y": 123
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"

@@ -23,7 +23,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 23,
+            "minimumLineHeight": 23
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -56,9 +58,9 @@
     "height": 23,
     "width": 74,
     "x": 0,
-    "y": 5
+    "y": 7
   },
-  "glyphBounds": "{{1, 7}, {72, 13}}",
+  "glyphBounds": "{{1, 5}, {72, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +68,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
+  "lineSpacingBehaviour": 2,
   "name": "Password",
   "nameIsFixed": false,
   "resizingConstraint": 43,
@@ -100,7 +102,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 23,
+          "minimumLineHeight": 23
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

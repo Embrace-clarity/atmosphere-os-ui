@@ -50,7 +50,15 @@
     },
     {
       "class": "text",
+      "id": "FAD79845-80A4-49E5-BF5E-61C1C4BE2777"
+    },
+    {
+      "class": "text",
       "id": "698162CD-57C0-4851-9E74-12B91952212F"
+    },
+    {
+      "class": "text",
+      "id": "79068B28-CE67-47F5-88D8-1AD2E60ABD21"
     },
     {
       "class": "text",
@@ -95,10 +103,6 @@
     {
       "class": "group",
       "id": "9892875B-6824-49D7-A93F-8279DE74C672"
-    },
-    {
-      "class": "text",
-      "id": "D1DE9CA5-AF52-4EEB-A382-9F853300509C"
     }
   ],
   "name": "Open",
