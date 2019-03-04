@@ -58,7 +58,7 @@
     "x": 1,
     "y": 23
   },
-  "glyphBounds": "{{0, 5}, {184, 18}}",
+  "glyphBounds": "{{0, 3}, {184, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
+  "lineSpacingBehaviour": 2,
   "name": "Arty Boy (Set Mo Remix)",
   "nameIsFixed": false,
   "resizingConstraint": 47,

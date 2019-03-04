@@ -3,12 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 20,
+  "changeIdentifier": 48,
   "clippingMaskMode": 0,
   "do_objectID": "ED964D27-9B98-4F1D-BFF0-A4AF266B1E1F",
   "exportOptions": {
@@ -31,7 +31,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -59,6 +59,21 @@
   "name": "Notification / Badge",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1C2EB1A3-B5C0-424A-9E68-13ADD5E4404D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F32B1F11-E5E0-46E7-9903-D26C62577895_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1C2EB1A3-B5C0-424A-9E68-13ADD5E4404D_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

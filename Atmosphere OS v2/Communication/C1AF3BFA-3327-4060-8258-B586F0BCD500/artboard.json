@@ -90,6 +90,10 @@
       "id": "E309275C-25FD-49C6-BFFD-B024B54AAB9A"
     },
     {
+      "class": "MSImmutableHotspotLayer",
+      "id": "7CA70E46-C3F3-4714-BD37-7032320B525A"
+    },
+    {
       "class": "symbolInstance",
       "id": "380B0891-BE7A-4ACB-A816-4B2765FB1F3F"
     },

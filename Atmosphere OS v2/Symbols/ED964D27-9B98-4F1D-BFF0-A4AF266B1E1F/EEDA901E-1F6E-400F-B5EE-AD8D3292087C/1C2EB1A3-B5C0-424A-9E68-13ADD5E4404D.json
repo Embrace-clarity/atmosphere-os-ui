@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "643EDA8B-97CE-4DDF-917B-046FC86E9550",
-    "height": 20,
-    "width": 24,
-    "x": 0,
-    "y": 1
+    "height": 16,
+    "width": 6,
+    "x": 9,
+    "y": 4
   },
-  "glyphBounds": "{{10, 3}, {4, 10}}",
+  "glyphBounds": "{{0, 3}, {4, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

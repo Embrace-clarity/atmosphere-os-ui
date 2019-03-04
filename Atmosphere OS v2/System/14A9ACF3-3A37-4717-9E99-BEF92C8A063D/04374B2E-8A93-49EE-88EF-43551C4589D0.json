@@ -14,6 +14,11 @@
     "shouldTrim": false
   },
   "fixedRadius": 0,
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "B37C66D0-C736-46C1-A843-589A470FAE9F"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
