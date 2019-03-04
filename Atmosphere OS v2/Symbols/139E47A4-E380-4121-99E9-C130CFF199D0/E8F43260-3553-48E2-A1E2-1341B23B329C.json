@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Option 3"
+    "string": "Option 4"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Option 3",
+  "name": "Option 4",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

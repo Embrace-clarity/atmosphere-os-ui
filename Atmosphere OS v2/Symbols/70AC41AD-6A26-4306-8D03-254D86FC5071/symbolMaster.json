@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2699,
+  "changeIdentifier": 2700,
   "clippingMaskMode": 0,
   "do_objectID": "70AC41AD-6A26-4306-8D03-254D86FC5071",
   "exportOptions": {
@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -74,10 +74,6 @@
     {
       "class": "symbolInstance",
       "id": "65C92D0A-94E3-431A-BB38-A28C9F6B1830"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5BA4B513-F034-4C7C-830E-49B6D0E64051"
     }
   ],
   "name": "Type / Slash Menu",

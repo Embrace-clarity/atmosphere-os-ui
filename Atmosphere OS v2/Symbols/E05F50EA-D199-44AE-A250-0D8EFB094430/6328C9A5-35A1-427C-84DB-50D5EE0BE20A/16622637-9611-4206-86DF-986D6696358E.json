@@ -79,6 +79,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2BBC9502-349B-4CD5-BA4B-C2884D1A7665",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -98,6 +99,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "AA97FC40-AB3D-4EA6-844B-FAF099FE8DBA",
     "endMarkerType": 0,
     "fills": [
       {

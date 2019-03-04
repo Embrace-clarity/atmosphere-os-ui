@@ -36,6 +36,36 @@
       "do_objectID": "DCC04D49-36A1-44D5-90DF-6E33E2DA2811",
       "overrideName": "6C12E707-A7B7-4442-9CF7-4B32CFF25541_stringValue",
       "value": "No connection"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24D5693C-AD6B-40AD-866A-6F0038F77ADA",
+      "overrideName": "59E58C49-783F-46E1-845E-36C4786CCD53_layerStyle",
+      "value": "0B3D8122-F749-4C1E-A440-9F0B011FD654"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BD0D85A-4C4B-41DF-A5CD-F99CAE621805",
+      "overrideName": "087956E6-6DCB-463A-B094-C6834F9346C4_layerStyle",
+      "value": "FDC1DA0F-CCA0-4C6A-AC3F-F3B32AB6F0D6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EECE6949-2990-4C75-A1A1-447941E39FC1",
+      "overrideName": "16622637-9611-4206-86DF-986D6696358E_layerStyle",
+      "value": "FDC1DA0F-CCA0-4C6A-AC3F-F3B32AB6F0D6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75F164BD-DB18-47D0-9625-1ED05B8B047D",
+      "overrideName": "4C585DAF-68C2-4EEA-A99F-4A4212DA9CCB_layerStyle",
+      "value": "FDC1DA0F-CCA0-4C6A-AC3F-F3B32AB6F0D6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0BED4DD0-D689-46F3-802D-6FE3694D6CE2",
+      "overrideName": "6C12E707-A7B7-4442-9CF7-4B32CFF25541_textStyle",
+      "value": "BBD1115F-DE3C-4197-B4A1-2C3205713A49"
     }
   ],
   "resizingConstraint": 63,

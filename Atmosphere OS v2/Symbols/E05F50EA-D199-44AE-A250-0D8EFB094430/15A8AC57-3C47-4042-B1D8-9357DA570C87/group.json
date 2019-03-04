@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 12,
-    "x": 311,
-    "y": 9
+    "height": 14,
+    "width": 14,
+    "x": 310,
+    "y": 8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,12 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "59DE1C3E-037F-4DE7-A5AF-B8A429FB1F79"
+      "class": "shapeGroup",
+      "id": "916D6F8E-50E2-4F07-AD70-C0F3380E1784"
     },
     {
-      "class": "shapePath",
-      "id": "97E0D811-2FC2-4E6E-9452-845DCFC33C86"
+      "class": "shapeGroup",
+      "id": "4C585DAF-68C2-4EEA-A99F-4A4212DA9CCB"
     }
   ],
   "name": "Group 3",

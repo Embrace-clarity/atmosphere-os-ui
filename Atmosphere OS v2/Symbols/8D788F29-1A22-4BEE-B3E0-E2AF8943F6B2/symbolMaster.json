@@ -3,12 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 154,
+  "changeIdentifier": 424,
   "clippingMaskMode": 0,
   "do_objectID": "8D788F29-1A22-4BEE-B3E0-E2AF8943F6B2",
   "exportOptions": {
@@ -49,11 +49,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "7A93AA8D-754F-42C9-9439-2CFF590B3995"
+      "class": "rectangle",
+      "id": "7A5E9AAE-3DA7-4096-85F3-C149CD932AD6"
+    },
+    {
+      "class": "rectangle",
+      "id": "7D36D96A-6922-46E1-B601-671FE671FFEF"
     }
   ],
   "name": "Icon / 16 / More",

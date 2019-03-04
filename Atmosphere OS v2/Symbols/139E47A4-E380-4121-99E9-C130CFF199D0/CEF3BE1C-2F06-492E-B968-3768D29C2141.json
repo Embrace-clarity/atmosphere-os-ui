@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.5,
+            "alpha": 1,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -69,7 +69,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0DDFBF97-F9CC-4AEA-9AB2-E3EC8F20CB78",
+  "sharedStyleID": "379E20A4-9916-4449-AE37-1AC88175D166",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +82,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.5,
+          "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1

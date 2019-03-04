@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "16164CD8-AA37-47B8-B5B8-3DD913A15364",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 166,
+    "width": 340,
+    "x": 0,
+    "y": 314
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Actions/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FEB751A-2A7A-4101-8614-CD9DB38471E5",
+      "overrideName": "3D0289A9-C22A-43AA-8B7E-A8E8EB469429_stringValue",
+      "value": "Import"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E98E491E-C594-4201-BCE7-FC7360CCE80A",
+      "overrideName": "A0AEB078-6CBC-4B88-BCA3-58FD28E2B9A2_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB299B34-2F18-4810-80D5-3AB1A118E17F",
+      "overrideName": "B94FA37B-AE76-45FC-BE05-191DDE805B69_stringValue",
+      "value": "Create a new "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B534057E-E68B-4CD4-A42D-C9152FE96181",
+  "verticalSpacing": 0
+}

@@ -31,6 +31,12 @@
   "name": "System / Header / Normal",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2E58980-63A5-4E0B-83CF-ECA8A36984C9",
+      "overrideName": "59E58C49-783F-46E1-845E-36C4786CCD53_layerStyle",
+      "value": "D1F1F85F-AA67-4D60-9C6A-11CD7F025274"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

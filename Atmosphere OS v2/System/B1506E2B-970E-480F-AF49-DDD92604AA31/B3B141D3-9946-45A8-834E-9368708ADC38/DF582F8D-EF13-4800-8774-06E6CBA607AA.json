@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 19,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "23 Wednesday, March"
+    "string": "18 Wed\n-3° and Sunny"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 127,
+    "height": 36,
+    "width": 82,
     "x": 16,
-    "y": 35.5398
+    "y": 47
   },
-  "glyphBounds": "{{0, 6}, {126, 12}}",
+  "glyphBounds": "{{0, 6}, {82, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "23 Wednesday, March",
+  "name": "18 Wed -3° and Sunny",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
