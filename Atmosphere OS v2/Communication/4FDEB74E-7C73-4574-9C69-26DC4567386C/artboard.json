@@ -34,7 +34,7 @@
     "height": 480,
     "width": 340,
     "x": -444,
-    "y": 762
+    "y": 462
   },
   "grid": {
     "_class": "simpleGrid",
@@ -73,10 +73,6 @@
       "id": "1F00679A-BE20-4443-A90B-9836110F4761"
     },
     {
-      "class": "MSImmutableHotspotLayer",
-      "id": "753160DE-B38A-4EA7-AEAF-C4D802257F0F"
-    },
-    {
       "class": "symbolInstance",
       "id": "005B2377-031E-4E9F-815E-E560AE8C35C2"
     },
@@ -87,10 +83,6 @@
     {
       "class": "symbolInstance",
       "id": "2BF5241D-D236-4E1A-9F1E-70AD58A99776"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DA65FF94-DD54-4A54-BFE1-47F1D6C49B2C"
     }
   ],
   "layout": {

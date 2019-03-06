@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.5,
+            "alpha": 0.6,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -20,25 +20,24 @@
               "size": 32
             }
           },
-          "kerning": -0.8421053,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
+            "maximumLineHeight": 40,
+            "minimumLineHeight": 40
           }
         },
-        "length": 8,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Inactive"
+    "string": "Discover\nPeople"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "69C3A1CC-08A8-4811-B595-0D83DADD1800",
+  "do_objectID": "8B8C294D-5AB0-42DE-9C71-1A78CD9CD58E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 112,
-    "x": 202,
-    "y": 11.0625
+    "height": 80,
+    "width": 132,
+    "x": 16,
+    "y": 78
   },
-  "glyphBounds": "{{2, 6}, {109, 25}}",
+  "glyphBounds": "{{2, 8}, {130, 71}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,15 +65,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Inactive",
+  "name": "Discover People",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "02DCE86A-B74E-4D77-A1B4-7C6BC5650808",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "DE143BDF-62D8-4F7A-8AF3-9D47B8DC4266",
+    "do_objectID": "6AC47298-BFE3-4140-B7A3-6177B4FB84AC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -83,7 +83,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.5,
+          "alpha": 0.6,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -95,24 +95,17 @@
             "size": 32
           }
         },
-        "kerning": -0.8421053,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 36,
-          "minimumLineHeight": 36
+          "maximumLineHeight": 40,
+          "minimumLineHeight": 40
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "textBehaviour": 0
 }

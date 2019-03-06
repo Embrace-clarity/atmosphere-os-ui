@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 693,
+  "changeIdentifier": 1000,
   "clippingMaskMode": 0,
   "do_objectID": "7533DA4A-EF36-4EE2-874B-262A21336AD0",
   "exportOptions": {
@@ -23,8 +23,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
-    "width": 361,
+    "height": 56,
+    "width": 340,
     "x": 10628,
     "y": 0
   },
@@ -49,15 +49,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "EE34601B-1121-4DD5-9088-6507437DD104"
     },
     {
-      "class": "text",
-      "id": "69C3A1CC-08A8-4811-B595-0D83DADD1800"
+      "class": "rectangle",
+      "id": "643AEB5B-4B45-4491-80FA-0F79369ED323"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54BFD0C5-2961-4E19-A6AE-582494A4CB9F"
     }
   ],
   "name": "Nav / Header / Horizontal Slide",
@@ -66,7 +70,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue"
+      "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "54BFD0C5-2961-4E19-A6AE-582494A4CB9F_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

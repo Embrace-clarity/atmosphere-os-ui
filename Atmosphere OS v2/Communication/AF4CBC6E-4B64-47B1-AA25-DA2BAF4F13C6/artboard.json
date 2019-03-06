@@ -37,7 +37,7 @@
     "height": 1029,
     "width": 340,
     "x": -1224,
-    "y": 762
+    "y": 462
   },
   "grid": {
     "_class": "simpleGrid",
@@ -96,10 +96,6 @@
     {
       "class": "group",
       "id": "7D2E8878-3816-40ED-AEEF-02A7EC43B701"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "71545585-6A5C-4943-8E68-D54CAC991E46"
     }
   ],
   "layout": {

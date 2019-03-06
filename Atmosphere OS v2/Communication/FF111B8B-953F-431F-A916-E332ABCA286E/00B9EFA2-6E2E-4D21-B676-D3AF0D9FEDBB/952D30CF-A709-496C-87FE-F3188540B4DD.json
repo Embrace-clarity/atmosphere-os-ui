@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "952D30CF-A709-496C-87FE-F3188540B4DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B09611F5-8820-48E7-A293-C6DAA6A3DC9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "B37C66D0-C736-46C1-A843-589A470FAE9F",
+    "do_objectID": "73541A9C-FF5B-406C-962B-8C2F42919AD1"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A55A28DC-D03A-4761-B0A5-93A5482D8C7D",
+    "height": 30,
+    "width": 340,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "System / Label Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC6289B4-1414-4668-8E57-1928659E7F77",
+      "overrideName": "9FD2765B-451D-4C28-B2CE-599EBB1F2369_stringValue",
+      "value": "Communications"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "042486B2-159B-49DA-A287-1CC239EB27BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "40238252-99B2-40D6-8889-29B446732FB1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "979B6B0A-2CEE-49EB-8803-D2996838193B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D61BEA6F-5F7B-41A7-8EE7-61F647AE9C99",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD2A0B5D-3A68-445F-995A-A9210196A852",
+    "height": 120,
+    "width": 340,
+    "x": 0,
+    "y": 319
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feed/Item Call",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "FAD18F4B-4F1B-4003-AAD3-A3961E7A382E",
+      "opacity": 0.5005812872023809
+    },
+    "do_objectID": "3775FA51-E5D2-4D5D-9203-CE43513A8FFA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F15E4DC8-2D7D-42D0-81C4-C1E20611E14E",
+  "verticalSpacing": 0
+}

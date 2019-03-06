@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.6,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -22,22 +22,22 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
-        "length": 19,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "Centralised service"
+    "string": "3"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F97F0A43-1C63-47E8-9A7D-9FB6D6A44435",
+  "do_objectID": "C76CA2F5-1414-4A28-96F5-D03F496E3415",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 142.4251026392962,
-    "x": 51.8475073313783,
-    "y": 363.4416422287391
+    "height": 16,
+    "width": 7.976539589442815,
+    "x": 7.929618768328464,
+    "y": 4.215835777126188
   },
-  "glyphBounds": "{{0, 6}, {110, 10}}",
+  "glyphBounds": "{{1, 3}, {6, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,16 +64,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "Centralised service",
+  "lineSpacingBehaviour": 2,
+  "name": "3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "BAE39BE4-9D22-403E-814E-C19FD5433A7D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "43605E5B-77DD-44A0-AFC7-2D084000A0EF",
+    "do_objectID": "6636F335-78B4-4437-9E9A-04F402AE8F01",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -82,7 +83,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.6,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -96,10 +97,10 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 15,
-          "minimumLineHeight": 15
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

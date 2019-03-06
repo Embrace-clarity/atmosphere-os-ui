@@ -20,7 +20,6 @@
               "size": 32
             }
           },
-          "kerning": -0.01999999955296516,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -53,9 +52,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 42,
-    "width": 170,
+    "width": 345,
     "x": 16,
-    "y": 8.0625
+    "y": 7
   },
   "glyphBounds": "{{0, 9}, {169, 25}}",
   "hasClippingMask": false,
@@ -71,6 +70,7 @@
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "01F129AE-5F92-465E-AC9F-5E200F130CF5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -95,7 +95,6 @@
             "size": 32
           }
         },
-        "kerning": -0.01999999955296516,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
@@ -108,7 +107,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

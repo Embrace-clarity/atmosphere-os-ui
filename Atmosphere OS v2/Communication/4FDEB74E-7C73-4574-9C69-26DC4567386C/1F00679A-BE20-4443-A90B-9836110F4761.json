@@ -12,11 +12,16 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "C51AAB76-2A3F-4199-83BC-4B997911C757"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
-    "width": 361,
+    "height": 56,
+    "width": 340,
     "x": 0,
     "y": 30
   },
@@ -40,6 +45,12 @@
       "_class": "overrideValue",
       "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_stringValue",
       "value": "Discover"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2858B0B8-A73C-4647-BF04-7ABCBB7C0CC2",
+      "overrideName": "54BFD0C5-2961-4E19-A6AE-582494A4CB9F/C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
+      "value": "751C29F5-E5A1-409E-8F47-EFE0AFE3B294"
     }
   ],
   "resizingConstraint": 63,

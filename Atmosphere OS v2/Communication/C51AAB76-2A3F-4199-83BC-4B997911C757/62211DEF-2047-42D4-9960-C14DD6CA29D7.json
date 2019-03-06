@@ -1,7 +1,7 @@
 {
   "_class": "MSImmutableHotspotLayer",
   "booleanOperation": -1,
-  "do_objectID": "753160DE-B38A-4EA7-AEAF-C4D802257F0F",
+  "do_objectID": "62211DEF-2047-42D4-9960-C14DD6CA29D7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,15 +14,15 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": 0,
-    "destinationArtboardID": "C1AF3BFA-3327-4060-8258-B586F0BCD500"
+    "destinationArtboardID": "4FDEB74E-7C73-4574-9C69-26DC4567386C"
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
-    "width": 114,
-    "x": 170,
-    "y": 30
+    "height": 48,
+    "width": 340,
+    "x": 0,
+    "y": 78
   },
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

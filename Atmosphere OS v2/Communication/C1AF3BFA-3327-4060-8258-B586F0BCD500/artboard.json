@@ -37,7 +37,7 @@
     "height": 480,
     "width": 340,
     "x": -54,
-    "y": 762
+    "y": 462
   },
   "grid": {
     "_class": "simpleGrid",
@@ -69,10 +69,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "A22F3C5E-88FC-4C64-A4F8-FF3A7C193689"
-    },
     {
       "class": "shapePath",
       "id": "E508776F-FDE8-46B5-A11A-F6F1B8065946"

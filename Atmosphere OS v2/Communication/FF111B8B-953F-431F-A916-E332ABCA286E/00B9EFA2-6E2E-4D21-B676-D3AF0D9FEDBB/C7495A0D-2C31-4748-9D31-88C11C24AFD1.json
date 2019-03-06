@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DA65FF94-DD54-4A54-BFE1-47F1D6C49B2C",
+  "do_objectID": "C7495A0D-2C31-4748-9D31-88C11C24AFD1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "29F4A181-3CC4-4645-95C7-592258436A51",
+    "do_objectID": "0DD0BC76-6B5C-43D7-9047-1AA51DE88D6E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7B2B4059-F885-4101-82F3-0593F7850846",
+    "do_objectID": "CAE0948A-F34B-4AB6-9BE7-DEA2ADE9646A",
     "height": 60,
     "width": 340,
     "x": 0,
-    "y": 90
+    "y": 30
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,26 +30,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Nav / Menu / Sub",
+  "name": "Header / Horizontal Slide",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A986D56D-37C4-4923-818D-3BF542406675",
-      "overrideName": "47DF78B0-0CEE-46CC-A1A7-A29BF5E54419_stringValue",
-      "value": "Around"
+      "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue",
+      "value": "Discover"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2322C667-C345-47A0-9184-287E991FCA86",
-      "overrideName": "C65D7ECC-007B-4C9F-BF0D-6008B91F4633_stringValue",
-      "value": "Circles"
+      "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_stringValue",
+      "value": "anafiki"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4835067C-2FE2-47ED-A164-2DABA6BE18E1",
-      "overrideName": "B558DC3D-6BEE-4D73-9663-02B48EF942AD_stringValue",
-      "value": "All"
+      "do_objectID": "69BD30B7-BE1B-48E4-8E3B-C183D7EF99D1",
+      "overrideName": "54BFD0C5-2961-4E19-A6AE-582494A4CB9F/C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
+      "value": "751C29F5-E5A1-409E-8F47-EFE0AFE3B294"
     }
   ],
   "resizingConstraint": 63,
@@ -59,12 +57,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A6935DE0-B247-4EF9-A3F3-B5DBD5911953",
+    "do_objectID": "B2D376E8-3769-4C99-BB83-F5CE2E21FAE2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "32F9C649-4564-44A9-9C5C-2743975A65D4",
+  "symbolID": "30BE83FE-AE96-433B-B3C5-1EE0289A5D2A",
   "verticalSpacing": 0
 }

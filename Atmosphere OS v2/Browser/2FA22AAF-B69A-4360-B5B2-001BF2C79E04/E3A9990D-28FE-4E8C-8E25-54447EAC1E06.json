@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55.83577712609969,
-    "width": 339.0029325513196,
+    "height": 56,
+    "width": 340,
     "x": 0,
-    "y": 422.7565982404693
+    "y": 422
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -79,9 +79,27 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "0B3D8122-F749-4C1E-A440-9F0B011FD654",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "ACF109CB-5466-4A72-9E34-FE12B7527F3A",
     "endMarkerType": 0,
     "fills": [
       {
@@ -89,9 +107,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.03137254901960784,
+          "green": 0.05882352941176472,
+          "red": 0.2
         },
         "fillType": 0,
         "isEnabled": true,
@@ -103,6 +121,6 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   }
 }

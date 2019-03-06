@@ -8,41 +8,40 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0.2745098039215687,
-            "red": 0.9882352941176471
+            "alpha": 0.6,
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Inter-Regular",
-              "size": 16
+              "size": 32
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 23,
-            "minimumLineHeight": 23
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
+            "maximumLineHeight": 40,
+            "minimumLineHeight": 40
+          }
         },
-        "length": 10,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "google.com"
+    "string": "Compose\nFilter\nSearch"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "251EB159-6C4D-49D6-98BC-4E89400B5FA4",
+  "do_objectID": "F2DD8B5A-BCD3-40D5-9D06-EFB806029952",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CF1CDF9B-25FD-47C1-81F5-3F36D5F71C08",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 92,
-    "x": 106.5306744868035,
-    "y": 437.0608211143696
+    "do_objectID": "8A021C08-4E5E-445B-8C6A-AADB11895EE0",
+    "height": 120,
+    "width": 145,
+    "x": 16,
+    "y": 176
   },
-  "glyphBounds": "{{0, 7}, {88, 16}}",
+  "glyphBounds": "{{1, 8}, {142, 105}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,17 +66,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "google.com",
+  "lineSpacingBehaviour": 2,
+  "name": "Compose Filter Searc",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "35E0A2B4-9270-4C4B-B3A7-AF997D92A03E",
+  "sharedStyleID": "02DCE86A-B74E-4D77-A1B4-7C6BC5650808",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "06705B6B-484E-4D5D-9646-47CDE37D2BD8",
+    "do_objectID": "48CA9864-CB65-460E-80D6-72E53E6737F4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -85,31 +85,29 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0.2745098039215687,
-          "red": 0.9882352941176471
+          "alpha": 0.6,
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Inter-Regular",
-            "size": 16
+            "size": 32
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 23,
-          "minimumLineHeight": 23
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 0
+          "maximumLineHeight": 40,
+          "minimumLineHeight": 40
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
