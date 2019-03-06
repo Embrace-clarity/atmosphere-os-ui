@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.6,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -55,7 +55,7 @@
     "height": 32,
     "width": 50,
     "x": 16,
-    "y": 14
+    "y": 8
   },
   "glyphBounds": "{{1, 7}, {48, 19}}",
   "hasClippingMask": false,
@@ -68,10 +68,10 @@
   "lineSpacingBehaviour": 2,
   "name": "Title",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "379E20A4-9916-4449-AE37-1AC88175D166",
+  "sharedStyleID": "0DDFBF97-F9CC-4AEA-9AB2-E3EC8F20CB78",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -84,7 +84,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.6,
           "blue": 1,
           "green": 1,
           "red": 1

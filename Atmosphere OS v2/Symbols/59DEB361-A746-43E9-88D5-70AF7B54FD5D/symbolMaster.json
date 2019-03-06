@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5071,
+  "changeIdentifier": 5076,
   "clippingMaskMode": 0,
   "do_objectID": "59DEB361-A746-43E9-88D5-70AF7B54FD5D",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "4795762F-3692-48EF-BC17-EA4242113B5D",
     "height": 16,
     "width": 16,
-    "x": 6972,
-    "y": 140
+    "x": 6066,
+    "y": 348
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -65,7 +65,7 @@
       "id": "EF2B0EF4-304C-4BF8-90D8-D88EAAB1D5C1"
     }
   ],
-  "name": "Icon/16/Dropdown",
+  "name": "Icon / 16 / Dropdown",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 691,
+  "changeIdentifier": 842,
   "clippingMaskMode": 0,
   "do_objectID": "94AFD619-2EA3-40B2-A8F4-9486B72BA949",
   "exportOptions": {
@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C12D0EE8-C280-4C47-BE77-A2AB9EEAE9E6",
-    "height": 60,
+    "height": 48,
     "width": 260,
-    "x": 7188,
-    "y": 800
+    "x": 6744,
+    "y": 160
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -64,23 +64,23 @@
       "id": "B4BD5D13-F9BF-4600-B0A4-1AAE4C328341"
     }
   ],
-  "name": "List / Item / Assets / Left /Light/L Title Fade+Notif",
+  "name": "List / Item / Assets / Left / Title",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6F25BD24-0C88-493C-9F3D-327DC4DFBB07_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "D679CB47-EAE8-4665-B64B-CA365DC40EF3_layerStyle"
+      "overrideName": "B4BD5D13-F9BF-4600-B0A4-1AAE4C328341_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "6F25BD24-0C88-493C-9F3D-327DC4DFBB07_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6F25BD24-0C88-493C-9F3D-327DC4DFBB07_stringValue"
     }
   ],
   "resizesContent": true,

@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2126,
+  "changeIdentifier": 2132,
   "clippingMaskMode": 0,
   "do_objectID": "8EAC4DD2-72E7-4179-9AA3-FFBEFB6C0611",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 6972,
-    "y": 116
+    "x": 6066,
+    "y": 696
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -56,8 +56,8 @@
       "id": "8B0B4449-9288-463D-B64A-D27B4E8B3109"
     }
   ],
-  "name": "Icon/16/Plus",
-  "nameIsFixed": false,
+  "name": "Icon / 16 / Plus",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

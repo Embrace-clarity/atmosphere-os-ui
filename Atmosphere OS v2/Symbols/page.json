@@ -174,7 +174,19 @@
     },
     {
       "class": "symbolMaster",
+      "id": "59DEB361-A746-43E9-88D5-70AF7B54FD5D"
+    },
+    {
+      "class": "symbolMaster",
       "id": "8D788F29-1A22-4BEE-B3E0-E2AF8943F6B2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EE4A9C50-7E49-4842-8DEB-31E162CCA26E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8EAC4DD2-72E7-4179-9AA3-FFBEFB6C0611"
     },
     {
       "class": "symbolMaster",
@@ -210,55 +222,11 @@
     },
     {
       "class": "symbolMaster",
-      "id": "EE4A9C50-7E49-4842-8DEB-31E162CCA26E"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "8EAC4DD2-72E7-4179-9AA3-FFBEFB6C0611"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "59DEB361-A746-43E9-88D5-70AF7B54FD5D"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "B1693D29-DD35-49BD-9556-1D5B6DFD1D77"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "143E02DC-B1C4-44BD-AC27-A6042327F124"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "FAA0C783-DE34-4275-8475-7FF230F40D31"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "1EA358D3-EBA9-4E6B-9DDB-4F6BD66E3EA0"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "D90334EF-02B0-4961-8D95-BCFDFA73BE10"
+      "id": "2561E80F-4CB0-47ED-BE40-101A6B14A962"
     },
     {
       "class": "symbolMaster",
       "id": "94AFD619-2EA3-40B2-A8F4-9486B72BA949"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "9F346F36-F61F-4123-8500-918165D2E907"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "EBDA7D93-12BF-484F-AFB2-EB644A089316"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "ADB94E57-A9F2-4CCC-BE7E-CA06B4556D12"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "2561E80F-4CB0-47ED-BE40-101A6B14A962"
     },
     {
       "class": "symbolMaster",
@@ -362,7 +330,7 @@
     },
     {
       "class": "group",
-      "id": "0B4BBB7F-A651-4A26-B2F3-6D8900BA9422"
+      "id": "08CC87B9-2CB0-4AB2-A2B5-C99DFFAF31F6"
     }
   ],
   "name": "Symbols",
