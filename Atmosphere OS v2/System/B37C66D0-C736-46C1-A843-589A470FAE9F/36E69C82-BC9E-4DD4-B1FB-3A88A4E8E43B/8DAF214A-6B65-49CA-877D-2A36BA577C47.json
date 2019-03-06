@@ -28,11 +28,11 @@
             "minimumLineHeight": 40
           }
         },
-        "length": 36,
+        "length": 47,
         "location": 0
       }
     ],
-    "string": "Transport\nCommunication\nWallet\nAudio"
+    "string": "Transport\nCommunication\nWallet\nAudio\nIdentities"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 160,
+    "height": 200,
     "width": 236,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 8}, {234, 145}}",
+  "glyphBounds": "{{0, 8}, {234, 185}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

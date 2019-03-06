@@ -52,7 +52,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 42,
-    "width": 345,
+    "width": 170,
     "x": 16,
     "y": 7
   },
@@ -107,7 +107,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

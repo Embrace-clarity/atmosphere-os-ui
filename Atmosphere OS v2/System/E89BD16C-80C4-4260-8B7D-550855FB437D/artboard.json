@@ -78,10 +78,6 @@
     },
     {
       "class": "text",
-      "id": "8689B932-040F-41E7-AE19-680797515B84"
-    },
-    {
-      "class": "text",
       "id": "BDEF1764-3A76-4277-8329-23E1D1A992A7"
     },
     {
@@ -90,7 +86,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "324FC4B6-F44A-4CA4-9103-67CB6C525D41"
+      "id": "91CF118E-D57B-4072-B830-213D14CF7B51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B97369AA-A032-4E44-B5A8-F377A54DE2BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41989B11-3775-4FD9-AC79-259AEDE9C64E"
     }
   ],
   "layout": {

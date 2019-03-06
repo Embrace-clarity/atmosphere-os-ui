@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "64CC5D42-3EE2-405C-8114-E9BCF8EBFDEA",
+  "do_objectID": "36C4826E-B9ED-473B-AFD5-F800A6A973CB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A085FA36-71D4-4D3D-B432-3EEE4CE48EB3",
+    "do_objectID": "048558F6-358E-4796-8A8C-4DB951BEF61D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4FEF7C84-CA97-4E33-B814-3E9AF48E2B87",
-    "height": 40,
-    "width": 40,
-    "x": 284,
-    "y": 8.227300000000014
+    "do_objectID": "592DE480-7DE0-453F-81B9-0D885D4539F3",
+    "height": 1,
+    "width": 308,
+    "x": 16,
+    "y": 170
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button/Circular",
+  "name": "Divider / Dark",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "95682520-237E-42CA-BB0E-28E6D6B28727",
-      "overrideName": "C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
-      "value": "ABF00098-2353-4753-A6CB-13AAB16B994A"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CB18CD6B-91D6-4DF7-B17A-EC002AF0B465",
+    "do_objectID": "56DB0799-49DD-4959-8514-7F1AA4B4CC27",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9D92CB14-5AF3-47D4-A692-57D099755033",
+  "symbolID": "A460769A-D5C0-43B1-9329-8001A0B8D7DA",
   "verticalSpacing": 0
 }

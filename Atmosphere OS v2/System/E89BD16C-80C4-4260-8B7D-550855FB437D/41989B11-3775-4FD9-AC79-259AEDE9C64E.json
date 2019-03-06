@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7FD5FBC9-8AAC-4FD5-9C05-149DC394A9A7",
+  "do_objectID": "41989B11-3775-4FD9-AC79-259AEDE9C64E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5A124F59-7996-4B07-88DD-20070A2F316C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A6A0D608-CC3E-4605-A0D2-B449B7EA9730",
     "height": 40,
-    "width": 268,
-    "x": 16,
-    "y": 240
+    "width": 40,
+    "x": 284,
+    "y": 164
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +28,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Text Field/Active",
+  "name": "Button/Circular",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D3F5794-B926-4EBC-BF48-EDC297F176C9",
+      "overrideName": "8ABC3B7D-6C10-48D1-B861-E1BA88647DCB_layerStyle",
+      "value": "3B8D4423-CBFC-4FE0-AEAE-2B6DDE1DB60E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "364D4ACC-62CE-4E4E-A27D-99446FC68491",
+      "overrideName": "C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
+      "value": "ABF00098-2353-4753-A6CB-13AAB16B994A"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +51,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F30988CC-CB18-44DB-BE1D-972A30146F9A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "019D8A03-7D35-4F27-801B-7EC223FBB865",
+  "symbolID": "9D92CB14-5AF3-47D4-A692-57D099755033",
   "verticalSpacing": 0
 }

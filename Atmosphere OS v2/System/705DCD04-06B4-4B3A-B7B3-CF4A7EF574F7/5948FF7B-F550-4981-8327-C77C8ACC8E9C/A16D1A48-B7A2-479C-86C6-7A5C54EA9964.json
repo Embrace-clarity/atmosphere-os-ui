@@ -17,33 +17,31 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Inter-Regular",
-              "size": 16
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 23,
-            "minimumLineHeight": 23
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          }
         },
-        "length": 7,
+        "length": 42,
         "location": 0
       }
     ],
-    "string": "Clarity"
+    "string": "0x123f681646d4a755815f9cb19e1acc8565a0c2ac"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E75AD6D2-9E06-4E3F-8EE6-739D535512D9",
+  "do_objectID": "A16D1A48-B7A2-479C-86C6-7A5C54EA9964",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "66DBF1BB-F790-4D80-958D-36E2684CA04A",
+    "do_objectID": "3A119946-BFDA-4115-8B8C-C7108325AA29",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B50C81CA-5514-408C-A77A-EE3205EDE192",
-    "height": 23,
-    "width": 49,
-    "x": 16,
-    "y": 9.579999999999984
+    "do_objectID": "365699F2-426E-453F-BBCC-F0EC15C02522",
+    "height": 32,
+    "width": 160,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 7}, {49, 16}}",
+  "glyphBounds": "{{0, 5}, {156, 27}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,21 +67,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Clarity",
+  "name": "0x123f681646d4a75581",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "3C963480-3EB2-40B7-82F2-C8E95E2FD9DF",
+  "sharedStyleID": "0BAC46A1-4967-43C1-A3EC-1B99365626A4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6A2F731E-58A6-4063-8B22-02E56854204A",
+    "do_objectID": "084AC6BB-2C89-4C0C-8D2F-4A67D74D50EB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "90DB54A1-D70F-4DA8-AF9F-A948915EB4DB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -96,22 +95,20 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Inter-Regular",
-            "size": 16
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 23,
-          "minimumLineHeight": 23
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 0
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

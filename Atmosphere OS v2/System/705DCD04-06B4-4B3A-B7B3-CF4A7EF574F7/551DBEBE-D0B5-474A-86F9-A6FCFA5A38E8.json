@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.6,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -28,20 +28,20 @@
             "minimumLineHeight": 40
           }
         },
-        "length": 8,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Personal"
+    "string": "Work\nClarity"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8689B932-040F-41E7-AE19-680797515B84",
+  "do_objectID": "551DBEBE-D0B5-474A-86F9-A6FCFA5A38E8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8B736B90-ED76-4193-A0C5-77F5A89B7FA6",
+    "do_objectID": "0893E605-E9BC-498D-839B-E068D4E63380",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0D324936-39D1-49F4-AED7-EC0AF8C0FC33",
-    "height": 40,
-    "width": 132,
+    "do_objectID": "6882322E-13CB-4990-AC80-A34C588D9744",
+    "height": 80,
+    "width": 98,
     "x": 16,
-    "y": 16
+    "y": 78
   },
-  "glyphBounds": "{{2, 15}, {127, 25}}",
+  "glyphBounds": "{{0, 8}, {97, 71}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,26 +66,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "Personal",
+  "lineSpacingBehaviour": 2,
+  "name": "Work Clarity",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "01F129AE-5F92-465E-AC9F-5E200F130CF5",
+  "sharedStyleID": "02DCE86A-B74E-4D77-A1B4-7C6BC5650808",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C212F4DA-C8AF-4963-962D-15800364CDB7",
+    "do_objectID": "FDE84523-7C0D-41E2-8075-BB0204E644B6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "2F69C655-415D-46D3-B383-F583288ED56C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.6,
           "blue": 1,
           "green": 1,
           "red": 1

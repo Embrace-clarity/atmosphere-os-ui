@@ -1,10 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B12BC6BF-56C2-4D34-9CDF-D7557CC8C4D8",
+  "do_objectID": "B97369AA-A032-4E44-B5A8-F377A54DE2BB",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "337B67CD-3B5E-48F5-AED0-3FA08200E4C9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,47 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 106,
+    "do_objectID": "8CEC4269-F7A9-4317-B1C0-DC9C18AF3B01",
+    "height": 30,
     "width": 340,
     "x": 0,
-    "y": 259
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "System / Status Bar / Default",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "9D82C8C8-8683-4BC2-AD73-EB956A4EDC29"
-    },
-    {
-      "class": "text",
-      "id": "49A89501-D052-4F58-B974-62CBFFEA2691"
-    },
-    {
-      "class": "text",
-      "id": "CC4E3370-CB7A-4D34-83B5-30219A31A004"
+      "_class": "overrideValue",
+      "do_objectID": "45EE6D3E-C36B-4DA7-993E-82CBD75434A4",
+      "overrideName": "9C651E91-828E-437C-B00B-3774499A55C1_stringValue",
+      "value": "Identities"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5D5D7F83-893A-4AEE-8AB8-EE94413D5035",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "C43FFE27-BE29-4254-BB1D-F9A95DD03291",
+  "verticalSpacing": 0
 }

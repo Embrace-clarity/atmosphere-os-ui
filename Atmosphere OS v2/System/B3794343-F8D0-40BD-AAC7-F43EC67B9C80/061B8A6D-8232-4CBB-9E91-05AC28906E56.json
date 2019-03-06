@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7FD5FBC9-8AAC-4FD5-9C05-149DC394A9A7",
+  "do_objectID": "061B8A6D-8232-4CBB-9E91-05AC28906E56",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5A124F59-7996-4B07-88DD-20070A2F316C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A6A0D608-CC3E-4605-A0D2-B449B7EA9730",
-    "height": 40,
-    "width": 268,
-    "x": 16,
-    "y": 240
+    "height": 56,
+    "width": 340,
+    "x": 0,
+    "y": 30
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +28,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Text Field/Active",
+  "name": "Nav / Header / Horizontal Slide",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B54E6092-8293-4580-A038-EC5590B1F3F2",
+      "overrideName": "54BFD0C5-2961-4E19-A6AE-582494A4CB9F/C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
+      "value": "751C29F5-E5A1-409E-8F47-EFE0AFE3B294"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C79FDEA2-B141-4B53-8217-5A9E43BF432B",
+      "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_stringValue",
+      "value": "Identities"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +51,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F30988CC-CB18-44DB-BE1D-972A30146F9A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "019D8A03-7D35-4F27-801B-7EC223FBB865",
+  "symbolID": "30BE83FE-AE96-433B-B3C5-1EE0289A5D2A",
   "verticalSpacing": 0
 }

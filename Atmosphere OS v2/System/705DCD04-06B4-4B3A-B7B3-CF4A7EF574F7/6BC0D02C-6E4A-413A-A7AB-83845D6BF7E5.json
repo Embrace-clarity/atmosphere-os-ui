@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "324FC4B6-F44A-4CA4-9103-67CB6C525D41",
+  "do_objectID": "6BC0D02C-6E4A-413A-A7AB-83845D6BF7E5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2B5D88CF-AF9D-4729-A66F-25A42DB3FFC1",
+    "do_objectID": "69DA01CC-F51D-442D-A546-5EB1DC7AED8E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BBE7D38E-A17C-4C81-B121-C48630E3E6D7",
-    "height": 40,
-    "width": 40,
-    "x": 284,
-    "y": 24
+    "do_objectID": "C86F6762-46E4-4C48-9677-DDBED5375E62",
+    "height": 30,
+    "width": 340,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button/Circular",
+  "name": "System / Status Bar / Default",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C207C245-0B27-488B-A7C2-929EC60B6211",
-      "overrideName": "C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
-      "value": "ABF00098-2353-4753-A6CB-13AAB16B994A"
+      "do_objectID": "E80963DA-1474-4EBF-BC86-7AD26C11A06F",
+      "overrideName": "9C651E91-828E-437C-B00B-3774499A55C1_stringValue",
+      "value": "Identities"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B7A201C6-2B8C-4CBB-B4F5-EC07B368A3B5",
+    "do_objectID": "F1E0E542-1FD6-469E-822B-6B9828FC7D95",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9D92CB14-5AF3-47D4-A692-57D099755033",
+  "symbolID": "C43FFE27-BE29-4254-BB1D-F9A95DD03291",
   "verticalSpacing": 0
 }

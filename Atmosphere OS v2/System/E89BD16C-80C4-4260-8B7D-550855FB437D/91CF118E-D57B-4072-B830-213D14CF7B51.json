@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7E66EA4E-1D13-4C81-8CEE-EB55666F387D",
+  "do_objectID": "91CF118E-D57B-4072-B830-213D14CF7B51",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "16CBA871-AD7C-42B9-B28B-716FBB962AAF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 284,
-    "y": 24
+    "do_objectID": "D021C3B8-838B-40C4-BBEE-62D062C8E061",
+    "height": 56,
+    "width": 340,
+    "x": 0,
+    "y": 30
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +30,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button/Circular",
+  "name": "Nav / Header / Horizontal Slide",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "81CBF3FA-06BC-40FE-83E8-D324BA754475",
-      "overrideName": "C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
-      "value": "1DF11B7A-6689-4B9A-A117-B43FC4E40796"
+      "do_objectID": "B54E6092-8293-4580-A038-EC5590B1F3F2",
+      "overrideName": "54BFD0C5-2961-4E19-A6AE-582494A4CB9F/C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
+      "value": "751C29F5-E5A1-409E-8F47-EFE0AFE3B294"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C79FDEA2-B141-4B53-8217-5A9E43BF432B",
+      "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_stringValue",
+      "value": "Personal"
     }
   ],
   "resizingConstraint": 63,
@@ -45,11 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "30007B57-49D7-4D34-8542-9A6745225D3A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9D92CB14-5AF3-47D4-A692-57D099755033",
+  "symbolID": "30BE83FE-AE96-433B-B3C5-1EE0289A5D2A",
   "verticalSpacing": 0
 }

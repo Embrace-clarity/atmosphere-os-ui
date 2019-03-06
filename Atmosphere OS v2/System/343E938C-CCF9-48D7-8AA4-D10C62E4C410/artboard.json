@@ -83,10 +83,6 @@
     },
     {
       "class": "text",
-      "id": "440F7517-6ECA-4569-938B-C439D61D9818"
-    },
-    {
-      "class": "text",
       "id": "29DE8135-CC62-46DA-A176-247C195AD19F"
     },
     {
@@ -95,7 +91,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "3C8B63B3-6ED0-49A0-B589-4736E7EBA827"
+      "id": "0D767A99-D362-4CA6-BC16-E5DF032E3E53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D585B81-ED2D-4BC5-84B1-6AFB53901335"
     }
   ],
   "layout": {
