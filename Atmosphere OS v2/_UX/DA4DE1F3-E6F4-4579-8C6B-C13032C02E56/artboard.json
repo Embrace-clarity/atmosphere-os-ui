@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -74,7 +74,7 @@
       "id": "D58177D7-B4BB-40B0-813B-A2E6925DE7E5"
     }
   ],
-  "name": "Main menu",
+  "name": "UX / Main menu",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

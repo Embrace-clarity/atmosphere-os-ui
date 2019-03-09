@@ -35,7 +35,7 @@
     "do_objectID": "A6214C14-7A52-4911-803A-E2B151920A8B"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -85,9 +85,13 @@
     {
       "class": "shapePath",
       "id": "A5E6AF35-1384-49EC-92BE-F9CA9CD30812"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A59350B0-9632-4E38-9196-11A6B4F66F74"
     }
   ],
-  "name": "Main menu",
+  "name": "UX / Layer nav",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

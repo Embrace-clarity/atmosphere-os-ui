@@ -35,7 +35,7 @@
     "do_objectID": "B48756F3-7DA3-489C-B2C9-FD0480DDE6DC"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -87,7 +87,7 @@
       "id": "9AC5830D-15BC-4733-8E11-8E1DCAA87C91"
     }
   ],
-  "name": "Unlocking",
+  "name": "UX / Unlocking",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
