@@ -73,15 +73,15 @@
     },
     {
       "class": "symbolMaster",
-      "id": "728E8DB8-CD43-4B6A-ACF7-BBF7FC7A4479"
-    },
-    {
-      "class": "symbolMaster",
       "id": "FBFC3B41-9699-4166-B594-525C67F52410"
     },
     {
+      "class": "symbolMaster",
+      "id": "FDE7BF23-06BE-48D2-88C8-9241884C8582"
+    },
+    {
       "class": "artboard",
-      "id": "224A1224-F0A0-4FC6-8635-0DD919B709F9"
+      "id": "705DCD04-06B4-4B3A-B7B3-CF4A7EF574F7"
     },
     {
       "class": "artboard",
@@ -90,10 +90,6 @@
     {
       "class": "artboard",
       "id": "343E938C-CCF9-48D7-8AA4-D10C62E4C410"
-    },
-    {
-      "class": "artboard",
-      "id": "705DCD04-06B4-4B3A-B7B3-CF4A7EF574F7"
     },
     {
       "class": "artboard",

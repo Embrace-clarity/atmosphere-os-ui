@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8766417572463768,
+    "do_objectID": "13B82B85-E5BE-400D-84A9-079F3FC07206",
+    "green": 0.8766417572463768,
+    "red": 0.8766417572463768
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "230388A7-84F3-4144-A3AE-A4FF2018C86F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8932BDC-D26D-4C20-8668-E23EE668D111",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "062A06D0-EBBC-4ECE-876C-252BF4CBFB15",
+    "height": 1024,
+    "width": 1552,
+    "x": -2032,
+    "y": -360.0000000000001
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B48756F3-7DA3-489C-B2C9-FD0480DDE6DC"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "894F4504-5015-4993-819E-04F1A5769D90",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1F7794D2-3EAE-4306-9FCB-C5D17D0BA4D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF53753A-5654-47F5-9486-5CBAD50E5645"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A329D8BE-585C-42AA-888F-058D2001A5BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "732620B8-75AC-4AEC-84C1-983F987D588B"
+    },
+    {
+      "class": "group",
+      "id": "0E76B564-649A-45A8-93CB-C4B5FD0E7749"
+    },
+    {
+      "class": "group",
+      "id": "8094810C-3B52-427B-A0C7-1E9F2B0E9369"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC7C91BE-91C3-4342-BDEC-88E5B829FFA4"
+    },
+    {
+      "class": "group",
+      "id": "9AC5830D-15BC-4733-8E11-8E1DCAA87C91"
+    }
+  ],
+  "name": "Unlocking",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E146793C-3975-4B06-B988-F8226AB941DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "70B57028-56F4-463B-9BED-386597316846",
+    "guides": [
+    ]
+  }
+}

@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "5 notifications\nFully charged\nAirplane mode"
+    "string": "4 notifications\nFully charged\nAirplane mode"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "5 notifications Full",
+  "name": "4 notifications Full",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

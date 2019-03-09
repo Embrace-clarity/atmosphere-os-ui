@@ -78,14 +78,6 @@
       "id": "DAB345D7-69EA-496C-9D84-D1EF14AC54FC"
     },
     {
-      "class": "oval",
-      "id": "CE08B6C5-735F-488D-9FA4-94293C27CA41"
-    },
-    {
-      "class": "shapePath",
-      "id": "0D2F1057-6411-4A90-879C-219F197E5885"
-    },
-    {
       "class": "symbolInstance",
       "id": "987F2B78-8B51-4515-A727-15695E4B60C0"
     },
@@ -96,6 +88,10 @@
     {
       "class": "symbolInstance",
       "id": "FF8DE873-EA99-4996-8217-E1AF98CE021C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81463159-7864-4415-AA20-FE5BECC33EF1"
     }
   ],
   "layout": {

@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2247,
+  "changeIdentifier": 2254,
   "clippingMaskMode": 0,
   "do_objectID": "FBFC3B41-9699-4166-B594-525C67F52410",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "height": 480,
     "width": 340,
     "x": -80,
-    "y": 36
+    "y": -264
   },
   "grid": {
     "_class": "simpleGrid",
@@ -91,9 +91,19 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 320
   },
-  "name": "Screens / Lock",
+  "name": "Lock / Locked",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9DDB18B2-52B3-454B-BC0B-6A2A0B1E49CC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B8174637-6BC8-4960-8B01-EC2CEFEC3CBF_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -102,7 +112,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "9DDB18B2-52B3-454B-BC0B-6A2A0B1E49CC_stringValue"
+      "overrideName": "B8174637-6BC8-4960-8B01-EC2CEFEC3CBF_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
