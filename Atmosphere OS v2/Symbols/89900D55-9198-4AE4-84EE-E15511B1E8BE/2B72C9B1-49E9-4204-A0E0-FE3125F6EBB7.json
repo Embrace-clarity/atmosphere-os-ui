@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "height": 14,
     "width": 14,
     "x": 0,
-    "y": 0
+    "y": 2
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -42,7 +42,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.5
+      "opacity": 0.6
     },
     "endMarkerType": 0,
     "miterLimit": 10,

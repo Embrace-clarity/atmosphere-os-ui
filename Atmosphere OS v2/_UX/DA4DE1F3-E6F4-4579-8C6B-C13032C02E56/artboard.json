@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -72,6 +72,22 @@
     {
       "class": "symbolInstance",
       "id": "D58177D7-B4BB-40B0-813B-A2E6925DE7E5"
+    },
+    {
+      "class": "text",
+      "id": "C5D89FDC-4665-4BE3-BF4B-595647C5EF53"
+    },
+    {
+      "class": "shapePath",
+      "id": "7CAA49B2-778F-49D2-B6CF-B21693A84FF1"
+    },
+    {
+      "class": "text",
+      "id": "14B88BA3-F74E-434A-AECE-86B61C108603"
+    },
+    {
+      "class": "shapePath",
+      "id": "677FB2AA-3C78-4028-8043-070BA2E5B2F0"
     }
   ],
   "name": "UX / Main menu",

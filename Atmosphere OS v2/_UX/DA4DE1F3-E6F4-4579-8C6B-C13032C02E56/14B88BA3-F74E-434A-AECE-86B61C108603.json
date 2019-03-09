@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0.2745098039215687,
+            "red": 0.9882352941176471
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -30,20 +30,20 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 56,
+        "length": 57,
         "location": 0
       }
     ],
-    "string": "This new Clarity is brilliant. You have to check it out."
+    "string": "Swipe back from the edge of the screen to go to main menu"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "056BCF50-ACA3-420D-8D6C-02ABB1226F47",
+  "do_objectID": "14B88BA3-F74E-434A-AECE-86B61C108603",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "02870C9D-5231-4DD7-86D8-536AB7102662",
+    "do_objectID": "C3764B38-12A9-4A2F-8E72-632A60131A7B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F473B661-8C3C-4570-BD88-8D42EC7C9636",
-    "height": 43,
-    "width": 308,
-    "x": 16,
-    "y": 42
+    "do_objectID": "3168D409-A96A-47A8-AE65-C11960E49571",
+    "height": 46,
+    "width": 245,
+    "x": 1031,
+    "y": 551
   },
-  "glyphBounds": "{{0, 5}, {295, 36}}",
+  "glyphBounds": "{{0, 4}, {230, 40}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,28 +69,29 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "This new Clarity is",
+  "name": "Swipe back from the",
   "nameIsFixed": false,
-  "resizingConstraint": 27,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "F4EE4714-2C3F-4B23-86F4-185B684DC0EA",
+  "sharedStyleID": "35E0A2B4-9270-4C4B-B3A7-AF997D92A03E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0BB9A242-EB07-4DF7-8657-AC31C070D17E",
+    "do_objectID": "7F258586-9EFB-4F5B-83FD-7A66002FE32D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "E8F9E682-6252-4159-B64B-D73CADB748CB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0.2745098039215687,
+          "red": 0.9882352941176471
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -113,11 +114,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "textBehaviour": 1
 }
