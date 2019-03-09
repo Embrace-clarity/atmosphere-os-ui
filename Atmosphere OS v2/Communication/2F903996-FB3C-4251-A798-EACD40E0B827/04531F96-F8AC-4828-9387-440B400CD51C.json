@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.6,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -17,30 +17,31 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Inter-Regular",
-              "size": 44
+              "size": 32
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 62,
-            "minimumLineHeight": 62
+            "maximumLineHeight": 40,
+            "minimumLineHeight": 40
           }
         },
-        "length": 7,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "anafiki"
+    "string": "Hangup\nSpeaker off"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "81D1D1C3-62D6-4CF3-BA9A-FACB8464D9D3",
+  "do_objectID": "04531F96-F8AC-4828-9387-440B400CD51C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3CD0CF8E-DAC6-41A6-9514-AB8BCCC590AF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 62,
-    "width": 137,
+    "do_objectID": "3F4CA8DA-3CC4-4DCC-B251-D7CA212A95C8",
+    "height": 80,
+    "width": 176,
     "x": 16,
-    "y": 77
+    "y": 418
   },
-  "glyphBounds": "{{2, 13}, {132, 35}}",
+  "glyphBounds": "{{1, 8}, {174, 71}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,25 +67,26 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "anafiki",
+  "name": "Hangup Speaker off",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6D3E1079-DBDA-44DC-814C-E7BA9087A084",
+  "sharedStyleID": "02DCE86A-B74E-4D77-A1B4-7C6BC5650808",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0B8CD550-86FC-46E7-A9EB-CFF24CAE26A3",
+    "do_objectID": "8D9E6E35-7920-44A7-A031-84798BCF9C81",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "26F3DD75-6E2C-4F6F-9794-D0E70687B6D7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.6,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -92,26 +95,20 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Inter-Regular",
-            "size": 44
+            "size": 32
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 62,
-          "minimumLineHeight": 62
+          "maximumLineHeight": 40,
+          "minimumLineHeight": 40
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "textBehaviour": 0
 }

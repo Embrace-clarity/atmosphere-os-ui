@@ -33,6 +33,24 @@
   "name": "Feed/Item Call Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0360F54-F5E6-4720-A495-7A1578C977ED",
+      "overrideName": "22BA31B8-552E-40F2-9F9A-1DB3D47CC510/2B72C9B1-49E9-4204-A0E0-FE3125F6EBB7_symbolID",
+      "value": "3F7843B0-B098-4566-A7F3-7FF871BD1E76"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EE4AB8B-CD63-491A-B505-3196E7379ABD",
+      "overrideName": "22BA31B8-552E-40F2-9F9A-1DB3D47CC510/EB46FE15-0C69-4335-A2D1-8C18938A7EA6_stringValue",
+      "value": "30min ago"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F884C61-A872-46BE-A080-258E5DCF3816",
+      "overrideName": "056BCF50-ACA3-420D-8D6C-02ABB1226F47_stringValue",
+      "value": "What are you doing this weekend?"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

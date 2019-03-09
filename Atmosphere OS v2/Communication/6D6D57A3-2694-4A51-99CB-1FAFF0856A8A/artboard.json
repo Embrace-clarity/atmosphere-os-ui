@@ -71,6 +71,18 @@
     {
       "class": "text",
       "id": "81D1D1C3-62D6-4CF3-BA9A-FACB8464D9D3"
+    },
+    {
+      "class": "group",
+      "id": "654A24F4-E547-4E74-A876-1DC3797D68B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8D35573-2AD5-47B7-A93E-FD6118797843"
+    },
+    {
+      "class": "text",
+      "id": "B6C9B336-C63C-4ED9-A31B-8632BFCE4D07"
     }
   ],
   "layout": {

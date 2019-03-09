@@ -17,27 +17,29 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Inter-Regular",
-              "size": 44
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 62,
-            "minimumLineHeight": 62
-          }
+            "maximumLineHeight": 23,
+            "minimumLineHeight": 23
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
-        "length": 7,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "anafiki"
+    "string": "Incoming call"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "81D1D1C3-62D6-4CF3-BA9A-FACB8464D9D3",
+  "do_objectID": "1CDAC3BC-D67D-48B2-889D-9A8DD03B1219",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 62,
-    "width": 137,
-    "x": 16,
-    "y": 77
+    "height": 23,
+    "width": 99,
+    "x": 24,
+    "y": 0
   },
-  "glyphBounds": "{{2, 13}, {132, 35}}",
+  "glyphBounds": "{{1, 5}, {97, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,16 +67,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "anafiki",
+  "name": "Incoming call",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6D3E1079-DBDA-44DC-814C-E7BA9087A084",
+  "sharedStyleID": "F4EE4714-2C3F-4B23-86F4-185B684DC0EA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0B8CD550-86FC-46E7-A9EB-CFF24CAE26A3",
+    "do_objectID": "C93A5F7D-737C-4A83-A393-3D6F608F862F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -92,26 +94,22 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Inter-Regular",
-            "size": 44
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 62,
-          "minimumLineHeight": 62
-        }
+          "maximumLineHeight": 23,
+          "minimumLineHeight": 23
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "textBehaviour": 0
 }

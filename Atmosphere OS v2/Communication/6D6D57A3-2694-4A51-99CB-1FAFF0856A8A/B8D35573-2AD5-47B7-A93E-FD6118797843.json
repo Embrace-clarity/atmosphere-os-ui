@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "27343B3E-EC90-4E72-BAD8-7B28521EF38E",
+  "do_objectID": "B8D35573-2AD5-47B7-A93E-FD6118797843",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CB7686A4-A112-4489-A811-310AB123AC84",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,13 +13,20 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "B37C66D0-C736-46C1-A843-589A470FAE9F",
+    "do_objectID": "D8F40ACE-DC98-4F14-8A36-CB6BBC4F60B3"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 80,
-    "y": 398
+    "do_objectID": "009A7C0B-28AD-435D-AC04-901CCE0CD95F",
+    "height": 30,
+    "width": 340,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +36,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icon / 24 / White / Mic",
+  "name": "System / Label Header",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC6289B4-1414-4668-8E57-1928659E7F77",
+      "overrideName": "9FD2765B-451D-4C28-B2CE-599EBB1F2369_stringValue",
+      "value": "100% - RHA Bluetooth headphones"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,11 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A056CCB8-ED24-4FB7-AC73-6312802249DB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1ADE2AA1-27D9-4BC5-BC4E-54CD0C0AE75D",
+  "symbolID": "40238252-99B2-40D6-8889-29B446732FB1",
   "verticalSpacing": 0
 }

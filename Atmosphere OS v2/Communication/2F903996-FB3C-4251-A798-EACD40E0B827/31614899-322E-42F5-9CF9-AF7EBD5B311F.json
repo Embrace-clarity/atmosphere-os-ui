@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C7495A0D-2C31-4748-9D31-88C11C24AFD1",
+  "do_objectID": "31614899-322E-42F5-9CF9-AF7EBD5B311F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0DD0BC76-6B5C-43D7-9047-1AA51DE88D6E",
+    "do_objectID": "3C24D6CC-9A1A-4FBE-BDEC-D7F00370C2EC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,14 +13,20 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "B37C66D0-C736-46C1-A843-589A470FAE9F",
+    "do_objectID": "6CCE475E-CCE5-445E-B56C-3F6E139770F6"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CAE0948A-F34B-4AB6-9BE7-DEA2ADE9646A",
-    "height": 60,
+    "do_objectID": "88CE539F-3AD3-4947-A76C-9AEEB9037EA6",
+    "height": 30,
     "width": 340,
     "x": 0,
-    "y": 30
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,24 +36,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Header / Horizontal Slide",
+  "name": "System / Label Header",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue",
-      "value": "Discover"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_stringValue",
-      "value": "anafiki"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "69BD30B7-BE1B-48E4-8E3B-C183D7EF99D1",
-      "overrideName": "54BFD0C5-2961-4E19-A6AE-582494A4CB9F/C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
-      "value": "751C29F5-E5A1-409E-8F47-EFE0AFE3B294"
+      "do_objectID": "CC6289B4-1414-4668-8E57-1928659E7F77",
+      "overrideName": "9FD2765B-451D-4C28-B2CE-599EBB1F2369_stringValue",
+      "value": "100% - RHA Bluetooth headphones"
     }
   ],
   "resizingConstraint": 63,
@@ -57,12 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B2D376E8-3769-4C99-BB83-F5CE2E21FAE2",
+    "do_objectID": "64365015-5AF3-420E-BAA3-356E95CBBAF9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "30BE83FE-AE96-433B-B3C5-1EE0289A5D2A",
+  "symbolID": "40238252-99B2-40D6-8889-29B446732FB1",
   "verticalSpacing": 0
 }
