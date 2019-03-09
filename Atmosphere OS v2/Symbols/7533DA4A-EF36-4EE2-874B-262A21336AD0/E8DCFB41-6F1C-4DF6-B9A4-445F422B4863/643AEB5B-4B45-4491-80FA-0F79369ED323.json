@@ -1,8 +1,8 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
-  "do_objectID": "A0E16DD8-60AE-4F29-AE73-2B6E7555818E",
+  "clippingMaskMode": 1,
+  "do_objectID": "643AEB5B-4B45-4491-80FA-0F79369ED323",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,12 +17,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2,
-    "width": 146,
+    "height": 56,
+    "width": 340,
     "x": 0,
     "y": 0
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -30,10 +30,10 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Rectangle 11",
+  "layerListExpandedType": 0,
+  "name": "Rectangle",
   "nameIsFixed": false,
-  "pointRadiusBehaviour": 0,
+  "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
@@ -105,15 +105,46 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1298772692680359,
-          "green": 0.8262341022491455,
-          "red": 0.3834419856252879
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.78678397960239799, 0.50000000000000011}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 0.50000000000000011}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],

@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "643AEB5B-4B45-4491-80FA-0F79369ED323",
+  "do_objectID": "1A8EDA51-6097-4D3B-88B2-EA1A131D1E36",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E3163471-3F1A-4EEA-AA1E-04C4B521A9B0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,9 +18,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 89,
-    "x": 251,
+    "do_objectID": "EBDB4F80-F69E-4E72-BBA0-B8A215655EB4",
+    "height": 315,
+    "width": 340,
+    "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
@@ -30,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
@@ -98,8 +100,30 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "EFDD32D4-BE18-4F00-9099-C013038CC9C6",
     "endMarkerType": 0,
     "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/54d2c1d5f819ee4337e86b004472e93430af655a.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      },
       {
         "_class": "fill",
         "color": {
@@ -113,14 +137,14 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{-1.1102230246251565e-16, 0.50000000000000011}",
+          "from": "{0.5, 0}",
           "gradientType": 0,
           "stops": [
             {
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0,
+                "alpha": 0.1,
                 "blue": 0,
                 "green": 0,
                 "red": 0
@@ -139,7 +163,7 @@
               "position": 1
             }
           ],
-          "to": "{0.99999999999999989, 0.49999999999999989}"
+          "to": "{0.5, 1}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

@@ -1,8 +1,8 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9047FB0C-E22D-4494-BD3A-CCC11F7741AF",
+  "do_objectID": "E8DCFB41-6F1C-4DF6-B9A4-445F422B4863",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2,
-    "width": 308,
-    "x": 16,
-    "y": 462
+    "height": 56,
+    "width": 340,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,11 +34,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "A0E16DD8-60AE-4F29-AE73-2B6E7555818E"
+      "id": "643AEB5B-4B45-4491-80FA-0F79369ED323"
     },
     {
-      "class": "rectangle",
-      "id": "72EE45B0-8237-4AFA-8B01-29AF53132439"
+      "class": "text",
+      "id": "EE34601B-1121-4DD5-9088-6507437DD104"
     }
   ],
   "name": "Group",

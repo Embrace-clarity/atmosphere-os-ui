@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C7495A0D-2C31-4748-9D31-88C11C24AFD1",
+  "do_objectID": "750B26E7-C785-4EEE-BA20-718AEBC6357B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0DD0BC76-6B5C-43D7-9047-1AA51DE88D6E",
+    "do_objectID": "97B93D2D-68D6-475C-85D9-A6D1B9B57D3D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CAE0948A-F34B-4AB6-9BE7-DEA2ADE9646A",
-    "height": 60,
+    "do_objectID": "10F03174-B111-47A6-8F04-F3C44CA136FC",
+    "height": 120,
     "width": 340,
     "x": 0,
-    "y": 30
+    "y": 360
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,25 +29,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Header / Horizontal Slide",
+  "layerListExpandedType": 0,
+  "name": "Feed/Item Call",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue",
-      "value": "Discover"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_stringValue",
-      "value": "anafiki"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "69BD30B7-BE1B-48E4-8E3B-C183D7EF99D1",
-      "overrideName": "54BFD0C5-2961-4E19-A6AE-582494A4CB9F/C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
-      "value": "751C29F5-E5A1-409E-8F47-EFE0AFE3B294"
+      "do_objectID": "8561BA07-D8AE-4E8B-B454-D6C4B9C345A6",
+      "overrideName": "B45E8730-B0BF-4ACE-B484-107CBE0D2FC9/52D6D10F-0C36-42CA-8303-4A9290D83352_textStyle",
+      "value": "379E20A4-9916-4449-AE37-1AC88175D166"
     }
   ],
   "resizingConstraint": 63,
@@ -57,12 +47,18 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B2D376E8-3769-4C99-BB83-F5CE2E21FAE2",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "92ACC15B-7B91-4E44-AD26-6F709B5BAACC",
+      "opacity": 0.2
+    },
+    "do_objectID": "B0E8DFE7-6EE6-4B12-B4E6-76446B48519F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "30BE83FE-AE96-433B-B3C5-1EE0289A5D2A",
+  "symbolID": "F15E4DC8-2D7D-42D0-81C4-C1E20611E14E",
   "verticalSpacing": 0
 }

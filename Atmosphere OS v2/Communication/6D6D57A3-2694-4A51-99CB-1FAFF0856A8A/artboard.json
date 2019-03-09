@@ -66,15 +66,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "97BAED08-F5AA-447B-B7E9-AB17D117337B"
+      "id": "1A8EDA51-6097-4D3B-88B2-EA1A131D1E36"
     },
     {
       "class": "text",
       "id": "81D1D1C3-62D6-4CF3-BA9A-FACB8464D9D3"
-    },
-    {
-      "class": "group",
-      "id": "9047FB0C-E22D-4494-BD3A-CCC11F7741AF"
     }
   ],
   "layout": {

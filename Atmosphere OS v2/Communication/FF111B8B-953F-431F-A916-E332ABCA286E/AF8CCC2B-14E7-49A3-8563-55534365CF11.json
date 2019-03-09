@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 138,
-    "width": 324,
-    "x": 16,
-    "y": 90
+    "height": 228,
+    "width": 340,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -141,7 +141,7 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0,
+                "alpha": 0.1,
                 "blue": 0,
                 "green": 0,
                 "red": 0
@@ -162,7 +162,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

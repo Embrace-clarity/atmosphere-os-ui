@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1004,
+  "changeIdentifier": 2098,
   "clippingMaskMode": 0,
   "do_objectID": "7533DA4A-EF36-4EE2-874B-262A21336AD0",
   "exportOptions": {
@@ -52,12 +52,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "EE34601B-1121-4DD5-9088-6507437DD104"
-    },
-    {
-      "class": "rectangle",
-      "id": "643AEB5B-4B45-4491-80FA-0F79369ED323"
+      "class": "group",
+      "id": "E8DCFB41-6F1C-4DF6-B9A4-445F422B4863"
     },
     {
       "class": "symbolInstance",
