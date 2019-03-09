@@ -103,7 +103,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2224B492-944D-4484-BDE0-585321FB80BE_layerStyle"
+      "overrideName": "2224B492-944D-4484-BDE0-585321FB80BE_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -143,7 +143,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2224B492-944D-4484-BDE0-585321FB80BE_image"
+      "overrideName": "2224B492-944D-4484-BDE0-585321FB80BE_layerStyle"
     }
   ],
   "resizesContent": false,

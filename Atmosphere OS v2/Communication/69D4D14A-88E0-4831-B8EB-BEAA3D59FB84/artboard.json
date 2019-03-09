@@ -69,16 +69,28 @@
       "id": "0FDDE0FA-D2B9-4B33-84DC-964F14CC1383"
     },
     {
-      "class": "rectangle",
-      "id": "7007C6DC-F37B-4884-9CE1-3D9C0F422007"
+      "class": "symbolInstance",
+      "id": "86D5FEBF-076E-4E27-ACEC-02C2CDB37230"
+    },
+    {
+      "class": "text",
+      "id": "8D001830-B015-45CC-B4C7-933C30CC3D0A"
+    },
+    {
+      "class": "text",
+      "id": "CD280709-C400-42A6-B019-631D751AB82E"
+    },
+    {
+      "class": "text",
+      "id": "EA7BDAAB-D55F-41CC-A897-5AA4FD11EE05"
     },
     {
       "class": "symbolInstance",
-      "id": "BB5CBBD6-89A6-42F8-B4E2-84EF144226C8"
+      "id": "C64AED4E-9888-4D75-86BD-82D16A45598E"
     },
     {
-      "class": "rectangle",
-      "id": "8631B767-CC20-4DFC-9A8F-52A25FDA336C"
+      "class": "symbolInstance",
+      "id": "3BCFDDE2-8119-454D-BD71-F3D48199541C"
     }
   ],
   "layout": {

@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 228,
-    "width": 340,
-    "x": 0,
-    "y": 0
+    "height": 138,
+    "width": 324,
+    "x": 16,
+    "y": 90
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -162,7 +162,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
