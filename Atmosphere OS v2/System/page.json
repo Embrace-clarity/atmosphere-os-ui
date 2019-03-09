@@ -40,10 +40,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "3AD3E4DF-F353-4429-851A-486DB4AB4DEC"
-    },
-    {
       "class": "artboard",
       "id": "AC79FCC0-D9C2-4146-AA0A-6555ECABC054"
     },
@@ -96,8 +92,12 @@
       "id": "B3794343-F8D0-40BD-AAC7-F43EC67B9C80"
     },
     {
-      "class": "artboard",
-      "id": "B1506E2B-970E-480F-AF49-DDD92604AA31"
+      "class": "symbolMaster",
+      "id": "7982E692-CDB1-463A-9693-395D478C2183"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3AD3E4DF-F353-4429-851A-486DB4AB4DEC"
     }
   ],
   "name": "System",

@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7726,
+  "changeIdentifier": 7729,
   "clippingMaskMode": 0,
   "do_objectID": "E05F50EA-D199-44AE-A250-0D8EFB094430",
   "exportOptions": {
@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -62,18 +62,6 @@
     {
       "class": "group",
       "id": "72BC7DE4-013F-4C79-895D-55F26DDA6C5C"
-    },
-    {
-      "class": "group",
-      "id": "15A8AC57-3C47-4042-B1D8-9357DA570C87"
-    },
-    {
-      "class": "group",
-      "id": "6328C9A5-35A1-427C-84DB-50D5EE0BE20A"
-    },
-    {
-      "class": "group",
-      "id": "CB0D71F8-1B45-4EF5-B037-B26CA4C00499"
     }
   ],
   "name": "System / Status Bar / Rich",
@@ -92,12 +80,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6C12E707-A7B7-4442-9CF7-4B32CFF25541_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C4265608-78C4-4225-9E38-5470854E2C30_layerStyle"
+      "overrideName": "7F94EF49-BCE4-4294-91D7-6AB1AA3FC308_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -107,12 +90,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "16622637-9611-4206-86DF-986D6696358E_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "59E58C49-783F-46E1-845E-36C4786CCD53_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "16622637-9611-4206-86DF-986D6696358E_layerStyle"
+      "overrideName": "C4265608-78C4-4225-9E38-5470854E2C30_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -122,7 +110,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "7F94EF49-BCE4-4294-91D7-6AB1AA3FC308_layerStyle"
+      "overrideName": "6C12E707-A7B7-4442-9CF7-4B32CFF25541_stringValue"
     }
   ],
   "resizesContent": false,

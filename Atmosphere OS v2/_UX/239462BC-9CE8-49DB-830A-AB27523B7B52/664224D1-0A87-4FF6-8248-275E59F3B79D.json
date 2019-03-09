@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "664224D1-0A87-4FF6-8248-275E59F3B79D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1961AD5E-9E1A-49A9-B7E1-C366791FD63F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "95C99B77-C310-447D-93FD-8655930B4252",
+    "height": 601,
+    "width": 388,
+    "x": 594,
+    "y": 211
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Device / Wireframe / Front Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B85DE94-60F7-4100-8DB9-B3056F490098",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "292713BF-38E9-4B48-BBE7-ACDDC16499AC",
+  "verticalSpacing": 0
+}
