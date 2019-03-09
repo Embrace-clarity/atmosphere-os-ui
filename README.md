@@ -1,6 +1,6 @@
 # Atmosphere OS
 
-Operating system designed for decentralisation. Work in progress specs of the OS can be found [here](https://github.com/Embrace-clarity/atmosphere-os)
+Operating system designed for decentralisation. Work in progress specs of the OS can be found [here](https://github.com/Embrace-clarity/atmosphere-os). You can quickly browse through the file via [Sketch Cloud](https://sketch.cloud/s/yyV38) or play with the click-through [prototype](https://sketch.cloud/s/yyV38/DPrmVy4/play)
 
 ![Atmosphere OS](https://raw.githubusercontent.com/Embrace-clarity/atmosphere-os-ui/master/Assets/Header.png)
 
