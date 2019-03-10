@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 98,
+  "changeIdentifier": 127,
   "clippingMaskMode": 0,
   "do_objectID": "4AA102E3-E0D6-450E-96C6-9701E6003057",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,33 +49,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "75619A15-7144-42D9-90A7-EC6CCBEFDC11"
     },
     {
-      "class": "group",
-      "id": "36DE2F3A-609B-4AEF-9958-C5CFE85C7F5C"
-    },
-    {
-      "class": "rectangle",
-      "id": "3BEB3ADA-4CE5-43AB-894E-D9540DD6BA8B"
+      "class": "text",
+      "id": "581F370F-B48A-417F-B800-00D66C049499"
     }
   ],
-  "name": "Feed/Assets/Rich Content/Transaction",
+  "name": "Feed/Assets/Rich Content/2 lines",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "75619A15-7144-42D9-90A7-EC6CCBEFDC11_stringValue"
+      "overrideName": "581F370F-B48A-417F-B800-00D66C049499_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "581F370F-B48A-417F-B800-00D66C049499_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "75619A15-7144-42D9-90A7-EC6CCBEFDC11_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "75619A15-7144-42D9-90A7-EC6CCBEFDC11_stringValue"
     }
   ],
   "resizesContent": false,

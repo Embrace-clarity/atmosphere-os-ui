@@ -1,0 +1,153 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "52FC6E69-CD99-4212-8A67-3A83D00D67E7",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8B50C85-31FB-4575-AF28-ED7D12A34AC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD837132-4CA4-4877-A7DD-41D580B853B2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15150CF1-2BC1-4F1F-877A-BA18E9A6DB12",
+    "height": 480,
+    "width": 340,
+    "x": 1090,
+    "y": -307
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "DB916728-9D2B-4C4C-A469-00E1BF369BE7",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3F01A72B-8989-4D65-AB9A-45A315D28FC4"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5169BCB9-0984-4344-AE39-1F6FB14033BB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "19E4ACB3-4C04-4895-86F0-10409D149920"
+    },
+    {
+      "class": "rectangle",
+      "id": "4D664F9F-85B3-495B-AA99-F22D07E65320"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11675C11-0E25-4547-A842-FC7E6EFE76FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3E4B373-CB1D-474C-8EAF-725A417F35D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A395D62-4027-4545-A133-24F1FEA52804"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "381CB638-D88A-47A2-8698-8A6BE9D092D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C8BCC72-1E00-4CE6-8550-653FA017FB8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7061DE6-9C63-4698-8A14-730A15B61DC1"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 72,
+    "do_objectID": "13717619-BC76-4BF0-9FBD-EFE6B78606FF",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 8,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 320
+  },
+  "name": "Main / Timeline",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D214A96-B651-487B-9209-39F325869C5F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5571EA9B-505E-4D9F-9719-B696CDB29B3C",
+    "guides": [
+    ]
+  }
+}

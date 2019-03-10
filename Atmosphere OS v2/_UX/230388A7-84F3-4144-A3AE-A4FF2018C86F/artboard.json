@@ -36,7 +36,7 @@
     "do_objectID": "062A06D0-EBBC-4ECE-876C-252BF4CBFB15",
     "height": 1024,
     "width": 1552,
-    "x": -2032,
+    "x": -2338,
     "y": -360.0000000000001
   },
   "groupLayout": {
@@ -44,7 +44,7 @@
     "do_objectID": "B48756F3-7DA3-489C-B2C9-FD0480DDE6DC"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

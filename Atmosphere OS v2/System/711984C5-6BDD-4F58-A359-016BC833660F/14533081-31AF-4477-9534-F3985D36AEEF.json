@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "14533081-31AF-4477-9534-F3985D36AEEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD8140A7-9D46-4B94-BED7-2EFCCBDD2B29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA87D573-A07E-487F-A6A0-2252198AF0B3",
+    "height": 120,
+    "width": 340,
+    "x": 0,
+    "y": 206
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feed/Item Call Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41258AA9-5A34-4AAB-85B5-1A8511F33262",
+      "overrideName": "E81630E8-95E7-410B-86CD-6C64130F40F9/1950689F-26A6-4718-B8D8-BA2A10D292E8_stringValue",
+      "value": "2.1 BTC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "636F34A4-F2D0-4283-BA11-16BFD97ED46D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54A09A93-4183-41AD-B998-34F13C82C686",
+  "verticalSpacing": 0
+}

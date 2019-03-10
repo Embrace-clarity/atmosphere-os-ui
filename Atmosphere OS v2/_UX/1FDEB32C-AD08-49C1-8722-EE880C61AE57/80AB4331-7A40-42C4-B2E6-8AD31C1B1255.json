@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "80AB4331-7A40-42C4-B2E6-8AD31C1B1255",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82454299-4B6F-4E80-8DA9-C98B1F3C18D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2848B8FC-A1CD-4C83-A176-0A978077D972",
+    "height": 44,
+    "width": 28,
+    "x": 56,
+    "y": 924
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Brand Assets / Logo Light Dark",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F7885D37-D0A2-4B5A-AF75-76DA13FCC354",
+      "opacity": 0.1607607886904762
+    },
+    "do_objectID": "0BFF6D19-C6BE-4E96-A5E1-27881EC0C0C1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4189154-4789-4C49-91FD-FCE11F6B8BE2",
+  "verticalSpacing": 0
+}

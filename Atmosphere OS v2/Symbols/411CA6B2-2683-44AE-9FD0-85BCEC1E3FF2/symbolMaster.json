@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3594,
+  "changeIdentifier": 3601,
   "clippingMaskMode": 0,
   "do_objectID": "411CA6B2-2683-44AE-9FD0-85BCEC1E3FF2",
   "exportOptions": {
@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -65,11 +65,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "12F36B02-BB24-4303-8CB8-61B2993B1D97"
+      "id": "AC54BE1E-0E85-4A80-9547-C8F431B81191"
     },
     {
       "class": "symbolInstance",
-      "id": "AC54BE1E-0E85-4A80-9547-C8F431B81191"
+      "id": "6A529009-5C0C-464B-B920-1C861C5CEDF3"
     }
   ],
   "name": "Feed/Item/Call",
@@ -78,22 +78,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "12F36B02-BB24-4303-8CB8-61B2993B1D97_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "AC54BE1E-0E85-4A80-9547-C8F431B81191_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "0F70A20C-08DC-4D84-86A5-C8223C191402_symbolID"
+      "overrideName": "B45E8730-B0BF-4ACE-B484-107CBE0D2FC9_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B45E8730-B0BF-4ACE-B484-107CBE0D2FC9_symbolID"
+      "overrideName": "0F70A20C-08DC-4D84-86A5-C8223C191402_symbolID"
     }
   ],
   "resizesContent": true,

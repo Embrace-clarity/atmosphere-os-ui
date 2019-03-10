@@ -16,10 +16,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "jpg",
+        "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 3,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],

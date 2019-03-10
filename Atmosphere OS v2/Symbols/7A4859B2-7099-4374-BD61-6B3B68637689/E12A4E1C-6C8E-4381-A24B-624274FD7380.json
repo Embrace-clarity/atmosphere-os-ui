@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E12A4E1C-6C8E-4381-A24B-624274FD7380",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F467CA39-1A4A-4945-BDCC-6D3DAD4E8A06",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "161146D3-FE65-41F8-A94E-8AA831CDDB30",
+    "height": 56,
+    "width": 340,
+    "x": 0,
+    "y": 45
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feed/Assets/Rich Content/Missed",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85A1D20B-3F99-47FC-A42A-D1D57C61B141",
+      "overrideName": "75619A15-7144-42D9-90A7-EC6CCBEFDC11_stringValue",
+      "value": "Flight Facilities"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B8608D5-AB2C-4090-890D-7E86989B3F67",
+      "overrideName": "581F370F-B48A-417F-B800-00D66C049499_stringValue",
+      "value": "Arty Boy"
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F73257AD-F822-4058-BE48-E4C8A501A979",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F375AACB-E9DE-4EE8-A131-DB664C941B4C",
+  "verticalSpacing": 0
+}

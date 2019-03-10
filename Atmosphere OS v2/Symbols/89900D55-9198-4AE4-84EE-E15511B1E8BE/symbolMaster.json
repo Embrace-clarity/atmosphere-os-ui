@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 563,
+  "changeIdentifier": 565,
   "clippingMaskMode": 0,
   "do_objectID": "89900D55-9198-4AE4-84EE-E15511B1E8BE",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,8 +60,8 @@
       "id": "2B72C9B1-49E9-4204-A0E0-FE3125F6EBB7"
     }
   ],
-  "name": "Feed/Assets/Meta",
-  "nameIsFixed": false,
+  "name": "Feed/Assets/Meta/Icon+Label",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

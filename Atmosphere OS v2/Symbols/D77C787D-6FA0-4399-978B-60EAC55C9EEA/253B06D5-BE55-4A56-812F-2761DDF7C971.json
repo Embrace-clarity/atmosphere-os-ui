@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "5FF6A872-F7F4-44A7-85CE-3E4C0A780FAA",
     "height": 18,
-    "width": 324,
+    "width": 188,
     "x": 16,
     "y": 16
   },
@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "27689768-253B-4DE2-92C1-50EE47591A22",
       "overrideName": "EB46FE15-0C69-4335-A2D1-8C18938A7EA6_stringValue",
-      "value": "Sent by @denull 30min ago. 23 confirmations"
+      "value": "Sent by @denull 30min ago"
     }
   ],
   "resizingConstraint": 63,

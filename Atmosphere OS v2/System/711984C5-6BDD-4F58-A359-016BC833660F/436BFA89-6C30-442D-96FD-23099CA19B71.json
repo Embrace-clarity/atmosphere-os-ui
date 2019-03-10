@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "436BFA89-6C30-442D-96FD-23099CA19B71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89D08A30-DD1C-4DC7-924B-A24BC8344753",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB8BF02A-A8EB-4836-ACA7-D5F2DC939EF5",
+    "height": 120,
+    "width": 340,
+    "x": 0,
+    "y": 86
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feed/Item Call",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "679148B8-8D6E-448E-B0D2-EF22477E1B26",
+      "overrideName": "0F70A20C-08DC-4D84-86A5-C8223C191402/EB46FE15-0C69-4335-A2D1-8C18938A7EA6_stringValue",
+      "value": "@anafiki 15minago"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B94408BA-4AE0-4B7A-B5A0-693FA4E84C73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F15E4DC8-2D7D-42D0-81C4-C1E20611E14E",
+  "verticalSpacing": 0
+}

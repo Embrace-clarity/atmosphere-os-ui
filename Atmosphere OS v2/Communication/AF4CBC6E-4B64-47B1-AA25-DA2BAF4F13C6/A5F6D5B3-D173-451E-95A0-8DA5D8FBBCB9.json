@@ -33,6 +33,12 @@
   "name": "Feed/Item Call Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F906A834-6006-4BAF-9234-FE97FF33560B",
+      "overrideName": "E81630E8-95E7-410B-86CD-6C64130F40F9/581F370F-B48A-417F-B800-00D66C049499_stringValue",
+      "value": "pending"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

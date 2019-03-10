@@ -88,6 +88,10 @@
     {
       "class": "text",
       "id": "04531F96-F8AC-4828-9387-440B400CD51C"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "3D933353-B6A0-4552-B63C-7109C4E89E07"
     }
   ],
   "layout": {

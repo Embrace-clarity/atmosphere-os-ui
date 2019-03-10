@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 21,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Navigating to a Layer"
+    "string": "Main menu"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,11 +49,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 62,
-    "width": 443,
+    "width": 229,
     "x": 56,
-    "y": 56
+    "y": 56.00000000000011
   },
-  "glyphBounds": "{{3, 19}, {440, 43}}",
+  "glyphBounds": "{{3, 19}, {223, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Navigating to a Laye",
+  "name": "Main menu",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
