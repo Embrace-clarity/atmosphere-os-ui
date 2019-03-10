@@ -30,11 +30,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 41,
+        "length": 60,
         "location": 0
       }
     ],
-    "string": "Layer page menu + global layer navigation"
+    "string": "Tap the header or swipe down to get the full screen settings"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,10 +57,10 @@
     "do_objectID": "C3CFE163-4BFE-4BAD-A521-10D6E2CF64D3",
     "height": 46,
     "width": 245,
-    "x": 1031,
+    "x": 571,
     "y": 303
   },
-  "glyphBounds": "{{1, 5}, {236, 39}}",
+  "glyphBounds": "{{0, 5}, {229, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Layer page menu + gl",
+  "name": "Tap the header or sw",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

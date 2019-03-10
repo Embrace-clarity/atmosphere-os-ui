@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 25,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "Navigating inside a Layer"
+    "string": "Accessing Quick Settings"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "B75A2D0B-7464-4211-B305-AD0D311E508D",
     "height": 62,
-    "width": 524,
+    "width": 528,
     "x": 48,
     "y": 48
   },
-  "glyphBounds": "{{3, 19}, {521, 43}}",
+  "glyphBounds": "{{1, 19}, {525, 43}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

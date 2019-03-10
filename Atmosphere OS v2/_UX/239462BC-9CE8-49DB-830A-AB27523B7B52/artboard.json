@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "D955823B-8788-4B45-BCC9-98927CEDF363",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,9 +35,9 @@
     "constrainProportions": false,
     "do_objectID": "8CD99779-81AD-40A7-A99D-D7D4329AB519",
     "height": 1024,
-    "width": 1440,
-    "x": 2600,
-    "y": -360
+    "width": 2078,
+    "x": 2550,
+    "y": -360.0000000000001
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -76,10 +85,6 @@
     },
     {
       "class": "text",
-      "id": "52CF96CF-9AF9-4E07-8F3B-EB6B88518D86"
-    },
-    {
-      "class": "text",
       "id": "F5F7AD98-8919-4C31-BCB0-2D9F5487B9B4"
     },
     {
@@ -87,11 +92,19 @@
       "id": "9F99B38A-80EB-41BE-9A7F-C6665B9C66E3"
     },
     {
+      "class": "text",
+      "id": "38C40883-F9CB-4129-BA56-813810A25FDE"
+    },
+    {
+      "class": "group",
+      "id": "962FE4A4-0B12-441A-A1F6-18DF2D2A95A2"
+    },
+    {
       "class": "symbolInstance",
       "id": "6AEFC2E2-1BCB-4AAE-8D52-7159BB3E8455"
     }
   ],
-  "name": "UX / Layer nav",
+  "name": "UX / Quick Settings",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 14,
   "clippingMaskMode": 0,
   "do_objectID": "D485FCF7-AFBC-4B0B-9368-731B53BFFC4C",
   "exportOptions": {
@@ -74,6 +74,10 @@
     {
       "class": "symbolInstance",
       "id": "87A99DFF-201C-41F1-8A1E-9A9451DEFCD6"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "0627E0D5-32B8-4E72-B66C-2EF217D4C2F2"
     },
     {
       "class": "symbolInstance",
