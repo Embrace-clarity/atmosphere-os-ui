@@ -99,6 +99,10 @@
     {
       "class": "symbolInstance",
       "id": "750B26E7-C785-4EEE-BA20-718AEBC6357B"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "EB72B8BA-3050-436F-B195-B9D096ABF898"
     }
   ],
   "layout": {
