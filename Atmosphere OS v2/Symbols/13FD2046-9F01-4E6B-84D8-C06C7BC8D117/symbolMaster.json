@@ -66,12 +66,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BC20775E-F9DA-414E-9050-0032402A02DB_textStyle"
+      "overrideName": "BC20775E-F9DA-414E-9050-0032402A02DB_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BC20775E-F9DA-414E-9050-0032402A02DB_stringValue"
+      "overrideName": "BC20775E-F9DA-414E-9050-0032402A02DB_textStyle"
     }
   ],
   "resizesContent": false,

@@ -40,12 +40,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "B3790E2A-6185-4ACD-8266-61D9ED0FB2CB"
+      "class": "bitmap",
+      "id": "363AED92-84F2-40C1-A706-A5B830B520A9"
     },
     {
       "class": "artboard",
       "id": "5B96AF31-8570-4592-A351-0DAC044C6A20"
+    },
+    {
+      "class": "artboard",
+      "id": "B3790E2A-6185-4ACD-8266-61D9ED0FB2CB"
     }
   ],
   "name": "_Mockups",

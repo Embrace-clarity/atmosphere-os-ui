@@ -31,9 +31,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 810,
     "width": 1440,
-    "x": 969,
+    "x": 919,
     "y": -363
   },
   "groupLayout": {
@@ -58,10 +58,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "C168A366-9DB7-43A8-90B4-EDEE7FA9BC43"
-    },
     {
       "class": "rectangle",
       "id": "82E6825E-B784-4CE6-A67D-74301BB558C3"
