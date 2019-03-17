@@ -70,6 +70,18 @@
     {
       "class": "bitmap",
       "id": "4B40CBDF-4A42-40CB-AC6A-373BAAC5375A"
+    },
+    {
+      "class": "group",
+      "id": "2E0362F5-B6F3-43B8-802D-B19FDC902714"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C8A383F-539D-4E90-9246-FED1B18F50F7"
+    },
+    {
+      "class": "bitmap",
+      "id": "174D00F3-B345-4CC6-A425-463DA41EB7C9"
     }
   ],
   "name": "Mockups / Modules",

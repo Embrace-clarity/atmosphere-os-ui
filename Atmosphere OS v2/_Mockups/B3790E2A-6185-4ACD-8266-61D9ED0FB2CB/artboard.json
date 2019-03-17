@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,11 +60,15 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "17D4E107-9452-4826-AE3A-15F1C76314DB"
+      "id": "B0AD717E-73D8-4F18-9791-AF35D3800C3E"
     },
     {
       "class": "bitmap",
-      "id": "B0AD717E-73D8-4F18-9791-AF35D3800C3E"
+      "id": "17D4E107-9452-4826-AE3A-15F1C76314DB"
+    },
+    {
+      "class": "rectangle",
+      "id": "2005A2B1-5ADB-478B-9350-490AB4313AE1"
     }
   ],
   "name": "Mockups / Hero",

@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "17D4E107-9452-4826-AE3A-15F1C76314DB",
+  "do_objectID": "2E0362F5-B6F3-43B8-802D-B19FDC902714",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,29 +12,36 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 743,
-    "width": 1320.888888888889,
-    "x": -1.13686837721616e-13,
-    "y": 0
+    "constrainProportions": false,
+    "height": 108,
+    "width": 160,
+    "x": 122,
+    "y": 315
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/d6caf1a313c94f57588dce6e2eacce9f32d6d561.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "hero_4",
+  "layers": [
+    {
+      "class": "group",
+      "id": "51CA761D-FC3D-48BC-A1A7-44E7884C6E11"
+    },
+    {
+      "class": "bitmap",
+      "id": "A6BC044E-4117-44EC-85D2-AF5590682FDB"
+    }
+  ],
+  "name": "Group 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,18 +49,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "colorControls": {
-      "_class": "colorControls",
-      "brightness": 0,
-      "contrast": 1,
-      "hue": 0,
-      "isEnabled": true,
-      "saturation": 1
-    },
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.4898856026785715
+      "opacity": 0.7916201636904762
     },
     "endMarkerType": 0,
     "miterLimit": 10,

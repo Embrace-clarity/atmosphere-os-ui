@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "17D4E107-9452-4826-AE3A-15F1C76314DB",
+  "do_objectID": "A6BC044E-4117-44EC-85D2-AF5590682FDB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,25 +17,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 743,
-    "width": 1320.888888888889,
-    "x": -1.13686837721616e-13,
-    "y": 0
+    "height": 105,
+    "width": 155,
+    "x": 5,
+    "y": 0.5
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/d6caf1a313c94f57588dce6e2eacce9f32d6d561.png",
+    "_ref": "images/5576d39294d585fa96bc9ea6dd0766ace2345503.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 72,
+  "intendedDPI": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "hero_4",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,18 +43,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "colorControls": {
-      "_class": "colorControls",
-      "brightness": 0,
-      "contrast": 1,
-      "hue": 0,
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
       "isEnabled": true,
-      "saturation": 1
-    },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.4898856026785715
+      "motionAngle": 0,
+      "radius": 4,
+      "saturation": 1,
+      "type": 0
     },
     "endMarkerType": 0,
     "miterLimit": 10,

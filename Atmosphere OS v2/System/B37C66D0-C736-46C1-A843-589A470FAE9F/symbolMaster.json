@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1449,
+  "changeIdentifier": 1451,
   "clippingMaskMode": 0,
   "do_objectID": "B37C66D0-C736-46C1-A843-589A470FAE9F",
   "exportOptions": {
@@ -95,7 +95,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "96D8FF34-17AA-41B2-B191-DF95DF37A9AA_stringValue"
+      "overrideName": "96D8FF34-17AA-41B2-B191-DF95DF37A9AA_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -130,12 +130,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8DAF214A-6B65-49CA-877D-2A36BA577C47_textStyle"
+      "overrideName": "96D8FF34-17AA-41B2-B191-DF95DF37A9AA_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "96D8FF34-17AA-41B2-B191-DF95DF37A9AA_textStyle"
+      "overrideName": "8DAF214A-6B65-49CA-877D-2A36BA577C47_textStyle"
     }
   ],
   "resizesContent": false,
@@ -153,11 +153,12 @@
   "symbolID": "0AE963C0-9BDA-493C-8792-A47DBBFAFFFF",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 1,
       "included": 1,
       "linkedLayers": [
         "5877CE82-FA9C-41CF-8C1C-9E24AB914A07",
-        "82E8FF3A-8CB8-4D38-AE00-4F7AE1446AB3"
+        "82E8FF3A-8CB8-4D38-AE00-4F7AE1446AB3",
+        "2005A2B1-5ADB-478B-9350-490AB4313AE1"
       ]
     }
   },
