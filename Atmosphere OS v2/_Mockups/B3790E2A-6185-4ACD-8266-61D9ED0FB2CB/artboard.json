@@ -31,8 +31,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
+    "height": 743,
+    "width": 1321,
     "x": -571,
     "y": -363
   },
@@ -59,16 +59,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "5B556DE4-267E-440A-B5E8-E35399AD39AA"
+      "class": "bitmap",
+      "id": "17D4E107-9452-4826-AE3A-15F1C76314DB"
     },
     {
-      "class": "rectangle",
-      "id": "5877CE82-FA9C-41CF-8C1C-9E24AB914A07"
+      "class": "bitmap",
+      "id": "B0AD717E-73D8-4F18-9791-AF35D3800C3E"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "Mockups / Hero",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

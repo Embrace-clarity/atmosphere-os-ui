@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "DC9840F6-4F07-4B42-8474-D6EA5E34966F",
     "green": 1,
     "red": 1
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "5B96AF31-8570-4592-A351-0DAC044C6A20",
+  "do_objectID": "9E483978-4071-486B-A631-9A4A33176953",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0FA2BE5E-9CF2-465B-B9C5-FC1E6B361238",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -19,7 +21,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -31,20 +33,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "CC2D58FC-1424-4A61-B54B-A010F8CF17A0",
     "height": 743,
     "width": 1321,
-    "x": 800,
+    "x": 2171,
     "y": -363
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6FD8AD1E-82B6-4275-8046-303C73E07D44"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "AAD17CDF-A121-4728-9DAD-A50EBC20C3DA",
     "guides": [
     ]
   },
@@ -60,18 +65,14 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "363AED92-84F2-40C1-A706-A5B830B520A9"
+      "id": "81B5F103-3DFC-472B-8940-5D152E41067A"
     },
     {
       "class": "bitmap",
-      "id": "755F57D9-F27C-424E-85A3-782F51A9B7A0"
-    },
-    {
-      "class": "group",
-      "id": "91E36A44-B434-4BEA-A51F-F03CBBADD997"
+      "id": "4B40CBDF-4A42-40CB-AC6A-373BAAC5375A"
     }
   ],
-  "name": "Mockups / Flat",
+  "name": "Mockups / Modules",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -87,6 +88,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "C4479B57-4302-4140-A622-F8F6FA42B43A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -94,12 +96,13 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "A34CED26-F403-4004-A2B7-D6D84FADA8BD",
     "guides": [
     ]
   }
