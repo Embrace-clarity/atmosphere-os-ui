@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E72A5CBA-9260-42A9-8240-3E33681AC8D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6365450F-57B1-44F0-9045-B47DFE0EE071",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DA943B1-FBA0-4B4A-88E0-A1EE39E4F1C8",
+    "height": 40,
+    "width": 268,
+    "x": 16,
+    "y": 158
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field/Default Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4097DE4-0741-44D3-8750-B3083A4E3A2F",
+      "overrideName": "5B9AFA1F-39E8-4370-A2D5-2D2AB117DA12_stringValue",
+      "value": "Serralves Museum"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80BADA3E-4742-48A2-9438-165BC7FADA32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC0728A2-04E5-4F1D-8981-A06273AB7F0C",
+  "verticalSpacing": 0
+}

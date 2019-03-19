@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6D247E9-2193-4191-9C20-5C6BBA75C1EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6B527A5-B1A6-4E5F-8144-86221B665301",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "D485FCF7-AFBC-4B0B-9368-731B53BFFC4C",
+    "do_objectID": "40A519F0-3657-46B6-B766-AED00EC47CCB"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D9732AE-F88F-4F91-A7BB-9C70CAA17C52",
+    "height": 56,
+    "width": 340,
+    "x": 0,
+    "y": 30
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / Horizontal Slide",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "69C3A1CC-08A8-4811-B595-0D83DADD1800_stringValue",
+      "value": "Discover"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EE34601B-1121-4DD5-9088-6507437DD104_stringValue",
+      "value": "Walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "853C0584-6714-4F4D-A325-8C050A5EA032",
+      "overrideName": "54BFD0C5-2961-4E19-A6AE-582494A4CB9F/C23D9826-A860-4828-BD6A-2F59BE81765C_symbolID",
+      "value": "751C29F5-E5A1-409E-8F47-EFE0AFE3B294"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B459EACD-6A62-4BD8-9D31-A7C80241A5AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "30BE83FE-AE96-433B-B3C5-1EE0289A5D2A",
+  "verticalSpacing": 0
+}

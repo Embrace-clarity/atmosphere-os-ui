@@ -69,7 +69,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "924554EE-4201-4511-876C-92ED9ECAD46B_stringValue"
+      "overrideName": "924554EE-4201-4511-876C-92ED9ECAD46B_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -79,7 +79,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "924554EE-4201-4511-876C-92ED9ECAD46B_textStyle"
+      "overrideName": "924554EE-4201-4511-876C-92ED9ECAD46B_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",

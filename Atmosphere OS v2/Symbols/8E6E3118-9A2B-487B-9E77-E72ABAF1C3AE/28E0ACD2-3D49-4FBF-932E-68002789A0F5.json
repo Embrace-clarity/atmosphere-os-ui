@@ -17,18 +17,16 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Inter-Regular",
-              "size": 16
+              "size": 24
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 23,
-            "minimumLineHeight": 23
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
+          }
         },
         "length": 14,
         "location": 0
@@ -54,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 122,
+    "height": 32,
+    "width": 182,
     "x": 56,
-    "y": 18
+    "y": 11
   },
-  "glyphBounds": "{{0, 5}, {121, 16}}",
+  "glyphBounds": "{{1, 7}, {180, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +71,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "F4EE4714-2C3F-4B23-86F4-185B684DC0EA",
+  "sharedStyleID": "379E20A4-9916-4449-AE37-1AC88175D166",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -95,18 +93,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Inter-Regular",
-            "size": 16
+            "size": 24
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 23,
-          "minimumLineHeight": 23
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 0
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
+        }
       },
       "verticalAlignment": 0
     },

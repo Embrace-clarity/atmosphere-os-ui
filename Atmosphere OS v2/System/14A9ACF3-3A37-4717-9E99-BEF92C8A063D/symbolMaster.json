@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2671,
+  "changeIdentifier": 2674,
   "clippingMaskMode": 0,
   "do_objectID": "14A9ACF3-3A37-4717-9E99-BEF92C8A063D",
   "exportOptions": {
@@ -154,7 +154,7 @@
   "symbolID": "3CDC9CE0-D054-4AA7-B9D6-799B2726FBDE",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1,
+      "highestQuality": -1,
       "included": 1,
       "linkedLayers": [
         "5877CE82-FA9C-41CF-8C1C-9E24AB914A07",

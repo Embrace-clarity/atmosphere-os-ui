@@ -1,0 +1,176 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "AA196B8C-8184-40A0-B4F1-C19B2A5B4ECF",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1588,
+  "clippingMaskMode": 0,
+  "do_objectID": "206ADDCA-3162-444A-9ECD-0C5215E47FD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E67480A-6430-46EA-A69E-852FE2786566",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C37335D6-852C-4A22-B5AC-EA640C059E72",
+    "height": 480,
+    "width": 340,
+    "x": 219,
+    "y": 340
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F74012D8-0DFD-49AE-A43B-3427A70C7B3F",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "84A57984-22DD-4C5F-B813-7845CC8E08D0"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D9076B9B-D0B5-4D70-9596-0456B8EECB8D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F997B3E2-EBF6-482E-92CF-309853E60C23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E72A5CBA-9260-42A9-8240-3E33681AC8D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04E962A1-7168-4981-BEC2-7618E1FD81C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E1E4E99-9BFD-4F0A-8024-DA6FA9BFBDFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4684FACC-94C3-4431-A383-0F09F7DA0C5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06CC8DED-56C5-4EDE-9244-8C75AF5BF37B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 72,
+    "do_objectID": "9A3007C5-D7EB-456C-AC80-059EE6C6B0E5",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 8,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 320
+  },
+  "name": "Transportation / Directions / Desitnation",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E72A5CBA-9260-42A9-8240-3E33681AC8D6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4684FACC-94C3-4431-A383-0F09F7DA0C5A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3E1E4E99-9BFD-4F0A-8024-DA6FA9BFBDFE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "06CC8DED-56C5-4EDE-9244-8C75AF5BF37B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F997B3E2-EBF6-482E-92CF-309853E60C23_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "04E962A1-7168-4981-BEC2-7618E1FD81C0_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF31E2E7-53FF-4161-B964-7AD52330D012",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E10BC000-71AC-42CE-86D3-F4791A6C12D3",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AC278C8B-16BF-4CBA-BBD5-6D87975CCB5F",
+    "guides": [
+    ]
+  }
+}

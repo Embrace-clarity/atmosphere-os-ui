@@ -1,0 +1,163 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "B51B79F4-2BCB-47CB-9ACA-4C913D7EFC44",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1321,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A01EF7D-3EEE-45B1-832E-41E610BDF587",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F70BFA2-C638-4DDB-A23B-C74AD35FCAA0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "483CBA6B-95D4-4033-A288-3125E7983B6C",
+    "height": 480,
+    "width": 340,
+    "x": 999,
+    "y": 340
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "B5E81B05-54D5-4990-A200-18EF765A833A",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AA3E15C4-3FB3-4557-976A-EC2091F72FDD"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7A728445-4756-4AB4-8125-B7EF693FFBDB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1B76B544-F45F-458A-8AFA-4AAEA5408DFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F6559C5-56B3-466D-A261-C279DB9229FC"
+    },
+    {
+      "class": "text",
+      "id": "FB71EF03-46AD-49DE-BF4A-04F0AFE806C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2581C15D-DF3B-4494-BDFB-6354B6DA7F48"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 72,
+    "do_objectID": "27B6AF0B-66B3-477A-BF54-B6EC85B4BA3F",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 8,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 320
+  },
+  "name": "Transportation / Directions / Menu",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FB71EF03-46AD-49DE-BF4A-04F0AFE806C9_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2581C15D-DF3B-4494-BDFB-6354B6DA7F48_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5F6559C5-56B3-466D-A261-C279DB9229FC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FB71EF03-46AD-49DE-BF4A-04F0AFE806C9_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1B76B544-F45F-458A-8AFA-4AAEA5408DFC_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "462A8242-7606-4A09-A2F2-2D3C3EB51BA4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "06ACA164-94CB-45D9-AB86-3A35677CAAC8",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BFF50B42-3DDC-4E54-AEE9-B94B5840FB79",
+    "guides": [
+    ]
+  }
+}

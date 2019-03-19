@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC2AAFB6-FF5D-4753-A9DA-7E478BD90854",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AC765F7-2BEB-47D8-930D-D31FED6B92D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BAC363CD-67E2-4A4F-8550-46FB27B1CA2B",
+    "height": 54,
+    "width": 54,
+    "x": 7,
+    "y": 7
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "707EF337-2042-4898-8923-FF00CEF05B86"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "E2F00C20-2044-4407-B3FB-CE89BBFB868B"
+    },
+    {
+      "class": "oval",
+      "id": "1A389ACF-F983-4B97-8F4D-20B846E780AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "62873B75-8D0E-4F4C-8B1C-36ED0B1F01B8"
+    }
+  ],
+  "name": "Compass",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 75,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B31D03B5-C385-4DEB-976A-38BCB147483B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

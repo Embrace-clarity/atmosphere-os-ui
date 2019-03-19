@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 842,
+  "changeIdentifier": 851,
   "clippingMaskMode": 0,
   "do_objectID": "94AFD619-2EA3-40B2-A8F4-9486B72BA949",
   "exportOptions": {
@@ -70,17 +70,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6F25BD24-0C88-493C-9F3D-327DC4DFBB07_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "B4BD5D13-F9BF-4600-B0A4-1AAE4C328341_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "6F25BD24-0C88-493C-9F3D-327DC4DFBB07_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6F25BD24-0C88-493C-9F3D-327DC4DFBB07_stringValue"
     }
   ],
   "resizesContent": true,
@@ -117,7 +117,7 @@
   "symbolID": "8C1E1B49-BE49-4D2A-A644-AC46983F37F1",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

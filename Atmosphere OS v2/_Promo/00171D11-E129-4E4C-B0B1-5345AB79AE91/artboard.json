@@ -100,6 +100,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 3
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

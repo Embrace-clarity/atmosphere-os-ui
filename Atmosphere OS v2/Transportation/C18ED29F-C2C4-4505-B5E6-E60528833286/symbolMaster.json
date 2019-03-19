@@ -1,0 +1,224 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "D812A37B-E4B7-4696-865A-9D11F050A347",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 9571,
+  "clippingMaskMode": 0,
+  "do_objectID": "C18ED29F-C2C4-4505-B5E6-E60528833286",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13F727BD-27A1-4437-87D9-494847A65425",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87CC7911-A39E-48D7-9447-3638C002E623",
+    "height": 480,
+    "width": 340,
+    "x": 609,
+    "y": 340
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "4AD3393B-2599-4A90-BA0A-7A9CC5B68C18",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BDFD3617-2EBD-434C-B62E-700398457D69"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1707987E-202F-491A-98A1-CAE2DC2379B5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A4B395FF-14EE-45E4-884D-859DC052C912"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B11D928-3A89-4B1D-83F3-E61653FF6550"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6D247E9-2193-4191-9C20-5C6BBA75C1EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E68E8F6-9FF5-48EB-8A8C-B4E5A42AD2C6"
+    },
+    {
+      "class": "shapePath",
+      "id": "96127FDA-0981-46CD-A8D6-600D60D1374D"
+    },
+    {
+      "class": "shapePath",
+      "id": "37CFA5DC-1415-4DBF-996B-9A79BD013F9F"
+    },
+    {
+      "class": "group",
+      "id": "9D556FA7-D401-4B1F-BB1D-2196EF659AA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AD618AE-06B1-444E-AD15-D813E9866707"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 72,
+    "do_objectID": "EED3CD93-E88B-4B39-BEA4-EC50B345AD71",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 8,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 320
+  },
+  "name": "Transportation / Directions / Set",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5AD618AE-06B1-444E-AD15-D813E9866707_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7128CE9-4477-4C12-B899-8E972661DFC8_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1E68E8F6-9FF5-48EB-8A8C-B4E5A42AD2C6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B842492A-1C11-4DB4-B16C-481B30D2594C_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AD1CA38A-575B-4330-990A-8FD7E2666A3A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "38037E88-0BD3-4D87-B7E7-03891BCE899E_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AD1CA38A-575B-4330-990A-8FD7E2666A3A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "45208DE7-7CE3-458A-AB72-BBB7A27FD11D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "37CFA5DC-1415-4DBF-996B-9A79BD013F9F_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2B11D928-3A89-4B1D-83F3-E61653FF6550_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B842492A-1C11-4DB4-B16C-481B30D2594C_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A4B395FF-14EE-45E4-884D-859DC052C912_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E6D247E9-2193-4191-9C20-5C6BBA75C1EB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5BE308D5-D1D1-47C9-B6A1-E43B29456E65_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59F25853-2DA6-466B-A22F-AE75E5B70487",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC1B9402-2424-4347-A2D2-C9E6056912DC",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F7ACA39E-C621-445F-8124-8D48518D443E",
+    "guides": [
+    ]
+  }
+}

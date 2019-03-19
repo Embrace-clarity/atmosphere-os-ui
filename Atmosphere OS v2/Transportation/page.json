@@ -1,0 +1,86 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "42DCF6D2-99BC-4E44-A205-E0E323A9D8C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -469,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "2A01EF7D-3EEE-45B1-832E-41E610BDF587"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C18ED29F-C2C4-4505-B5E6-E60528833286"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "206ADDCA-3162-444A-9ECD-0C5215E47FD9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "01A8EECE-8132-48F2-A203-2738A24427E2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "663F5C46-F628-42FA-916B-AE92E46809E8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8F1130A7-C8AD-4ED8-BBD4-83281BC9E554"
+    }
+  ],
+  "name": "Transportation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -358,
+    "guides": [
+    ]
+  }
+}

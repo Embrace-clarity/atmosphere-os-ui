@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 581,
+  "changeIdentifier": 849,
   "clippingMaskMode": 0,
   "do_objectID": "1E3D2624-F9FC-449C-9222-C30223159FF0",
   "exportOptions": {
@@ -57,12 +57,21 @@
     },
     {
       "class": "shapePath",
-      "id": "1B4D11F6-4020-4296-ABE3-CE2D20317F5C"
+      "id": "55A6D244-A190-4E00-A754-513DD0737B0B"
+    },
+    {
+      "class": "text",
+      "id": "74D7D37D-9ECF-4367-BB5D-E93FA07C21A3"
     }
   ],
   "name": "Text Field/Active",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "74D7D37D-9ECF-4367-BB5D-E93FA07C21A3_stringValue"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -76,7 +85,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1B4D11F6-4020-4296-ABE3-CE2D20317F5C_layerStyle"
+      "overrideName": "55A6D244-A190-4E00-A754-513DD0737B0B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "74D7D37D-9ECF-4367-BB5D-E93FA07C21A3_textStyle"
     }
   ],
   "resizesContent": true,
@@ -92,6 +106,11 @@
     "windingRule": 1
   },
   "symbolID": "FC0728A2-04E5-4F1D-8981-A06273AB7F0C",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

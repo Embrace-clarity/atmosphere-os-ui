@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EB0D1B2-A0D5-4F46-891D-3BB3CC3638F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0986C38A-C617-4CB2-9634-D5543900CCD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70459730-56FF-471C-A939-7FA8EC061287",
+    "height": 68,
+    "width": 68,
+    "x": 127,
+    "y": 257
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Maps/Assets/Compass",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A01F993-2881-4FBA-BE62-9CD9443B495B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EFE6E09C-A1E0-437E-A4F4-00B483E30971",
+  "verticalSpacing": 0
+}
